@@ -20,4 +20,4 @@
 * [Highly Configurable Goose](mods/HiConfGoose.md)
 
 ## Tutorials and info
-* [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods
+* [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
