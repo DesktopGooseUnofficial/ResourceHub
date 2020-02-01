@@ -11,5 +11,5 @@
 ### Your mod may be removed from this document at any time, for any reason.
 
 * [Bobbie’s Modded Desktop Goose v0.2](mods/bobbies.md)
-* [NabMouse Mod](mods/NabMouse%20Mod.md)
+* [NabMouse Mod](mods/NabMouse Mod.md)
 * [Highly Configurable Goose](mods/HiConfGoose.md)
