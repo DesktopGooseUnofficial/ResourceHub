@@ -4,6 +4,8 @@
 
 # Welcome to the UNOFFICIAL repo collecting all kinds of data related to SamPerson's Desktop Goose!
 
+## Download the vanilla goose!
+[He's on itch.io](https://samperson.itch.io/desktop-goose).
 ## Mods:
 
 ### Download unapproved mods at your own risk, as they have not been reviewed.
