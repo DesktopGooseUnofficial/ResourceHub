@@ -12,3 +12,4 @@
 
 * [Bobbie’s Modded Desktop Goose v0.2](mods/bobbies.md)
 * [NabMouse Mod](mods/NabMouse%20Mod.md)
+* [Highly Configurable Goose](mods/HiConfGoose.md)
