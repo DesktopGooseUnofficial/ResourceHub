@@ -18,6 +18,7 @@
 * [Bobbie’s Modded Desktop Goose v0.2](mods/bobbies.md)
 * [NabMouse Mod](mods/NabMouse.md)
 * [Highly Configurable Goose](mods/HiConfGoose.md)
+* [Shaggys Name Mod](mods/ShaggysNameMod.md)
 
 ## Tutorials and info
 * [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
