@@ -1,4 +1,4 @@
-![Desktop Goose Resource Hub!](https://i.imgur.com/iE7BH5U.png)
+![Desktop Goose Resource Hub!](https://i.vgy.me/BlKE5L.gif)Desktop Goose Resource Hub!![Desktop Goose Resource Hub!](https://i.vgy.me/BlKE5L.gif)
 
 ---
 
