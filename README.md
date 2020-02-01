@@ -2,7 +2,7 @@
 
 ---
 
-# Welcome to the unofficial repo collecting all kinds of data related to SamPerson's DesktopGoose!
+# Welcome to the UNOFFICIAL repo collecting all kinds of data related to SamPerson's Desktop Goose!
 
 ## Mods:
 
