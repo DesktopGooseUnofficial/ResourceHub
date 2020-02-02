@@ -8,3 +8,5 @@ labelPRBasedOnFilePath:
     - info/**/*
   modpacks:
     - modpacks/**/*
+  tutorials:
+    - tutorials/**/*
