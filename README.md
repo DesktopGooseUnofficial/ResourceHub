@@ -19,9 +19,9 @@
 * [NabMouse Mod](mods/NabMouse.md)
 * [Highly Configurable Goose](mods/HiConfGoose.md)
 * [Shaggy's Name Mod](mods/ShaggysNameMod.md)
+* [Shaggy's Sound Control](mods/ShaggysSoundControl.md)
 * [fastgoos](mods/fastgoos.md)
 * [hatgoos](mods/hatgoos.md)
-* [Shaggy's Sound Control](mods/ShaggysSoundControl.md)
 
 ## Tutorials and info
 * [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
