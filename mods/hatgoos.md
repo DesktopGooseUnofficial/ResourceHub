@@ -40,6 +40,7 @@ The file should say "hatgoos_with_loader.zip" when you download it
 • Open up the newly created config file
 
 What you should see the last 4 lines the same on that notepad (Do not worry about the other configuration settings on that notepad):
+
 ![HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, and HatGoos.CustomHatPath=](https://cdn.discordapp.com/attachments/672263146240737280/673283260335521812/unknown.png "The last 4 line is what should show on your notepad")
 
 • Edit this part:
@@ -73,22 +74,29 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 ###FAQ
 
 **Q:** How do you unzip?
-**A:** If you have winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'
+
+**A:** If you have Winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'.
 
 **Q:** Can this work with other mods?
+
 **A:** Yes, it has been tested to work with other mods. If you saw the second image in the tutorial You will notice there's a bunch of other configuration settings on that notepad. That was tested with the second version of Highly Configurable Goose. It still works with its latest version as well.
 
 **Q:** So does exiting out 'run with mods.bat' exit out the goose program?
+
 **A:** Yes, that's correct. You also can still press the [esc] button to exit the program.
 
 **Q:** Can you change the position of the hat?
+
 **A:** Yes, you just need to edit the HatGoos.HatPosition=0.6 to any number, you can even have go negative.
 
 **Q:** What about making the hat bigger?
+
 **A:** You just need to edit the HatGoos.HorizontalSize=1.5 to any positive number.
 
 **Q:** I remember there was someone providing some sample custom made hats?
+
 **A:** Yes, it was made by one of the discord members [here](https://cdn.discordapp.com/attachments/672263146240737280/673426615228825600/Hats.zip).
 
 **Q:** Do the hats have to be 32x32? (Based on the Hats.zip provided from previous question)
+
 **A:** No, the hats can be larger or smaller.
