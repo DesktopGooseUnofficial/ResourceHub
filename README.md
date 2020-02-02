@@ -11,7 +11,7 @@
 
 ## Mods:
 
-### Download unapproved mods from the GitHub repo at your own risk, as they have not been reviewed.
+### Download unapproved mods at your own risk, as they have not been reviewed.
 
 ### Your mod may be removed from this document at any time, for any reason.
 If you want your mod taken down from this site, please notify us by saying you want it taken down in the #goose-mods channel: [discord link](https://discord.gg/pQnH4J3)
