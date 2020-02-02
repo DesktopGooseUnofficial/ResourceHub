@@ -1,6 +1,6 @@
 ---
 name: Mod request
-about: Suggest mods!
+about: Suggest a mod.
 title: Mod request
 labels: mods
 assignees: ''
