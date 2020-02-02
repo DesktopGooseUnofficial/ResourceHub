@@ -70,7 +70,7 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 ---
 
-###FAQ###
+###FAQ
 
 **Q:** How do you unzip?
 **A:** If you have winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'
