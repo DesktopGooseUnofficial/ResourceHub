@@ -34,6 +34,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 
 ## Modpacks:
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
+
 ## Tutorials and info
 * [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
 * [Modding Essentials](info/modCreation.md)
