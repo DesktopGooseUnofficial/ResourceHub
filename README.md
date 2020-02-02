@@ -13,6 +13,8 @@
 
 Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation).
 
+(if you're already blocking Google Analytics, consider unblocking us if you're fine with tracking!)
+
 ---
 
 ## Mods:
