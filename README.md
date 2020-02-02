@@ -11,7 +11,7 @@
 
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand.
 
-Try using something that can block trackers, we recommend uBlock Origin.
+Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation).
 
 ---
 
