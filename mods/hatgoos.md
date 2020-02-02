@@ -29,7 +29,7 @@ This mod allows you to have your goose wear hats it can also be run with other m
 The file should say "hatgoos_with_loader.zip" when you download it
 
 * Make sure to load it in the same area as the DesktopGoose.exe to unzip it should something like this
-![alt text](https://cdn.discordapp.com/attachments/672263146240737280/673282204100460554/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/672263146240737280/673282204100460554/unknown.png "The mods folder, three load bin files, and a run with mods.bats file should be in the same area as where the DesktopGoose.exe is placed along with your Assets folder.")
 
 * Delete the config file
 
@@ -41,7 +41,7 @@ The file should say "hatgoos_with_loader.zip" when you download it
 
 What you should see the last 4 lines the same on that notepad (Do not worry about the other configuration settings on that notepad):
 
-![HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, and HatGoos.CustomHatPath=](https://cdn.discordapp.com/attachments/672263146240737280/673283260335521812/unknown.png "The last 4 line is what should show on your notepad")
+![alt text](https://cdn.discordapp.com/attachments/672263146240737280/673283260335521812/unknown.png "The following 4 lines that will be added to your config file: HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, HatGoos.CustomHatPath=")
 
 * Edit this part:
 HatGoos.HatMode=Default
@@ -52,7 +52,7 @@ HatGoos.HatMode=Custom
 * Last but not least copy the location of the hat you want which you can do by clicking the search bar of your file manager and copying it.
 
 See here:
-![alt text](https://cdn.discordapp.com/attachments/672554163925942328/673297535464505381/unknown.png "The bar that lists out the section you are currently in for your file manager click that")
+![alt text](https://cdn.discordapp.com/attachments/672554163925942328/673297535464505381/unknown.png "An arrow is pointing the to a bar that describe the location of the image Example: This PC > Downloads > PC > Assets > Images.")
 
 **Note:** Don't forget to include the name of the image file
 
