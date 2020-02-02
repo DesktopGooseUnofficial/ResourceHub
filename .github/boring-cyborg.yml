@@ -4,3 +4,7 @@ labelPRBasedOnFilePath:
   # Add 'mods' to any changes within 'mods' folder or any subfolders
   mods:
     - mods/**/*
+  information:
+    - info/**/*
+  modpacks:
+    - modpacks/**/*
