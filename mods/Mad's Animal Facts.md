@@ -3,7 +3,7 @@
 ##### Features ######
 Facts about: cats,goose,monkeys,chickens,whales,llamas,turtles and more to come
 
-Link to it: https://anonfile.com/B4R7ecT2n0/Desktop_Goose_v0.21_rar
+Link to it: https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/mafm-1.0/Desktop_Goose_v0.21.rar
 
 List of ID's: 0 = goose  1 = whales  2 = cats  3 = llamas  4 = turtles  5 = monkeys  6 = chickens
 
