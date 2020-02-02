@@ -22,6 +22,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [Shaggy's Sound Control](mods/ShaggysSoundControl.md)
 * [fastgoos](mods/fastgoos.md)
 * [hatgoos](mods/hatgoos.md)
+* [Sneaky Goose](mods/SneakyGoose.md)
 
 ## Tutorials and info
 * [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
