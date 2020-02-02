@@ -54,7 +54,7 @@ HatGoos.HatMode=Custom
 See here:
 ![alt text](https://cdn.discordapp.com/attachments/672554163925942328/673297535464505381/unknown.png "The bar that lists out the section you are currently in for your file manager click that")
 
-Note: Don't forget to include the name of the image file
+**Note:** Don't forget to include the name of the image file
 
 * Paste it in HatGoos.CustomHatPath= 
 
@@ -67,9 +67,11 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 * Run the 'run with mods.bat' file once more and you're done!
 
-**Notice:** If you run the DesktopGoose.exe you will end up corrupting the file. You should be running with 'run with mods.bat' everytime. If the file does get corruptted, delete the config file and make new one using the 'run with mods.bat' again. Otherwise you may have to startover.
 
-**Note:** Also it can take a while for the goose to show up if you are using other mods. You can still press esc to exit the program. If you don't want hats then change HatGoos.HatMode= to HatGoos.HatMode=None in the Config file.
+
+**Notice:** If you run the DesktopGoose.exe you will end up corrupting the file. You should be running with 'run with mods.bat' everytime. If the file does get corrupted, delete the config file and make new one using the 'run with mods.bat' again. Otherwise you may have to startover.
+
+**Note:** Also it can take a while for the goose to show up if you are using certain mods. You can still press esc to exit the program. If you don't want hats then change HatGoos.HatMode= to HatGoos.HatMode=None in the Config file.
 
 ---
 
@@ -79,30 +81,44 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 **A:** If you have Winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'.
 
+
+
 **Q:** Can this work with other mods?
 
 **A:** Yes, it has been tested to work with other mods. If you saw the second image in the tutorial You will notice there's a bunch of other configuration settings on that notepad. That was tested with the second version of Highly Configurable Goose. It still works with its latest version as well.
+
+
 
 **Q:** So does exiting out 'run with mods.bat' exit out the goose program?
 
 **A:** Yes, that's correct. You also can still press the [esc] button to exit the program.
 
+
+
 **Q:** Can you change the position of the hat?
 
 **A:** Yes, you just need to edit the HatGoos.HatPosition=0.6 to any number, you can even have it go negative.
+
+
 
 **Q:** What about making the hat bigger?
 
 **A:** You just need to edit the HatGoos.HorizontalSize=1.5 to any positive number.
 
+
+
 **Q:** I remember there was someone providing some sample custom made hats?
 
 **A:** Yes, it was made by one of the discord members [here](https://cdn.discordapp.com/attachments/672263146240737280/673426615228825600/Hats.zip).
+
+
 
 **Q:** Do the hats have to be 32x32? (Based on the Hats.zip provided from previous question)
 
 **A:** No, the hats can be larger or smaller.
 
+
+
 **Q:** So I can only run with 'run with mods.bat' every I want to use it?
 
-**A:** Yes, as stated in the notice that running the DesktopGoose.exe you will end up corrupting the config file. If the config file does get corruptted, just delete that config file and make new one using the 'run with mods.bat' again.
+**A:** Yes, as stated in the notice that running the DesktopGoose.exe you will end up corrupting the config file. If the config file does get corrupted, just delete that config file and make new one using the 'run with mods.bat' again.
