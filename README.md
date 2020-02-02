@@ -7,6 +7,9 @@
 ## Download the vanilla goose!
 [He's on itch.io](https://samperson.itch.io/desktop-goose).
 
+⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand.
+
+Try using something that can block trackers, we recommend uBlock Origin.
 ---
 
 ## Mods:
