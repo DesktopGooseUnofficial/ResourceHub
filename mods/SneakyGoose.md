@@ -7,6 +7,7 @@
 > [Sneaky Goose](https://drive.google.com/file/d/1IAzNMMh1vIUWFNX0u10CdS1mG7WhiPiZ/view)
 
 ## Version info
-Desktop Goose Version: **v2.1**
-Mod Version: **v1**
-Author: mattx
+- Desktop Goose Version: **v2.1**
+- Mod Version: **v1**
+- Config Version: `5001`
+- Author: mattx
