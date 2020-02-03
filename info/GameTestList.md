@@ -10,12 +10,10 @@ Some games may ban the players while the desktop goose is being played in the ba
 
 ## List of Tested Games
 
-* CS:GO ✔️ 
-
-* Fortnite ✔️ 
-
-* Minecraft ✔️ 
-
-* Rainbow 6 Siege ❌ You WILL get banned if he grabs your mouse
-
-* Team Fortress 2 ✔️ (may get banned on some servers due to admins)
+| Game                     | Status | Note                                               |
+| ------------------------ |:------:|:---------------------------------------------------:|
+| CS:GO                    | ✔️    |                                                     |
+| Fortnite                 | ✔️    |                                                     |
+| Minecraft                | ✔️    |                                                     |
+| Rainbow 6 Siege          | ❌    | You WILL get banned if he grabs your mouse          |
+| Team Fortress 2          | ✔️    |(may get banned on some servers due to admins)       |
