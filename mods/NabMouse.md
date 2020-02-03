@@ -9,8 +9,8 @@ This goose's only purpose is to steal your cursor. It will stop at nothing to do
 
 # Video
 
-https://gyazo.com/f94025155945047390da9ca2f335f691
+[Watch](https://gyazo.com/f94025155945047390da9ca2f335f691)
 
 # File
 
-https://cdn.discordapp.com/attachments/672363951232778251/673242400948224020/NabMouse.rar
+[Download](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/nabmouse-1.0/NabMouse.rar)
