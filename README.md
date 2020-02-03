@@ -28,9 +28,11 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [Highly Configurable Goose](mods/HiConfGoose.md)
 * [Shaggy's Name Mod](mods/ShaggysNameMod.md)
 * [Shaggy's Sound Control](mods/ShaggysSoundControl.md)
+* [Shaggy's ImageCapFix](mods/ShaggysImageCapFix.md)
 * [fastgoos](mods/fastgoos.md)
 * [hatgoos](mods/hatgoos.md)
 * [Sneaky Goose](mods/SneakyGoose.md)
+* [Mad?'s Facts Mod](mods/MadsFacts.md)
 
 ## Modpacks:
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
@@ -38,6 +40,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 ## Tutorials and info
 * [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
 * [Modding Essentials](info/modCreation.md)
+* [Game List](info/GameTestList.md)
 
 ## FAQs
 ### How do I run multiple mods at the same time?
