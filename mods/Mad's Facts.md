@@ -1,5 +1,5 @@
-# Mad?'s Facts Mod (Previusly known as Mad?'s Animal Facts Mod)
-
+# Mad?'s Facts Mod
+Previusly known as Mad?'s Animal Facts Mod
 ####### Changelog:
 2020-02-02
 Completly reworked the mod and changed it.
