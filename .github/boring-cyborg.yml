@@ -1,0 +1,12 @@
+##### Labeler ########################################################################################################## 
+# Enable "labeler" for your PR that would add labels to PRs based on the paths that are modified in the PR.
+labelPRBasedOnFilePath:
+  # Add 'mods' to any changes within 'mods' folder or any subfolders
+  mods:
+    - mods/**/*
+  information:
+    - info/**/*
+  modpacks:
+    - modpacks/**/*
+  tutorials:
+    - tutorials/**/*
