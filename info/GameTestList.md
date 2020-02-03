@@ -21,6 +21,7 @@ Some games may ban the players while the desktop goose is being played in the ba
 | Overwatch                | ✔️    |                                                                                                  |
 | Rainbow 6 Siege          | ❌    | You WILL get banned if he grabs your mouse, Any other games that use BattleEye will most likely ban players using Desktop Goose |
 | Roblox                   | ✔️❌ | The "tornado" effect would most likely happen in first person. Some servers may have admin tools to ban people |
+| Runescape 2              | ❓     |                                                                                                  |
 | Team Fortress 2          | ✔️    |(It can move your mouse and will mess with the camera so you may get banned on some servers due to admins, VAC hasn't banned anyone for it yet)|
 | Terraria                 | ✔️    |                                                                                                  |
 | World of Warcraft        | ✔️    |                                                                                                  |
