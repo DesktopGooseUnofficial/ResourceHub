@@ -82,6 +82,10 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 **A:** If you have Winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'.
 
 
+**Q: How do you open the config with Notepad?**
+**A:** You right click that config file and select "Open with". Then pick Notepad.
+
+
 
 **Q: Can this work with other mods?**
 
@@ -116,6 +120,12 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 **Q: Do the hats have to be 32x32? (Based on the Hats.zip provided from previous question)**
 
 **A:** No, the hats can be larger or smaller.
+
+
+
+**Q: Do the hats have to be pixel? Can I only use the hats in that file?**
+
+**A:** No, you can add any kind of hat you want.
 
 
 
