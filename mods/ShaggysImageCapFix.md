@@ -1,7 +1,7 @@
-# Shaggy's Sound Control
+# Shaggy's Image Cap Fix
 
 ## Features:
-Control the sounds which the goose plays
+Fixes the unintentional image cap in the memes folder. Also fixes some memory issues caused by loading in alot of images
 
 Get it: [Shaggy's Image Cap Fix](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/icf-1.0/ImageCapFixGoose.zip)
 
