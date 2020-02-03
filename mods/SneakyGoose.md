@@ -11,3 +11,15 @@
 - Mod Version: **v1**
 - Config Version: `5001`
 - Author: mattx
+
+---
+### Sneaky Goose Tutorial with Visuals
+The goose will try to grab your mouse very slowly. The goose will get away with it, also slowly.
+
+* First download the mod (It should be called Sneaky Goose.zip)
+
+* Then extract the file. (A folder will appear, click on it.)
+
+![You should see the following files appear inside the Sneaky Goose folder: Assets, Config, and Goose Desktop](https://cdn.discordapp.com/attachments/672250241772290068/673652230716653588/unknown.png "You should see the following files appear inside the Sneaky Goose folder: Assets, Config, and Goose Desktop")
+
+* You can run the GooseDesktop.exe and that's it
