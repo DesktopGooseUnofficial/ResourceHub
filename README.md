@@ -28,6 +28,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [Highly Configurable Goose](mods/HiConfGoose.md)
 * [Shaggy's Name Mod](mods/ShaggysNameMod.md)
 * [Shaggy's Sound Control](mods/ShaggysSoundControl.md)
+* [Shaggy's ImageCapFix](mods/ShaggysImageCapFix.md)
 * [fastgoos](mods/fastgoos.md)
 * [hatgoos](mods/hatgoos.md)
 * [Sneaky Goose](mods/SneakyGoose.md)
