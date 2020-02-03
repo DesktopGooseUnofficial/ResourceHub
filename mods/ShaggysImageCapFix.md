@@ -1,4 +1,4 @@
-# Shaggy's Sound Control
+# Shaggy's Image Cap Fix
 
 ## Features:
 Fixes the unintentional image cap in the memes folder. Also fixes some memory issues caused by loading in alot of images
