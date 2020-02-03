@@ -28,7 +28,7 @@ This mod allows you to have your goose wear hats it can also be run with other m
 
 The file should say "hatgoos_with_loader.zip" when you download it
 
-* Make sure to load it in the same area as the DesktopGoose.exe to unzip it should something like this
+* Make sure to load it in the same area as the DesktopGoose.exe to unzip, it should look something like this
 ![The mods folder, three load bin files, and a run with mods.bats file should be in the same area as where the DesktopGoose.exe is placed along with your Assets folder.](https://cdn.discordapp.com/attachments/672263146240737280/673282204100460554/unknown.png "The mods folder, three load bin files, and a run with mods.bats file should be in the same area as where the DesktopGoose.exe is placed along with your Assets folder.")
 
 * Delete the config file
@@ -83,6 +83,7 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 
 **Q: How do you open the config with Notepad?**
+
 **A:** You right click that config file and select "Open with". Then pick Notepad.
 
 

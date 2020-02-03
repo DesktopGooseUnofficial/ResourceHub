@@ -28,13 +28,13 @@ You can turn off things like the sound of its honk, mud splash, bite, and its ta
 
 ![There are 4 lines in that notepad that says: WalkSound=True, HonkSound=True, BiteSound=True, and MudSquish=True](https://cdn.discordapp.com/attachments/672554163925942328/673635780190535700/unknown.png "Notice the 4 lines in that notepad that says: WalkSound=True, HonkSound=True, BiteSound=True, and MudSquish=True")
 
-* To modify the Tapping feet sound off, edit WalkSound=True to WalkSound=False
+* To turn the Tapping feet sound off, edit WalkSound=True to WalkSound=False
 
-* To modify the Honk sound off, edit HonkSound=True to HonkSound=False
+* To turn the Honk sound off, edit HonkSound=True to HonkSound=False
 
-* To modify the Bite sound off, edit BiteSound=True to BiteSound=False
+* To turn the Bite sound off, edit BiteSound=True to BiteSound=False
 
-* To modify the Mud Splash sound off, edit MudSquish=True to MudSquish=False
+* To turn the Mud Splash sound off, edit MudSquish=True to MudSquish=False
 
 * Remember to save your Config file
 
