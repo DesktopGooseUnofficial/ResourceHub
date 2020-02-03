@@ -1,10 +1,10 @@
 # Mad?'s Facts Mod
 Previusly known as Mad?'s Animal Facts Mod
 ####### Changelog:
-2020-02-02
-Completly reworked the mod and changed it.
-2020-02-02
-First Release.
+#2020-02-02
+#Completly reworked the mod and changed it.
+#2020-02-02
+#First Release.
 
 ##### Features ######
 Facts about: humans, goose and more to come!
