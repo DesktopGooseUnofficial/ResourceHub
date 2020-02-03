@@ -31,6 +31,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [fastgoos](mods/fastgoos.md)
 * [hatgoos](mods/hatgoos.md)
 * [Sneaky Goose](mods/SneakyGoose.md)
+* [Mad?'s Facts Mod](mods/MadsFacts.md)
 
 ## Modpacks:
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
