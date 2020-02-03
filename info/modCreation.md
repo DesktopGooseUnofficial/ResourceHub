@@ -17,8 +17,7 @@ public bool CanAttackAtRandom = true;
 
 This only applies to the `TheGoose.cs` file.
 
-- Line 531, 565, 567: Add = after *
-- Line 532: Comment out
+- Line 531, 565, 567, and 532: Comment out
 
 ## Notepad phrases
 
