@@ -1,18 +1,18 @@
-# Mad?'s Animal Facts Mod
+# Mad?'s Facts Mod
 
 ##### Features ######
-Facts about: cats,goose,monkeys,chickens,whales,llamas,turtles and more to come
+Facts about: humans, goose and more to come!
 
-Link to it: https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/mafm-1.0/Desktop_Goose_v0.21.rar
+Link to it: https://github.com/KleiFrickHeckDeck264/DesktopGoose-Mods/archive/master.zip
 
-List of ID's: 0 = goose  1 = whales  2 = cats  3 = llamas  4 = turtles  5 = monkeys  6 = chickens
+List of ID's: 0 = goose  1 = human
 
 Goose version: v0.21
 
 Made by Mad?#7374
 
 ---
-### Mad?'s Animal Facts Tutorial with Visuals
+### Mad?'s Facts Tutorial with Visuals
 Mod has the goose bring you many random facts about various types of animals
 
 * First download the mod it should be called (Desktop_Goose_v0.21.rar)
@@ -33,15 +33,10 @@ Mod has the goose bring you many random facts about various types of animals
 
 * To change the animal facts, please edit FactsMode= to a number that matches the animal fact you want to see appear.
 
-| Animals       | ID            |
+| Facts about   | ID            |
 | ------------- |:-------------:|
 | Goose         | 0             |
-| Whales        | 1             |
-| Cats          | 2             |
-| Llamas        | 3             |
-| Turtles       | 4             |
-| Monkeys       | 5             |
-| Chickens      | 6             |
+| Human         | 1             |
 
 * Remember to save your Config file
 
