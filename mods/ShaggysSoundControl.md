@@ -3,13 +3,13 @@
 ## Features:
 Control the sounds which the goose plays.
 
-Get it: [Shaggy's Sound Control](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/gsc-3.0/GooseSoundControl.zip)
+Get it: [Shaggy's Sound Control](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/gsc-3.1/GooseSoundControl.zip)
 
 Goose Version: **v0.21**
 
 Version ID: **897795**
 
-Mod Version: **v3.0**
+Mod Version: **v3.1**
 
 Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
