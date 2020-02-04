@@ -1,3 +1,4 @@
+
 # Games with Goose
 **Notice:** At the moment there is someone testing games to see if games will ban users that use the Goose.
 
@@ -27,4 +28,5 @@ Some games may ban the players while the Desktop Goose is being used in the back
 | Space Engineers          | ✔️❌  | It CAN and WILL make you crash your ship.|
 | Team Fortress 2          | ✔️    | It can move your mouse and will mess with the camera so you may get banned on some servers due to admins, VAC hasn't banned anyone for it yet |
 | Terraria                 | ✔️    |                                                                                                  |
-| World of Warcraft        | ✔️    |                                                                                                  |
+| World of Warcraft        | ✔️    |
+| Garry's Mod| ✔️❌| Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind.                                                                                                 |
