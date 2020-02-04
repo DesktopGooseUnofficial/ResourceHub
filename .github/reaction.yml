@@ -6,9 +6,7 @@ exemptLabels: []
 
 # Replace matching comments with this message, `{comment-author}` is an
 # optional placeholder. Set to `false` to disable
-reactionComment: >
-  :wave: @{comment-author}, would you like to leave
-  a [reaction](https://git.io/vhzhC) instead?
+reactionComment: false
 
 # Limit to only `issues` or `pulls`
 # only: issues
