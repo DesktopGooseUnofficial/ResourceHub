@@ -79,15 +79,7 @@ Below is a chart that should tell you what kind of setting are there in your con
 
 * Remember to save your config file (You can exit your Notepad) 
 
-* **Note:** If you don't want to have reddit memes, You can exit the Desktop Goose window. Then run the GooseDesktop.exe and click [Release the Goose]. Otherwise, you can't see any new changes.
-
-* Look back at the Desktop Goose window again (This next part is how to pull up reddit memes)
-
-![You should see a window showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%202.png "You should see a window showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#")
-
-* Select [Pull Memes from Reddit] to download the Reddit memes
-
-![You should see a window pop up showing this: Pulling Images with a loading bar](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%203.png "You should see a window pop up showing this: Pulling Images with a loading bar")
+* You can exit the Desktop Goose window. Then run the GooseDesktop.exe and click [Release the Goose]. Otherwise, you can't see any new changes.
 
 ---
 
