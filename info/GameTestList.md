@@ -30,3 +30,4 @@ Some games may ban the players while the Desktop Goose is being used in the back
 | Terraria                 | ✔️    |                                                                                                  |
 | World of Warcraft        | ✔️    |
 | Garry's Mod| ✔️❌| Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind.                                                                                                 |
+| Mordhau |  ✔️    | |
