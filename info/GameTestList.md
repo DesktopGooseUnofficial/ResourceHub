@@ -5,9 +5,9 @@ Some games may ban the players while the desktop goose is being played in the ba
 
 | Symbol | Meaning                        |
 | ------ |:------------------------------:|
-| ✔️    | Okay to play the goose          |
+| ✔️    | Okay to play using the goose          |
 | ❌    | Will get banned using the goose |
-| ❓     | Further testing is needed    |
+| ❓     | Unknown, further testing is needed    |
 
 ## List of Tested Games
 
