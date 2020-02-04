@@ -19,7 +19,7 @@ Mod has the goose bring you many random facts about various types of animals
 
 * Then extract the file. (A folder will appear, click on it.)
 
-![You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop](https://cdn.discordapp.com/attachments/672263146240737280/673642920208891904/unknown.png "You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop")
+![You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Shaggy%20Sound%20Control/part%201.png "You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop")
 
 * You can run the GooseDesktop.exe and that's it.
 
@@ -29,7 +29,7 @@ Mod has the goose bring you many random facts about various types of animals
 
 * Open the config file in Notepad (there should be one line that's important)
 
-![The line that you should see in your Config file is: FactsMode=0](https://cdn.discordapp.com/attachments/672250241772290068/673665762753511434/unknown.png)
+![The line that you should see in your Config file is: FactsMode=0](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Mad's%20Fact/Part%202.png "The line that you should see in your Config file is: FactsMode=0")
 
 * To change the animal facts, please edit FactsMode= to a number that matches the animal fact you want to see appear.
 

@@ -22,11 +22,11 @@ You can turn off the sound of its honk, mud splash, bite, and its tapping feet.
 
 * Then extract the file. (A folder will appear, click on it.)
 
-![You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop](https://cdn.discordapp.com/attachments/672263146240737280/673642920208891904/unknown.png "You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop")
+![You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Shaggy%20Sound%20Control/part%201.png "You should see the following files appear inside the GooseSoundControl Folder: Assets, Changelog, Config, and Goose Desktop")
 
 * Open the config file in Notepad (there should be 4 lines that affect the sounds)
 
-![There are 4 lines in that notepad that says: WalkSound=True, HonkSound=True, BiteSound=True, and MudSquish=True](https://cdn.discordapp.com/attachments/672554163925942328/673635780190535700/unknown.png "Notice the 4 lines in that notepad that says: WalkSound=True, HonkSound=True, BiteSound=True, and MudSquish=True")
+![There are 4 lines in that notepad that says: WalkSound=True, HonkSound=True, BiteSound=True, and MudSquish=True](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Shaggy%20Sound%20Control/part%202.png "Notice the 4 lines in that notepad that says: WalkSound=True, HonkSound=True, BiteSound=True, and MudSquish=True")
 
 * To turn the Tapping feet sound off, edit WalkSound=True to WalkSound=False
 
