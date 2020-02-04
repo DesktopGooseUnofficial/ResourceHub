@@ -7,7 +7,7 @@ Some games may ban the players while the desktop goose is being played in the ba
 | ------ |:------------------------------:|
 | ✔️    | Okay to play the goose          |
 | ❌    | Will get banned using the goose |
-| ❓     | Games Needs further Testing    |
+| ❓     | Further testing is needed    |
 
 ## List of Tested Games
 
