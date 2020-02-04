@@ -17,7 +17,7 @@ Try using something that can block trackers, we recommend [uBlock Origin](https:
 
 ---
 
-## Mods:
+## Mods
 
 ### Download unapproved mods at your own risk, as they have not been reviewed.
 
@@ -34,7 +34,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [Sneaky Goose](mods/SneakyGoose.md)
 * [Mad?'s Facts Mod](mods/MadsFacts.md)
 
-## Modpacks:
+## Modpacks
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
 
 ## Tutorials and info
