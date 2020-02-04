@@ -1,6 +1,6 @@
 # Info for mod creators
 
-The following assumes you are using dnSpy.
+The following assumes you are using *dnSpy*.
 
 ## Use a different version for the config
 
