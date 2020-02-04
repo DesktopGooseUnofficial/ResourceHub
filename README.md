@@ -17,7 +17,7 @@ Try using something that can block trackers, we recommend [uBlock Origin](https:
 
 ---
 
-## Mods
+## Mods (no mods for Mac yet!)
 
 ### Download unapproved mods at your own risk, as they have not been reviewed.
 
