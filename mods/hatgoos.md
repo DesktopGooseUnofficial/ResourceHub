@@ -1,4 +1,4 @@
-# hatgoos
+# hatgoos 🎩
 
 ## Features:
 Give your goose a hat! You can set your own hat, or rock the default.

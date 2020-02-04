@@ -1,4 +1,4 @@
-# Shaggy's Sound Control
+# Shaggy's Sound Control 🔕
 
 ## Features:
 Control the sounds which the goose plays.

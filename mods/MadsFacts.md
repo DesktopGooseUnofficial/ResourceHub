@@ -11,6 +11,9 @@ Goose version: v0.21
 
 Made by Mad?#7374
 
+Changelog:
+**2020-02-03:** Changed task selection to default
+
 ---
 ### Mad?'s Facts Tutorial with Visuals
 Mod has the goose bring you many random facts about various types of animals
