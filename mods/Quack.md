@@ -1,6 +1,7 @@
 # Quack Modloader 🦆
 
 ## Features:
+
 Ever hankered for a goose modloader in Lua? Well, here you go!
 
 Get it: [Quack Lua](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/quack-v0/QUACK_LUA.zip)
@@ -27,6 +28,7 @@ Functions:
 ---
 
 ## Color Table
+
 ![Has a list of colors that can be used for the goose's color palette here https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/media/art-color-table.png?view=netframework-4.8 "A  list of color that can be used")
 
 If you are unable to see the image you can click [here](https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8)

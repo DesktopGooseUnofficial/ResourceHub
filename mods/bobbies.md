@@ -1,7 +1,8 @@
 # Bobbie’s Modded Desktop Goose v0.2:
 
 ## Features:
-* Custom Goose Colors,
+
+* Custom Goose Colors
 * Rainbow Goose,
 * Press F to honk
 

@@ -1,6 +1,7 @@
 # Highly Configurable Goose 🛠
 
 ## Features:
+
 Change goose speed, goose color, goose notes, and even evict geese at speeds like never before! (well, you can change the evict text too.) Name your goose and customize the nametag! There is also a pre-goose window for configuration.
 
 You can now **pull images from Reddit** to the memes folder in-app (yes, you can change the subreddit), and categorize memes and disable different meme folders!
@@ -77,13 +78,14 @@ Below is a chart that should tell you what kind of setting are there in your con
 | UseMemesThree=            | If the Goose will use memes from the Memes3 folder                                                       |
 | UseMemesReddit=           | If the Goose will use memes from the MemesReddit folder                                                  |
 
-* Remember to save your config file (You can exit your Notepad) 
+* Remember to save your config file (You can exit your Notepad)
 
 * You can exit the Desktop Goose window. Then run the GooseDesktop.exe and click [Release the Goose]. Otherwise, you can't see any new changes.
 
 ---
 
 ## Color Table
+
 ![Has a list of colors that can be used for the goose's color palette here https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/media/art-color-table.png?view=netframework-4.8 "A  list of color that can be used")
 
 If you are unable to see the image you can click [here](https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8)

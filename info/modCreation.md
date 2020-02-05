@@ -9,6 +9,7 @@ Go to `GooseConfig.ConfigSettings.ReadFileIntoConfig`, edit the method with CTRL
 ## Adding a config setting
 
 Go to `GooseConfig.ConfigSettings.ConfigSettings()`, edit the method and add variables such as:
+
 ```csharp
 public bool CanAttackAtRandom = true;
 ```
@@ -23,8 +24,8 @@ This only applies to the `TheGoose.cs` file.
 
 Notepad phrases can be edited in `TheGoose.SimpleTextForm.possiblePhrases`
 You can pull them from a file with:
+
 ```csharp
 using System.IO;
 File.ReadAllLines(Program.GetPathToFileInAssembly("phrases.txt"))
 ```
-

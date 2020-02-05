@@ -1,6 +1,7 @@
 # Shaggy's Sound Control 🔕
 
 ## Features:
+
 Control the sounds which the goose plays.
 
 Get it: [Shaggy's Sound Control](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/gsc-3.1/GooseSoundControl.zip)
@@ -16,6 +17,7 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 ---
 
 ### Shaggy's Sound Control Tutorial with Visuals
+
 You can turn off the sound of its honk, mud splash, bite, and its tapping feet.
 
 * First download the mod, it should be called GooseSoundControl.zip

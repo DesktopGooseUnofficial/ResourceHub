@@ -1,5 +1,6 @@
 
 # Games with Goose
+
 **Notice:** At the moment there is someone testing games to see if games will ban users that use the Goose.
 
 Some games may ban the players while the Desktop Goose is being used in the background.

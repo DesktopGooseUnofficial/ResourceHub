@@ -1,6 +1,7 @@
 # Mad?'s Facts Mod
 
-##### Features ######
+## Features
+
 Facts about: humans, goose and more to come!
 
 Link to it: [Download](https://github.com/KleiFrickHeckDeck264/DesktopGoose-Mods/archive/master.zip)
@@ -15,7 +16,9 @@ Changelog:
 **2020-02-03:** Changed task selection to default
 
 ---
+
 ### Mad?'s Facts Tutorial with Visuals
+
 Mod has the goose bring you many random facts about various types of animals
 
 * First download the mod it should be called (Desktop_Goose_v0.21.rar)
