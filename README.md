@@ -41,7 +41,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 ### Modpacks 📦
 
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
-* [Shaggy's ModPack(GUI)](modpacks/ShaggysModPack(GUI).md)
+* [Shaggy's ModPack(GUI)](modpacks/ShaggysModPack_GUI.md)
 
 ## Tutorials and info 💁‍♂️
 
