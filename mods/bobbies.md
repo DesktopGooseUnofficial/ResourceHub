@@ -31,7 +31,7 @@ Below is a chart that should tell you what kind of setting are there in your con
 | Setting                   | Function                                                                                                 |
 |---------------------------|:--------------------------------------------------------------------------------------------------------:|
 | PressFToHonk=             | If pressing the [F] key will make the goose Honk                                                         |
-| RainbowGoose=             | If the Goose will change colors (Make CustomGooseColorEnabled= set to False) **⚠️Warning:** This will likely trigger epilepsy. Take caution before changing the settings       |
+| RainbowGoose=             | If the Goose will change colors (Make CustomGooseColorEnabled= set to False) **⚠️Warning:** This will likely trigger seisure for those who may be photosensitive epilepsy. Take caution before changing the settings       |
 | CustomGooseColorEnabled=  | If you can set the Goose's body color to one color                                                       |
 | CustomGooseColorHexCode=  | Determines the color of the Goose's body (See Further Below for Color Table)                             |
 
