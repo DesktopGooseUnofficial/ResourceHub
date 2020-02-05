@@ -65,11 +65,11 @@ Below is a chart that should tell you what kind of setting are there in your con
 | GooseEvictText=           | What the text will say on the bar when you are evicting the Goose                                        |
 | GooseNameTagEnabled=      | If you want to see name tag on goose                                                                     |
 | GooseName=                | Name of the Goose that will appear on name tag                                                           |
-| GooseNameTagLower=        | Nothing                                                                                                  |
+| GooseNameTagLower=        | How low the Goose's nametag is.                                                                          |
 | GooseNameTagColor=        | Determines the color of the nametag that is holding the name of the Goose                                |
-| GooseNameTagLeft=         | Nothing                                                                                                  |
+| GooseNameTagLeft=         | How far left the Goose's nametag is.                                                                     |
 | GooseNameTagTextColor=    | Determines the color of the name of the Goose written on the nametag                                     |
-| GooseNameTagPadding=      | Nothing                                                                                                  |
+| GooseNameTagPadding=      | How thick the surrounding space of the Goose's nametag is.                                               |
 | RedditMemeSourceSub=      | The subreddit memes the Goose will pull from                                                             |
 | AppSleepMillisDelay=      | Heavily affects speed of Goose and evict speed (higher values will slow it down)                         |
 | UseMemesOne=              | If the Goose will use memes from the Memes1 folder                                                       |
