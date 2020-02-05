@@ -59,3 +59,8 @@ If you want your mod taken down from this site, please notify us by saying you w
 ### How do I run multiple mods at the same time?
 
 There is currently no way to conveniently use multiple mods at once, other than making or using a modpack.
+
+### How can I get notification when a new mod releases?
+
+One way of doing it (assuming you have a GitHub account) is going to our GitHub repository (can be found at the left side or the top depending on what device you have) and doing this:
+![](https://vukand12.is-inside.me/Y2MwBOQD.gif)
