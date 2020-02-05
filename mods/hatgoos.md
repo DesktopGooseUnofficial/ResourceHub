@@ -103,7 +103,7 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 **Q: I remember there was someone providing some sample custom made hats?**
 
-**A:** Yes, it was made by one of the discord members [here](https://cdn.discordapp.com/attachments/672263146240737280/673426615228825600/Hats.zip).
+**A:** Yes, it was made by one of the discord members [here](https://cdn.discordapp.com/attachments/672263146240737280/674417818741112832/Hats.zip).
 
 **Q: Do the hats have to be 32x32? (Based on the Hats.zip provided from previous question)**
 
