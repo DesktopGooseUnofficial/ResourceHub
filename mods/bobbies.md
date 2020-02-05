@@ -35,6 +35,9 @@ Below is a chart that should tell you what kind of setting are there in your con
 | CustomGooseColorEnabled=  | If you can set the Goose's body color to one color                                                       |
 | CustomGooseColorHexCode=  | Determines the color of the Goose's body (See Further Below for Color Table)                             |
 
+* Remember to save your Config file
+
+* Then you are done! You can run the GooseDesktop.exe
 ---
 ## Color Table
 
