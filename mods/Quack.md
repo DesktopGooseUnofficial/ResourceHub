@@ -10,7 +10,7 @@ Get it: [Quack Lua](https://github.com/DesktopGooseUnofficial/ResourceHub/releas
 
 Goose Version: **v0.21**
 
-Mod Version: **v0**
+Mod Version: **v0.1**
 
 Author: **easy bake oven#6781**
 
@@ -32,7 +32,6 @@ Functions:
 | MessageBoxIconAsk | (string message, string icon) returns bool                                      | Same as MessageBoxAsk, but with an icon.                                  |
 | MessageBoxInput   | (string message, string default) returns string                                 | Asks user for text input with message.                                    |
 
-
 ---
 
 ## Color Table
@@ -43,11 +42,11 @@ If you are unable to see the image you can click [here](https://docs.microsoft.c
 
 ## Icons
 
-Error: 
+Error:
 ![Error icon](https://docs.microsoft.com/en-us/dotnet/media/messagebox-error.png?view=netframework-4.8 "Error icon")
 
-Warning: 
+Warning:
 ![Warning icon](https://docs.microsoft.com/en-us/dotnet/media/messagebox-warning.png?view=netframework-4.8 "Warning icon")
 
-Information: 
+Information:
 ![Information icon](https://docs.microsoft.com/en-us/dotnet/media/messagebox-information.png?view=netframework-4.8 "Information icon")
