@@ -3,7 +3,7 @@
 ## Features:
 Ever hankered for a goose modloader in Lua? Well, here you go!
 
-Get it: [Quack Lua](https://drive.google.com/file/d/1--7bukvut_oVdFirLjye0qWR9KwXE2oO/view)
+Get it: [Quack Lua](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/quack-v0/QUACK_LUA.zip)
 
 **⚠ SUPER EARLY ALPHA**. CONTACT MOD AUTHOR IF ISSUES OR SUGGESTIONS/QUESTIONS APPEAR.
 
