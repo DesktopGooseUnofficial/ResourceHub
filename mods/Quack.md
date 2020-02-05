@@ -1,11 +1,11 @@
-# Quack Modloader 🦆 !WARNING: ALPHA UNFINISHED!
+# Quack Modloader 🦆
 
 ## Features:
 Ever hankered for a goose modloader in Lua? Well, here you go!
 
 Get it: [Quack Lua](https://drive.google.com/file/d/1--7bukvut_oVdFirLjye0qWR9KwXE2oO/view)
 
-**SUPER EARLY ALPHA**. CONTACT MOD AUTHOR IF ISSUES OR SUGGESTIONS/QUESTIONS APPEAR.
+**⚠ SUPER EARLY ALPHA**. CONTACT MOD AUTHOR IF ISSUES OR SUGGESTIONS/QUESTIONS APPEAR.
 
 Goose Version: **v0.21**
 
