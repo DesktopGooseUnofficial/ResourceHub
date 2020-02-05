@@ -31,4 +31,3 @@ Some games may ban the players while the Desktop Goose is being used in the back
 | Team Fortress 2          | ✔️    | It can move your mouse and will mess with the camera so you may get banned on some servers due to admins, VAC hasn't banned anyone for it yet |
 | Terraria                 | ✔️    |                                                                                                  |
 | World of Warcraft        | ✔️    |                                                                                                |
-| Mordhau |  ✔️    | |
