@@ -24,11 +24,11 @@ Author: **easy bake oven#6781**
 
 **Note:** If you don't extract, windows throws it into some random temporary appdata folder
 
-![You should see the following: Asset folder, config file, GooseDesktop.exe, Microsoft.CSharp.dll, Newtonsoft.Json.dll, and your CONFIG_GOOSE_zip file](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%201.png "You should see the following: Asset folder, config file, GooseDesktop.exe, Microsoft.CSharp.dll, Newtonsoft.Json.dll, and your CONFIG_GOOSE_zip file")
+![You should see the following: Asset folder, config file, GooseDesktop.exe, Microsoft.CSharp.dll, Newtonsoft.Json.dll, and your CONFIG_GOOSE_zip file](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%201.png "You should see the following: Asset folder, config file, GooseDesktop.exe, Microsoft.CSharp.dll, Newtonsoft.Json.dll, and your CONFIG_GOOSE_zip file")
 
 * Run the GooseDesktop.exe
 
-![You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%202.png "You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#")
+![You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%202.png "You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#")
 
 * You can click [Release The Goose] to run the goose program. That's it.
 
@@ -38,11 +38,11 @@ Author: **easy bake oven#6781**
 
 * Try to run the GooseDesktop.exe Again
 
-![You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%202.png "You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#")
+![You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%202.png "You should see a window pop up showing this: Desktop Goose, Highly Configurable Goose Mod, (Open config.goos), (Open GooseNote.txt), (Pull Memes from Reddit), (Release the Goose), (Exit), (Good goose), v#")
 
 * Select Open config.goos (This will open the config file in Notepad)
 
-![You should see a long list of configurable settings in that notepad](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%204.png "You should see a long list of configurable settings in that notepad")
+![You should see a long list of configurable settings in that notepad](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Highly%20Configurable%20Goose/part%204.png "You should see a long list of configurable settings in that notepad")
 
 Below is a chart that should tell you what kind of setting are there in your config file. Function will tell you what happens if you were to manipulate that setting,
 
