@@ -36,9 +36,10 @@ Below is a chart that should tell you what kind of setting are there in your con
 | CustomGooseColorHexCode=  | Determines the color of the Goose's body (See Further Below for Color Table)                             |
 
 * Remember to save your Config file
-
 * Then you are done! You can run the GooseDesktop.exe
+
 ---
+
 ## Color Table
 
 ![Has a list of colors that can be used for the goose's color palette here https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/media/art-color-table.png?view=netframework-4.8 "A  list of color that can be used")
