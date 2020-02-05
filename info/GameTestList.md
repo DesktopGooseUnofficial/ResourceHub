@@ -4,7 +4,9 @@
 
 Some games may ban the players while the Desktop Goose is being used in the background.
 
-**Play at your own risk as games may update their anticheats at any time.**
+These are subject to change at any time, so keep your eye out!
+
+**We take no responsibility for any bans, and these games may start issuing bans at any time.**
 
 | Symbol | Meaning                        |
 | ------ |:------------------------------:|
@@ -18,7 +20,7 @@ Some games may ban the players while the Desktop Goose is being used in the back
 | ------------------------ |:------:|:------------------------------------------------------------------------------------------------:|
 | CS:GO                    | ✔️    |                                                                                                  |
 | Fortnite                 | ❓     |  
-| Garry's Mod| ✔️❌| Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
+| Garry's Mod| ✔️❌|:page_facing_up: Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
 | Hearthstone              | ✔️    |                                                                                                  |
 | League of Legends        | ❓     |                                                                                                  |
 | Minecraft                | ✔️❌ | Multiplayer is discouraged, some people have got it to grab the mouse and move the camera causing what most call a "tornado" which admins could ban for. Singleplayer is fine though. |
