@@ -21,7 +21,7 @@ These are subject to change at any time, so keep your eye out!
 | ------------------------ |:------:|:------------------------------------------------------------------------------------------------:|
 | CS:GO                    | ✔️    |                                                                                                  |
 | Fortnite                 | ❓     |  
-| Garry's Mod| ✔️❌|:page_facing_up: Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
+| Garry's Mod| ✔️❌|Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
 | Hearthstone              | ✔️    |                                                                                                  |
 | League of Legends        | ❓     |                                                                                                  |
 | Minecraft                | ✔️❌ | Multiplayer is discouraged, some people have got it to grab the mouse and move the camera causing what most call a "tornado" which admins could ban for. Singleplayer is fine though. |
