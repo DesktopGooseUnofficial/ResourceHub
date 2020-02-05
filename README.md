@@ -1,3 +1,4 @@
+﻿
 ![Desktop Goose Resource Hub!](https://i.imgur.com/iE7BH5U.png)
 
 ---
@@ -35,10 +36,12 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [hatgoos](mods/hatgoos.md)
 * [Sneaky Goose](mods/SneakyGoose.md)
 * [Mad?'s Facts Mod](mods/MadsFacts.md)
+* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack Modloader](mods/Quack.md) 
 
 ### Modpacks 📦
 
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
+* [Shaggy's ModPack(GUI)](modpacks/ShaggysModPack(GUI))
 
 ## Tutorials and info 💁‍♂️
 
