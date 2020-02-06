@@ -1,6 +1,6 @@
 # Sneaky Goose 🤫
 
-## Features:
+## Features
 
 * Have the goose slowly approach your mouse cursor
 * and/or move it away slowly

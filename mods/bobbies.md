@@ -1,6 +1,6 @@
-# Bobbie’s Modded Desktop Goose v0.2:
+# Bobbie’s Modded Desktop Goose v0.2
 
-## Features:
+## Features
 
 * Custom Goose Colors
 * Rainbow Goose,

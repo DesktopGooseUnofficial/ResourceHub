@@ -1,6 +1,6 @@
 # Highly Configurable Goose 🛠
 
-## Features:
+## Features
 
 Change goose speed, goose color, goose notes, and even evict geese at speeds like never before! (well, you can change the evict text too.) Name your goose and customize the nametag! There is also a pre-goose window for configuration.
 
@@ -16,7 +16,7 @@ Author: **easy bake oven#6781**
 
 ---
 
-# Highly Configurable Goose Tutorial with Visuals
+### Highly Configurable Goose Tutorial with Visuals
 
 * First download the mod
 

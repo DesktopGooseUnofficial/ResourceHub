@@ -1,6 +1,6 @@
 # Quack Modloader 🦆
 
-## Features:
+## Features
 
 Ever hankered for a goose modloader in Lua? Well, here you go!
 

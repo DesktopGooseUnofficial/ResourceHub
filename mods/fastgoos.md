@@ -1,6 +1,6 @@
 # fastgoos 🏃‍♂️💨
 
-## Features:
+## Features
 
 Make your goose fast! You can configure just how fast in the config.
 

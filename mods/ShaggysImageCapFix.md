@@ -1,6 +1,6 @@
 # Shaggy's Image Cap Fix
 
-## Features:
+## Features
 
 Fixes the unintentional image cap in the memes folder. Also fixes some memory issues caused by loading in a lot of images.
 
