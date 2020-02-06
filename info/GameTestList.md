@@ -13,6 +13,7 @@ These are subject to change at any time, so keep your eye out!
 | ------ |:------------------------------:|
 | ✔️    | Okay to play         |
 | ❌    | Will get banned |
+| ✔️❌    | Can be okay to play but *can* be banned |
 | ❓     | Unknown/further testing is needed    |
 
 ## List of Tested Games
