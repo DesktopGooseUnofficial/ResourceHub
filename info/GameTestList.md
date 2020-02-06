@@ -1,5 +1,5 @@
 
-# Games with Goose
+![Games with Goose](https://i.imgur.com/4Fwod7B.png)
 
 **Notice:** At the moment there is someone testing games to see if games will ban users that use the Goose.
 
