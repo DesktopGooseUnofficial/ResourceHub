@@ -36,7 +36,7 @@ If you want your mod taken down from this site, please notify us by saying you w
 * [hatgoos](mods/hatgoos.md)
 * [Sneaky Goose](mods/SneakyGoose.md)
 * [Mad?'s Facts Mod](mods/MadsFacts.md)
-* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack Modloader](mods/Quack.md)
+* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
 
 ### Modpacks 📦
 
