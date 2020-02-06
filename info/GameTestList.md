@@ -24,6 +24,7 @@ These are subject to change at any time, so keep your eye out!
 | Garry's Mod| ✔️❌|Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
 | Hearthstone              | ✔️    |                                                                                                  |
 | League of Legends        | ❓     |                                                                                                  |
+| Left 4 Dead 2 | ✔️❌  | It will mess with your camera causing the "tornado" and some servers may have moderators that can ban you from that specific server. |
 | Minecraft                | ✔️❌ | Multiplayer is discouraged, some people have got it to grab the mouse and move the camera causing what most call a "tornado" which admins could ban for. Singleplayer is fine though. |
 | Mordhau |  ✔️    | |
 | Overwatch                | ✔️    |                                                                                                  |
@@ -34,4 +35,3 @@ These are subject to change at any time, so keep your eye out!
 | Team Fortress 2          | ✔️    | It can move your mouse and will mess with the camera so you may get banned on some servers due to admins, VAC hasn't banned anyone for it yet |
 | Terraria                 | ✔️    |                                                                                                  |
 | World of Warcraft        | ✔️    |                                                                                                |
-| Left 4 Dead 2 | ✔️❌  | It will mess with your camera causing the "tornado" and some servers may have moderators that can ban you from that specific server. |
