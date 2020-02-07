@@ -17,6 +17,8 @@ Try using something that can block trackers, we recommend [uBlock Origin](https:
 
 (if you're already blocking Google Analytics, consider unblocking us if you're fine with tracking!)
 
+❤ If you want to contribute to this website, you can! Please make a pull request with your changes on our GitHub repository.
+
 ---
 
 ## Mods 🧩 (no mods for Mac yet!)
