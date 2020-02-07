@@ -1,6 +1,6 @@
 # Shaggy's Sound Control 🔕
 
-## Features:
+## Features
 
 Control the sounds which the goose plays.
 
@@ -16,7 +16,7 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
 ---
 
-### Shaggy's Sound Control Tutorial with Visuals
+## Shaggy's Sound Control Tutorial with Visuals
 
 You can turn off the sound of its honk, mud splash, bite, and its tapping feet.
 
@@ -41,3 +41,15 @@ You can turn off the sound of its honk, mud splash, bite, and its tapping feet.
 * Remember to save your Config file
 
 * Then you are done! You can run the GooseDesktop.exe
+
+---
+
+## FAQ
+
+**Q: How do you unzip?**
+
+**A:** If you have Winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'.
+
+**Q: How do you open the config with Notepad?**
+
+**A:** You right click that config file and select "Open with". Then pick Notepad.

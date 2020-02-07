@@ -1,6 +1,6 @@
 # Highly Configurable Goose 🛠
 
-## Features:
+## Features
 
 Change goose speed, goose color, goose notes, and even evict geese at speeds like never before! (well, you can change the evict text too.) Name your goose and customize the nametag! There is also a pre-goose window for configuration.
 
@@ -16,7 +16,7 @@ Author: **easy bake oven#6781**
 
 ---
 
-# Highly Configurable Goose Tutorial with Visuals
+## Highly Configurable Goose Tutorial with Visuals
 
 * First download the mod
 
@@ -89,3 +89,15 @@ Below is a chart that should tell you what kind of setting are there in your con
 ![Has a list of colors that can be used for the goose's color palette here https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/media/art-color-table.png?view=netframework-4.8 "A  list of color that can be used")
 
 If you are unable to see the image you can click [here](https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=netframework-4.8)
+
+---
+
+## FAQ
+
+**Q: How do you unzip?**
+
+**A:** If you have Winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'.
+
+**Q: How do you open the config with Notepad?**
+
+**A:** You right click that config file and select "Open with". Then pick Notepad.

@@ -1,6 +1,6 @@
 # fastgoos 🏃‍♂️💨
 
-## Features:
+## Features
 
 Make your goose fast! You can configure just how fast in the config.
 
@@ -9,3 +9,7 @@ Get it: [fastgoos](https://cdn.discordapp.com/attachments/672363951232778251/673
 Goose Version: **v0.2 \| v0.21**
 
 Author: **DaNike#6223**
+
+---
+
+## Fastgoos Tutorial with Visuals
