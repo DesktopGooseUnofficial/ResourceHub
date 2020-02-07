@@ -1,6 +1,6 @@
 # Maxime’s ModPack (Not finished)
 
-## Features:
+## Features
 
 Custom Goose Colors, “*” Rainbow Goose, Press F or “/” to honk, Name Tag, New behavior, “-”remove/”+”add multi geese, sound control, MultiMonitor (Broken meme/text window), Framerate cap(speed of goose is fps dependant so under 60fps goose get super slow), and probably other things that I forgot...
 
