@@ -18,7 +18,7 @@
 
 ---
 
-### Sneaky Goose Tutorial with Visuals
+## Sneaky Goose Tutorial with Visuals
 
 The goose will try to grab your mouse very slowly. The goose will get away with it, also slowly.
 
@@ -29,3 +29,15 @@ The goose will try to grab your mouse very slowly. The goose will get away with 
 ![You should see the following files appear inside the Sneaky Goose folder: Assets, Config, and Goose Desktop](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Sneaky%20Goose/part%201.png "You should see the following files appear inside the Sneaky Goose folder: Assets, Config, and Goose Desktop")
 
 * You can run the GooseDesktop.exe and that's it
+
+---
+
+## FAQ
+
+**Q: How do you unzip?**
+
+**A:** If you have Winrar or 7zip installed on your computer, you can right click on that zip file and select either 'Extract All' or 'Extract Here'.
+
+**Q: How do you open the config with Notepad?**
+
+**A:** You right click that config file and select "Open with". Then pick Notepad.

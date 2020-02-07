@@ -22,7 +22,7 @@ Don’t use Desktop Goose or it will corrupt the file.
 
 ---
 
-### Hatgoos Tutorial with Visuals
+## Hatgoos Tutorial with Visuals
 
 This mod allows you to have your goose wear hats it can also be run with other mods.
 
@@ -75,7 +75,7 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 ---
 
-### FAQ
+## FAQ
 
 **Q: How do you unzip?**
 
