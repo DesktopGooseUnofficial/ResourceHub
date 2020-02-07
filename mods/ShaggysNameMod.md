@@ -42,7 +42,6 @@ Below is a chart that should tell you what kind of setting are there in your con
 | NameXValue= | Location of name by horizontal X-axis. |
 | NameYValue= | Location of name by horizontal Y-axis. |
 
-
 * Remember to save your Config file
 
 * Then you are done! You can run the GooseDesktop.exe

@@ -43,7 +43,7 @@ The file should say "hatgoos_with_loader.zip" when you download it
 
 What you should see the last 4 lines the same on that notepad (Do not worry about the other configuration settings on that notepad):
 
-![The following 4 lines should be seen in your newly creeated config file: HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, HatGoos.CustomHatPath=](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Hatgoos/part%202.png "The following 4 lines that will be added to your config file: HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, HatGoos.CustomHatPath=")
+![The following 4 lines should be seen in your newly created config file: HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, HatGoos.CustomHatPath=](https://raw.githubusercontent.com/DesktopGooseUnofficial/ResourceHub-Images/master/Hatgoos/part%202.png "The following 4 lines that will be added to your config file: HatGoos.HatMode=Default, HatGoos.HorizontalSize=1.5, HatGoos.HatPosition=0.6, HatGoos.CustomHatPath=")
 
 * Edit this part:
 HatGoos.HatMode=Default

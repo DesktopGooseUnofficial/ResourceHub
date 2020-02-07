@@ -1,8 +1,8 @@
 <!-- 
-Do NOT add actual malware to this repository, we have a 0-tolerance policy on malware mods.
-We will also remove mods that mess with the donation message the Goose can give you, if any are found.
+do not add actual malware to this repository, we have a 0-tolerance policy on malware mods
+we will also remove mods that mess with the donation message the goose can give you, if any are found
 
-Please do not add false information if you are making changes to the GameTestList.
+please do not add false information if you are making changes to the gametestlist
 
-Thank you for being a good contributor
+thank you for being a good contributor
 -->
