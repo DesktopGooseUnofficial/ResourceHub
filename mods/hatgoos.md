@@ -1,4 +1,4 @@
-# hatgoos 🎩
+![](https://i.imgur.com/Z6yETNS.png)
 
 ## Features
 
