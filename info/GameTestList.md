@@ -20,7 +20,9 @@ These are subject to change at any time, so keep your eye out!
 
 | Game Name                | Status | Note                                                                                             |
 | ------------------------ |:------:|:------------------------------------------------------------------------------------------------:|
+| Crossout                 | ✔️    | In windows mode, the goose would drag out the mouse, causing user click outside the windows      |
 | CS:GO                    | ✔️    |                                                                                                  |
+| DRONE The Game | ✔️ | In windowed mode, the goose would drag out the mouse, causing user click outside the windows |
 | Fortnite                 | ❓     |  
 | Garry's Mod| ✔️❌|Memes cover a lot of the spawnmenu, and the goose CAN move the camera. Some servers may not care but some will, keep that in mind. |
 | Hearthstone              | ✔️    |                                                                                                  |
@@ -31,6 +33,7 @@ These are subject to change at any time, so keep your eye out!
 | Overwatch                | ✔️    |                                                                                                  |
 | Rainbow 6 Siege / Any other games using BattlEye          | ❌    | You WILL get banned if he grabs your mouse, any other games that use BattlEye will most likely ban players using Desktop Goose. |
 | Roblox                   | ✔️❌  | The "tornado" effect would most likely happen in first person. Some games may have admin tools to ban people. |
+| Robocraft | ✔️ | In windows mode, the goose would drag out the mouse, causing user click outside the windows      |
 | Runescape 2              | ❓     |  
 | Space Engineers          | ✔️❌  | It CAN and WILL make you crash your ship.|
 | Team Fortress 2          | ✔️    | It can move your mouse and will mess with the camera so you may get banned on some servers due to admins, VAC hasn't banned anyone for it yet |
