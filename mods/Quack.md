@@ -1,4 +1,4 @@
-# Quack Modloader 🦆
+![Quack Modloader 🦆](https://i.imgur.com/AgXnrIH.png)
 
 ## Features
 
