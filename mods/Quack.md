@@ -1,8 +1,8 @@
-![Quack Modloader 🦆](https://i.imgur.com/AgXnrIH.png)
+![Quack Modloader 🦆](https://i.imgur.com/UoSO3oD.png)
 
 ## Features
 
-Ever hankered for a goose modloader in Lua? Well, here you go!
+Ever hankered for a goose modloader in [Lua](https://www.lua.org/)? Well, here you go!
 
 Get it: [Quack Lua](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/quack-0.1/GOOSE_LUA_V01.zip)
 
