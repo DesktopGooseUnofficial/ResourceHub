@@ -64,5 +64,5 @@ There is currently no way to conveniently use multiple mods at once, other than 
 
 ### How can I get notification when a new mod releases?
 
-One way of doing it (assuming you have a GitHub account) is going to our GitHub repository (can be found at the left side or the top depending on what device you have) and doing this:
+One way of doing it (assuming you have a GitHub account) is going to our GitHub repository [here](https://github.com/DesktopGooseUnofficial/ResourceHub) and doing this:
 ![https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-releases-for-a-repository](https://vukand12.is-inside.me/Y2MwBOQD.gif)
