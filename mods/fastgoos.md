@@ -53,7 +53,7 @@ Below is a chart that should tell you what kind of setting are added in your con
 
 ---
 
-##Fastgoos Mod Compatibility List
+## Fastgoos Mod Compatibility List
 
 | Symbol | Meaning                                                                                                                                 |
 | :------: |:---------------------------------------------------------------------------------------------------------------------:|

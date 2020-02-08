@@ -75,7 +75,7 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 ---
 
-##Hatgoos Mod Compatibility List
+## Hatgoos Mod Compatibility List
 
 | Symbol | Meaning                                                                                                                                 |
 | ------ |:---------------------------------------------------------------------------------------------------------------------:|
