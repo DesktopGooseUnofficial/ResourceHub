@@ -75,6 +75,30 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 
 ---
 
+##Hatgoos Mod Compatibility List
+
+| Symbol | Meaning                                                                                                                                 |
+| ------ |:---------------------------------------------------------------------------------------------------------------------:|
+| ✔️    | Works with this mod                                                                                                                   |
+| ❌    | Does not works with this mod                                                                                                   |
+| ❌✔️    |  Does not works with this mod for recent release, older releases works with this mod      |
+| ❓     | Has yet to be tested                                                                                                                   |
+
+Below is a list of mods that have been tested to either work perfectly or fail due to being unable to create a new config file.
+
+| Mod Name                                                      | Status | Note                                                                                             |
+| --------------------------------------------------------- |:------:|:------------------------------------------------------------------------------------------------:|
+| Bobbie’s Modded Desktop Goose v0.2 | ✔️ |   |
+| Highly Configurable Goose | ❌✔️ | Likely it collides with new files. For older version of the mod, v4-v1 they work fine. |
+| Mad's Facts | ✔️ |   |
+| NabMouse | ❌ | Cause is unknown at this time. |
+| Shaggy's Image Cap Fix | ✔️ |   |
+| Shaggy's Sound Control | ✔️ |   |
+| Shaggy’s Name Mod | ✔️ |   |
+| Sneaky Goose | ✔️ |   |
+
+---
+
 ## FAQ
 
 **Q: How do you unzip?**
@@ -88,6 +112,10 @@ HatGoos.CustomHatPath=C:\Users\user\Downloads\PC\Desktop Goose\Assets\Images\Hat
 **Q: Can this work with other mods?**
 
 **A:** Yes, it has been tested to work with other mods. If you saw the second image in the tutorial You will notice there's a bunch of other configuration settings on that notepad. That was tested with the second version of Highly Configurable Goose. It still works with its latest version as well.
+
+**Q: Can this work with the fastgoos together on another mod?**
+
+**A:** Yes, you just have to take the FastGoos dll into the same mods folder as the HatGoos. Then delete the old config and run the 'run with mods.bat' again.
 
 **Q: So does exiting out 'run with mods.bat' exit out the goose program?**
 
