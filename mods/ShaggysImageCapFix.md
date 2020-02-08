@@ -22,6 +22,13 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
 * Then extract the file.
 
+![You should see the following files appear inside the GooseSoundControl Folder: Assets, Config, and Goose Desktop](https://raw.githubusercontent.com/Tatohead/ResourceHub-Images/master/Shaggy%20Image%20Cap%20Fix/part%201.png "You should see the following files appear inside the GooseSoundControl Folder: Assets, Config, and Goose Desktop")
+
+
+* You can run the GooseDesktop.exe and that's it
+
+Note: You can add more images in the Memes folder above the 300 limit.
+
 ---
 
 ## FAQ
@@ -33,3 +40,11 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 **Q: How do you open the config with Notepad?**
 
 **A:** You right click that config file and select "Open with". Then pick Notepad.
+
+**Q: When I downloaded it got a Failed - Forbidden. What can I do to download it?**
+
+**A:** Check if it is caused by your anti virus. You may need to disable it temporary to download the file.
+
+**Q: So where can I download more memes?**
+
+**A:** Try going to the front page and scroll down till you see the Memes section.

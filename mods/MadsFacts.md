@@ -17,7 +17,7 @@ Changelog:
 
 ---
 
-### Mad?'s Facts Tutorial with Visuals
+## Mad?'s Facts Tutorial with Visuals
 
 Mod has the goose bring you many random facts about various types of animals
 

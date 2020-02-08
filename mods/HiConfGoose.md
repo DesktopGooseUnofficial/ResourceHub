@@ -101,3 +101,7 @@ If you are unable to see the image you can click [here](https://docs.microsoft.c
 **Q: How do you open the config with Notepad?**
 
 **A:** You right click that config file and select "Open with". Then pick Notepad.
+
+**Q: How do you make the Goose's (Beak/Body/Feet/Name/NameTag/Mud) Transparent?**
+
+**A:** You just set it as Transparent.
