@@ -6,7 +6,7 @@ Change goose speed, goose color, goose notes, and even evict geese at speeds lik
 
 You can now **pull images from Reddit** to the memes folder in-app (yes, you can change the subreddit), and categorize memes and disable different meme folders!
 
-Get it: [Config Goose](https://drive.google.com/file/d/1pU2H4LUvjYlOZv6Nj4QNbyG3GR9h8SM4/view)
+Get it: [Config Goose](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/hcg-5.0/CONFIG_GOOSE_V5.zip)
 
 Goose Version: **v2.1**
 
