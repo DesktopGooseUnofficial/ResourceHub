@@ -25,19 +25,19 @@ There are currently no mods available for v0.3, please be patient!
 
 **These mods are for v0.21 and v0.2.** They do not use the modding API.
 
-* [Bobbie’s Modded Desktop Goose v0.2](mods/bobbies.md)
-* [NabMouse Mod](mods/NabMouse.md)
-* [Highly Configurable Goose](mods/HiConfGoose.md)
-* [Shaggy's Name Mod](mods/ShaggysNameMod.md)
-* [Shaggy's Sound Control](mods/ShaggysSoundControl.md)
-* [Shaggy's ImageCapFix](mods/ShaggysImageCapFix.md)
-* [fastgoos](mods/fastgoos.md)
-* [hatgoos](mods/hatgoos.md)
-* [Sneaky Goose](mods/SneakyGoose.md)
-* [Mad?'s Facts Mod](mods/MadsFacts.md)
-* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
+* [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
+* [NabMouse Mod](mods/deprecated/NabMouse.md)
+* [Highly Configurable Goose](mods/deprecated/HiConfGoose.md)
+* [Shaggy's Name Mod](mods/deprecated/ShaggysNameMod.md)
+* [Shaggy's Sound Control](mods/deprecated/ShaggysSoundControl.md)
+* [Shaggy's ImageCapFix](mods/deprecated/ShaggysImageCapFix.md)
+* [fastgoos](mods/deprecated/fastgoos.md)
+* [hatgoos](mods/deprecated/hatgoos.md)
+* [Sneaky Goose](mods/deprecated/SneakyGoose.md)
+* [Mad?'s Facts Mod](mods/deprecated/MadsFacts.md)
+* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/deprecated/Quack.md)
 
-### Modpacks 📦
+### Deprecated modpacks 📦
 
 * [Maxime's ModPack](modpacks/MaximesModPack.md)
 * [Shaggy's ModPack(GUI)](modpacks/ShaggysModPack_GUI.md)
