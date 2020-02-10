@@ -4,7 +4,6 @@
 
 **View all settings in configuration file through simple form**
 
-
 Get it: [Shaggys Config GUI](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyMenu-1.0/ShaggysGooseMenu.zip)
 
 Goose Version: **v0.3**
