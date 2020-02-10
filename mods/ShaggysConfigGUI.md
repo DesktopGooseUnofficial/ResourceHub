@@ -1,8 +1,8 @@
-﻿# Shaggys Config GUI
+# Shaggys Config GUI
 
 ## Features
 
-**Ability to edit the config through a GUI on goose startup**
+**View all settings in configuration file through simple form**
 
 
 Get it: [Shaggys Config GUI](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyMenu-1.0/ShaggysGooseMenu.zip)
@@ -13,6 +13,6 @@ Mod Version: **v1.0**
 
 Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
-## Video of GUI:
+## Gif of GUI:
 
 ![image](https://i.imgur.com/IU2SuR4.gif)
