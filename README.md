@@ -19,9 +19,10 @@
 
 ## Mods 🧩
 
-**Mods for v0.3 Using the API.**
+**Mods for v0.3 Using the API
 
 * [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
+* [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 
 ## Deprecated mods 🧓
 
