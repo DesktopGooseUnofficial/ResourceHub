@@ -8,4 +8,4 @@ Turn your regular, boring goose into a party goose!
 # Requirements
 DesktopGoose **v0.3**
 
-[!image](https://i.imgur.com/5yZWF32.gif)
+![image](https://i.imgur.com/5yZWF32.gif)
