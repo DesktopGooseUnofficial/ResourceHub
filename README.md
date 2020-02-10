@@ -19,7 +19,7 @@
 
 ## Mods 🧩
 
-**Mods for v0.3 Using the API.**
+**These mods are for v0.3.** They use the modding API.
 
 * [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
 * [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
