@@ -55,11 +55,4 @@ There are currently no mods available for v0.3, please be patient!
 
 ## FAQs 🤔❓
 
-### How do I run multiple mods at the same time?
 
-There is currently no way to conveniently use multiple mods at once, other than making or using a modpack.
-
-### How can I get notification when a new mod releases?
-
-One way of doing it (assuming you have a GitHub account) is going to our GitHub repository [here](https://github.com/DesktopGooseUnofficial/ResourceHub) and doing this:
-![https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-releases-for-a-repository](https://vukand12.is-inside.me/Y2MwBOQD.gif)
