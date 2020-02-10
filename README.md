@@ -17,9 +17,13 @@
 
 ---
 
-## Mods 🧩 (no mods for Mac yet!)
+## Mods 🧩
 
-Download unapproved mods at your own risk, as they have not been reviewed.
+There are currently no mods available for v0.3, please be patient!
+
+## Deprecated mods 🧓
+
+**These mods are for v0.21 and below.** They do not use the modding API.
 
 Your mod may be removed from this document at any time, for any reason.
 If you want your mod taken down from this site, please notify us by saying you want it taken down in the #goose-mods channel: [discord link](https://discord.gg/pQnH4J3)
@@ -43,8 +47,8 @@ If you want your mod taken down from this site, please notify us by saying you w
 
 ## Tutorials and info 💁‍♂️
 
-* [Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
-* [Modding Essentials](info/modCreation.md)
+* [(v0.2) Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
+* [(v0.2) Modding Essentials](info/modCreation.md)
 * [Game List](info/GameTestList.md)
 
 ## Memes 😛
