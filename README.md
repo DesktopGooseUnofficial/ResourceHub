@@ -19,7 +19,9 @@
 
 ## Mods 🧩
 
-There are currently no mods available for v0.3, please be patient!
+**Mods for v0.3 Using the API
+
+* [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
 
 ## Deprecated mods 🧓
 
