@@ -55,4 +55,6 @@ There are currently no mods available for v0.3, please be patient!
 
 ## FAQs 🤔❓
 
+### Okay I got a mod, placed it in the right folder and all that but it's not working, how do I enable it?
 
+![](https://vukand12.is-inside.me/vMotiYeZ.gif)
