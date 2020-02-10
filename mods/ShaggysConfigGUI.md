@@ -15,4 +15,4 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
 ## Video of GUI:
 
-![image](https://drive.google.com/uc?export=view&id=19GV26yeIFvkMAsZimv8uV5CdWuleE8NV)
+![image](https://imgur.com/a/fIVU94x)
