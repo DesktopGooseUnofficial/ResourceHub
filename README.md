@@ -23,6 +23,7 @@
 
 * [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
 * [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
+* [NECC](mods/NECC.md)
 
 ## Deprecated mods 🧓
 
