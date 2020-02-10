@@ -13,6 +13,6 @@ Mod Version: **v1.0**
 
 Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
-## Gif of GUI:
+## GIF of GUI:
 
 ![image](https://i.imgur.com/IU2SuR4.gif)
