@@ -2,7 +2,7 @@
 
 ## Features
 
-**Ability to edit the config through a GUI on goose startup
+**Ability to edit the config through a GUI on goose startup**
 
 
 Get it: [Shaggys Config GUI](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyMenu-1.0/ShaggysGooseMenu.zip)
