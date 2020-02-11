@@ -4,13 +4,13 @@
 
 Ever hankered for a goose modloader in [Lua](https://www.lua.org/)? Well, here you go!
 
-Get it: [Quack Lua](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/quack-0.1/GOOSE_LUA_V01.zip)
+Get it: [Quack Lua](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/quack-0.11/quack.zip)
 
 **⚠ SUPER EARLY ALPHA**. CONTACT MOD AUTHOR IF ISSUES OR SUGGESTIONS/QUESTIONS APPEAR.
 
-Goose Version: **v0.21**
+Goose Version: **v0.3**
 
-Mod Version: **v0.1**
+Mod Version: **v0.11**
 
 Author: **easy bake oven#6781**
 

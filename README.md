@@ -29,6 +29,7 @@
 * [DiscoGoose](mods/DiscoGoose.md)
 * [Honcker](mods/Honcker.md)
 * [Color Picker Goose](mods/ColorPickerGoose.md)
+* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
 
 ## Deprecated mods 🧓
 
@@ -44,7 +45,6 @@
 * [hatgoos](mods/deprecated/hatgoos.md)
 * [Sneaky Goose](mods/deprecated/SneakyGoose.md)
 * [Mad?'s Facts Mod](mods/deprecated/MadsFacts.md)
-* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/deprecated/Quack.md)
 
 ### Deprecated modpacks 📦
 
