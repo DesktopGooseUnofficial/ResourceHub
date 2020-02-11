@@ -29,6 +29,7 @@
 * [DiscoGoose](mods/DiscoGoose.md)
 * [Honcker](mods/Honcker.md)
 * [Color Picker Goose](mods/ColorPickerGoose.md)
+* [Acid Goose](mods/AcidGoose.md)
 * **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
 
 ## Deprecated mods 🧓
