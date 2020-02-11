@@ -25,6 +25,7 @@
 * [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 * [NECC](mods/NECC.md)
 * [DiscoGoose](mods/DiscoGoose.md)
+* [Honcker](mods/Honcker.md)
 
 ## Deprecated mods 🧓
 
