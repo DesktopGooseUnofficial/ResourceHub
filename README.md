@@ -66,3 +66,7 @@
 ### Okay I got a mod, placed it in the right folder and all that but it's not working, how do I enable it?
 
 ![](https://i.imgur.com/ZNB4wsy.gif)
+
+### What does 🟢, 🟡 and 🔴 mean?
+
+Please see our [Content Ratings guide](info/ContentRatings.md).
