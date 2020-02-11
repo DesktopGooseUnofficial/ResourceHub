@@ -14,6 +14,8 @@ Mod Version: **v0.11**
 
 Author: **easy bake oven#6781**
 
+You **must** extract this straight to Mods for this to work. Do not put it in a new folder, do not move or rename mod.lua.
+
 ---
 Functions:
 
@@ -31,6 +33,16 @@ Functions:
 | MessageBoxIcon    | (string message, string icon)                                                   | Shows a textbox on the user's screen with specified icon. Icons at bottom.|
 | MessageBoxIconAsk | (string message, string icon) returns bool                                      | Same as MessageBoxAsk, but with an icon.                                  |
 | MessageBoxInput   | (string message, string default) returns string                                 | Asks user for text input with message.                                    |
+
+Some variables accessible to GetGooseProp and SetGooseProp:
+| Variable Name   | Purpose                                                   |
+|-----------------|-----------------------------------------------------------|
+| position        | Where the goose is on your screen. (table)                |
+| velocity        | The goose's speed. (table)                                |
+| direction       | The way the goose is facing, in degrees. (number)         |
+| targetDirection | The way the goose is trying to face, in degrees. (number) |
+| targetPos       | The position the goose is trying to get to. (table)       |
+| currentSpeed    | The current maximum speed of the goose. (number)          |
 
 ---
 
