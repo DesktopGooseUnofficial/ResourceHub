@@ -32,7 +32,7 @@ These are subject to change at any time, so keep your eye out!
 | Mordhau |  ✔️    | |
 | Overwatch                | ✔️    |                                                                                                  |
 | Rainbow 6 Siege / Any other games using BattlEye          | ❌    | You WILL get banned if he grabs your mouse, any other games that use BattlEye will most likely ban players using Desktop Goose. |
-| Roblox                   | ✔️❌  | The "tornado" effect would most likely happen in first person. Some games may have admin tools to ban people. |
+| Roblox                   | ✔️❌  | The goose, when dragging your mouse, will click on user elements in third person. In first person and in shift-lock control modes, you will experience the "tornado" effect. On the platform, Roblox games may implement an admin suite, where admins may consider the Desktop Goose as a cheating mechanism due to it's direct use of the mouse. |
 | Robocraft | ✔️ | In windows mode, the goose would drag out the mouse, causing user click outside the windows      |
 | Runescape 2              | ❓     |  
 | Space Engineers          | ✔️❌  | It CAN and WILL make you crash your ship.|
