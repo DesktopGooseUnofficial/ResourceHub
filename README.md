@@ -13,7 +13,7 @@
 
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation).
 
-❤ If you want to contribute to this website, you can! Please make a pull request with your changes on our GitHub repository.
+🤔 **What does 🟢, 🟡 and 🔴 mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/yjGFsUD).
 
@@ -66,7 +66,3 @@
 ### Okay I got a mod, placed it in the right folder and all that but it's not working, how do I enable it?
 
 ![](https://i.imgur.com/ZNB4wsy.gif)
-
-### What does 🟢, 🟡 and 🔴 mean?
-
-Please see our [Content Ratings guide](info/ContentRatings.md).
