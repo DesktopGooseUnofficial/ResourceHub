@@ -1,24 +1,17 @@
 # Acid Goose
 
-
 **A very weird version of the Goose we know and love ❤**
-#
-
 
 Download: [AcidGoose.zip](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.zip)
 
-
-#
 Goose Version: **v0.3**
-
-
 
 Author: **⧹ F!NN ⧸#1580**
 
-#
 The code is kinda trash but I am still learning... Please dont blame me o.O
+
 ## Source code
-```csharp 
+```csharp
 public void PostTick(GooseEntity g)
         {
             
@@ -72,4 +65,4 @@ public void PostTick(GooseEntity g)
                 }
                 
             } 
-
+```
