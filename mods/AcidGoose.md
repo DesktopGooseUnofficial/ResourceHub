@@ -16,7 +16,7 @@ Goose Version: **v0.3**
 Author: **⧹ F!NN ⧸#1580**
 
 #
-The code is kinda dumb and I am still learning... Please dont blame me o.O
+The code is kinda trash but I am still learning... Please dont blame me o.O
 ## Source code
 ```csharp 
 public void PostTick(GooseEntity g)
