@@ -15,7 +15,7 @@
 
 ❤ If you want to contribute to this website, you can! Please make a pull request with your changes on our GitHub repository.
 
-🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or on [Request mods on the Discord](https://discord.gg/yjGFsUD).
+🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/yjGFsUD).
 
 ---
 
