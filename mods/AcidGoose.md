@@ -1,4 +1,4 @@
-# Acid Goose
+# Acid Goose 🟢
 
 **A very weird version of the Goose we know and love ❤**
 
@@ -11,6 +11,7 @@ Author: **⧹ F!NN ⧸#1580**
 The code is kinda trash but I am still learning... Please dont blame me o.O
 
 ## Source code
+
 ```csharp
 public void PostTick(GooseEntity g)
         {
