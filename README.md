@@ -15,7 +15,7 @@
 
 ❤ If you want to contribute to this website, you can! Please make a pull request with your changes on our GitHub repository.
 
-🧩 You can request mods [here](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or on the [Discord](https://discord.gg/yjGFsUD).
+🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or on [Request mods on the Discord](https://discord.gg/yjGFsUD).
 
 ---
 
@@ -66,4 +66,4 @@
 
 ### Okay I got a mod, placed it in the right folder and all that but it's not working, how do I enable it?
 
-![](https://vukand12.is-inside.me/vMotiYeZ.gif)
+![](https://i.imgur.com/ZNB4wsy.gif)
