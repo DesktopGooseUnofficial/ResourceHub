@@ -28,6 +28,7 @@
 * [NECC](mods/NECC.md)
 * [DiscoGoose](mods/DiscoGoose.md)
 * [Honcker](mods/Honcker.md)
+* [Color Picker Goose](mods/ColorPickerGoose.md)
 
 ## Deprecated mods 🧓
 
