@@ -20,3 +20,6 @@ You **must** extract this straight to Mods for this to work. Do not put it in a 
 
 ## Documentation
 All documentation and functions can be found [here.](https://github.com/cuboide/QuackLuaModloader/blob/master/README.md)
+
+## Source Code
+The source code for this mod is [here.](https://github.com/cuboide/QuackLuaModloader)
