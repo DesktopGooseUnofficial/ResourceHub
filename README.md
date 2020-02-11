@@ -53,8 +53,6 @@
 
 ## Tutorials and info 💁‍♂️
 
-* [(v0.21 and below) Desktop Goose Modding Tutorial](https://www.youtube.com/watch?v=5OQiVWJ-TGc) by iwanMods (external link)
-* [(v0.21 and below) Modding Essentials](info/modCreation.md)
 * [Game List](info/GameTestList.md)
 
 ## Memes 😛
