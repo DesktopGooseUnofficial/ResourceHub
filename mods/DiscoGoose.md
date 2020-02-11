@@ -17,7 +17,6 @@ Changelog:
 -----
 **Old releases**
 
-
 [DiscoGoose v1.1](https://github.com/VeeDeeOh/DiscoGoose/releases/tag/1.1)
 
 # Requirements
