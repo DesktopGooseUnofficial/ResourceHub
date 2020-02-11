@@ -1,4 +1,4 @@
-# NECC
+# NECC 🟢
 
 ## Features
 
