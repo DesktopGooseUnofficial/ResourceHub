@@ -1,7 +1,7 @@
 # Acid Goose
 
 
-**A very weird version of the Goose we know and love <3**
+**A very weird version of the Goose we know and love ❤**
 #
 
 
