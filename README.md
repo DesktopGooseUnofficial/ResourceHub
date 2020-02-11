@@ -24,7 +24,7 @@
 **These mods are for v0.3.** They use the modding API.
 
 * [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
-* [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
+* 🟢 [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 * 🟢 [NECC](mods/NECC.md)
 * 🟢 [DiscoGoose](mods/DiscoGoose.md)
 * 🟢 [Honcker](mods/Honcker.md)
