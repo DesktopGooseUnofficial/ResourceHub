@@ -15,6 +15,8 @@
 
 ❤ If you want to contribute to this website, you can! Please make a pull request with your changes on our GitHub repository.
 
+🧩 You can request mods [here](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or on the [Discord](https://discord.gg/yjGFsUD).
+
 ---
 
 ## Mods 🧩
@@ -25,6 +27,7 @@
 * [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 * [NECC](mods/NECC.md)
 * [DiscoGoose](mods/DiscoGoose.md)
+* [Honcker](mods/Honcker.md)
 
 ## Deprecated mods 🧓
 
