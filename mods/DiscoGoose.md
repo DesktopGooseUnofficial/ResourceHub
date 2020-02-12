@@ -1,4 +1,4 @@
-# DiscoGoose 🙂
+# 🙂 DiscoGoose
 
 Turn your regular, boring goose into a party goose!
 

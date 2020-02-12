@@ -1,4 +1,4 @@
-﻿# Shaggys Nametag Mod 🙂
+﻿# 🙂 Shaggys Nametag Mod
 
 ## Features
 
