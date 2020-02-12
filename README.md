@@ -1,3 +1,4 @@
+﻿
 ![Desktop Goose Resource Hub!](https://i.imgur.com/iE7BH5U.png)
 
 ---
@@ -25,11 +26,13 @@
 * 🙂 [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
 * 🙂 [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 * 🙂 [NECC](mods/NECC.md)
+* 🙂 [SizzurpMods](mods/SizzurpMods.md)
 * 🙂 [DiscoGoose](mods/DiscoGoose.md)
 * 🙂 [Honcker](mods/Honcker.md)
 * 🙂 [Color Picker Goose](mods/ColorPickerGoose.md)
 * 🙂 [Acid Goose](mods/AcidGoose.md)
 * 🙂 [hatgoos](mods/hatgoos.md)
+* 😐 [Clicker](mods/Clicker.md)
 * *SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
 
 ## Modpacks 📦
