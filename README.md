@@ -34,7 +34,7 @@
 
 ## Deprecated mods 🧓
 
-**These mods are for v0.21 and v0.2.** They do not use the modding API.
+**These mods are for v0.21 and v0.2.** They do not use the modding API, instead they directly modify the Goose .exe file.
 
 * [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
 * [NabMouse Mod](mods/deprecated/NabMouse.md)
