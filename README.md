@@ -26,6 +26,7 @@
 * 🙂 [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
 * 🙂 [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 * 🙂 [NECC](mods/NECC.md)
+* 🙂 [SizzurpMods](mods/SizzurpMods.md)
 * 🙂 [DiscoGoose](mods/DiscoGoose.md)
 * 🙂 [Honcker](mods/Honcker.md)
 * 🙂 [Color Picker Goose](mods/ColorPickerGoose.md)
