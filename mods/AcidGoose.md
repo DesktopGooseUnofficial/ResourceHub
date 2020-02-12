@@ -1,4 +1,4 @@
-# Acid Goose 🟢
+# Acid Goose 🙂
 
 **A very weird version of the Goose we know and love ❤**
 

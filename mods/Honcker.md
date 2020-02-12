@@ -1,4 +1,4 @@
-# Honcker 🟢
+# Honcker 🙂
 A very simple mod that allows you to make your goose honk at will with the F key
 
 ## Downloads
