@@ -1,4 +1,4 @@
-# SizzurpMods
+# 🙂 SizzurpMods
 
 ## Features
 
