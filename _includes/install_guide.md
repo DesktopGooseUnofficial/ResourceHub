@@ -12,6 +12,7 @@ The macOS version does not support mods yet.
 2. Create a folder with the name `{{ include.modname }}`.
 3. Place the `{{ include.modname }}.dll` file inside the `{{ include.modname }}` folder. {% endif %}
 4. Go back to the Desktop Goose folder.
-5. Open `config.ini` and change `EnableMods=False` to `EnableMods=True`
-6. Done!
+5. If you haven't already, open `config.ini` and change `EnableMods=False` to `EnableMods=True`
+6. If you haven't already, save the `config.ini` file.
+7. Done! You have now installed {{ include.modname }}.
 
