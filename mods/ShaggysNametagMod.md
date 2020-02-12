@@ -20,6 +20,8 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 
 ---
 
+## FAQ
+
 **If your mod isn't working please look at the check list to see what  step might be missing:**
 
 Check list:

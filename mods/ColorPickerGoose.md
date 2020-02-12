@@ -39,6 +39,8 @@ Shows a Windows color dialog box on launch, like the one used in MS Paint.
 
 ---
 
+## FAQ
+
 **If your mod isn't working please look at the check list to see what  step might be missing:**
 
 Check list:

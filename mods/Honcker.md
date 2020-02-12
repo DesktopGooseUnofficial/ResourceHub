@@ -38,6 +38,8 @@ DesktopGoose **v0.3**
 
 ---
 
+## FAQ
+
 **If your mod isn't working please look at the check list to see what  step might be missing:**
 
 Check list:
