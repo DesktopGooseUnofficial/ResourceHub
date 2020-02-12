@@ -24,21 +24,3 @@ Changelog:
 DesktopGoose **v0.3**
 
 ![image](https://i.imgur.com/5yZWF32.gif)
-
----
-
-## FAQ
-
-**If your mod isn't working please look at the check list to see what  step might be missing:**
-
-Check list:
-
-[✓] Latest version of Desktop Goose
-
-[✓] mod dll is in mods folder within its own folder
-
-[✓] config file has EnableMods=True
-
-[✓] Save the config
-
-[✓] Restart the program
