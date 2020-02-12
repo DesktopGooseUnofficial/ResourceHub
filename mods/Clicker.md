@@ -15,3 +15,5 @@ DesktopGoose **v0.3**
 ## Source code
 
 [The Clicker source code can be viewed here](https://github.com/NE1W01F/Gooes-Mod).
+
+{% include install_guide.md modname="Clicker" iszip=false %}

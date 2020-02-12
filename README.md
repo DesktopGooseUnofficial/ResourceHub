@@ -33,7 +33,7 @@
 * 🙂 [Acid Goose](mods/AcidGoose.md)
 * 🙂 [hatgoos](mods/hatgoos.md)
 * 😐 [Clicker](mods/Clicker.md)
-* *SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
+* ❓ 🧪 Early alpha Lua modloader - [🦆 Quack](mods/Quack.md)
 
 ## Modpacks 📦
 
