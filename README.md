@@ -78,7 +78,7 @@ There are no modpacks available right now!
 
 [   ] Latest version of Desktop Goose
 
-[   ] mod dll is in mods folder within its own folder
+[   ] Mod DLL is in mods folder within its own folder
 
 [   ] config file has EnableMods=True
 
