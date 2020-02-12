@@ -71,3 +71,17 @@ There are no modpacks available right now!
 ### Okay I got a mod, placed it in the right folder and all that but it's not working, how do I enable it?
 
 ![](https://i.imgur.com/ZNB4wsy.gif)
+
+### If your mod isn't working please look at the checklist to see what step might be missing:
+
+**Checklist:**
+
+[   ] Latest version of Desktop Goose
+
+[   ] Mod DLL is in mods folder within its own folder
+
+[   ] Config file has EnableMods=True
+
+[   ] Save the config
+
+[   ] Restart the program
