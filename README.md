@@ -80,7 +80,7 @@ There are no modpacks available right now!
 
 [   ] Mod DLL is in mods folder within its own folder
 
-[   ] config file has EnableMods=True
+[   ] Config file has EnableMods=True
 
 [   ] Save the config
 
