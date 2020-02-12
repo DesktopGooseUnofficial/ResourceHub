@@ -54,8 +54,8 @@
 
 ### Deprecated modpacks 📦
 
-* [Maxime's ModPack](modpacks/MaximesModPack.md)
-* [Shaggy's ModPack(GUI)](modpacks/ShaggysModPack_GUI.md)
+* [Maxime's ModPack](modpacks/deprecated/MaximesModPack.md)
+* [Shaggy's ModPack(GUI)](modpacks/deprecated/ShaggysModPack_GUI.md)
 
 ## Tutorials and info 💁‍♂️
 
