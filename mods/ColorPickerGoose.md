@@ -36,3 +36,5 @@ Shows a Windows color dialog box on launch, like the one used in MS Paint.
 
     }
 ```
+
+{% include install_guide.md modname="ColorPickerGoose" iszip=false %}

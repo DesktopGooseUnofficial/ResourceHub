@@ -15,3 +15,5 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 ## GIF of GUI:
 
 ![image](https://i.imgur.com/IU2SuR4.gif)
+
+{% include install_guide.md modname="ShaggysGooseMenu" iszip=true %}

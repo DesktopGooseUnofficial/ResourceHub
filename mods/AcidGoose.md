@@ -67,3 +67,4 @@ public void PostTick(GooseEntity g)
                 
             } 
 ```
+{% include install_guide.md modname="AcidGoose" iszip=true %}

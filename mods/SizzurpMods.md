@@ -21,3 +21,5 @@ Mod Version: **v1.3**
 Author: **Lil Sizzurp#0001**
 
 Source Code: [SizzurpMods](https://github.com/DesktopGooseUnofficial/SizzurpMods)
+
+{% include install_guide.md modname="SizzurpMods" iszip=false %}
