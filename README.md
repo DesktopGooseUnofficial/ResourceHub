@@ -72,7 +72,7 @@ There are no modpacks available right now!
 
 ![](https://i.imgur.com/ZNB4wsy.gif)
 
-### If your mod isn't working please look at the check list to see what  step might be missing:
+### If your mod isn't working please look at the checklist to see what step might be missing:
 
 **Check list:**
 
