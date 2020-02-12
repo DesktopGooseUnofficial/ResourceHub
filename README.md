@@ -33,6 +33,10 @@
 * 🙂 [Acid Goose](mods/AcidGoose.md)
 * *SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
 
+## Modpacks 📦
+
+There are no modpacks available right now!
+
 ## Deprecated mods 🧓
 
 **These mods are for v0.21 and v0.2.** They do not use the modding API, instead they directly modify the Goose .exe file.
