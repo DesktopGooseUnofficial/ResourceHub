@@ -12,3 +12,49 @@ Goose Version: **v0.3**
 Mod Version: **0.1.0**
 
 Author: **DaNike#6223**
+
+---
+
+{% include install_guide.md modname="HatGoos" iszip=false %}
+
+---
+## Tutorial on Custom Hats
+
+1. Run the GooseDesktop.exe once (This will create a config.toml file)
+
+2. Exit the program (press and hold esc)
+
+3. Go to the Mods folder in the Assets folder
+
+4. Open the Hatgoos Folder
+
+5. Open the Config.toml file in Notepad (right click, select Open With, then select Notepad)
+
+6. Set HatMode = "Default" to HatMode = "Custom"
+
+7. Set the CustomHatPath = "" to an image path (it need two backslashes because it is a toml file)
+
+**Example:**
+
+CustomHatPath = "C:\\\Users\\\username\\\Downloads\\\PC\\\Desktop Goose Modded v0.3\\\Assets\\\Hats\\\hat3.png"
+
+8. Save your Config.toml
+
+9. Run the GooseDesktop.exe to see the new changes
+
+---
+
+## Settings in Config
+
+| Setting | Function |
+|---------|:---------:|
+| HatMode | Default - sets to Default hat , Custom - sets to using custom hats , None - No Hats |
+| HorizontalSize | Sets  the size of the hat (Only positive numbers) |
+| HatPosition | Sets hat position (Positive and negative numbers) |
+| CustomHatPath | Sets it to current custom hat location |
+
+---
+## FAQ
+**Q: Where can I get the Sample Hat Pack?**
+
+**A:** It was made by one of the discord members [here](https://github.com/Tatohead/ResourceHub-Images/raw/master/Hatgoos/Hats/Hats.zip)
