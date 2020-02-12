@@ -13,7 +13,7 @@
 
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation).
 
-🤔 **What does 🟢, 🟡 and 🔴 mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
+🤔 **What does 🙂, 😐 and ☹️ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/yjGFsUD).
 
@@ -23,15 +23,15 @@
 
 **These mods are for v0.3.** They use the modding API.
 
-* 🟢 [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
-* 🟢 [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
-* 🟢 [NECC](mods/NECC.md)
-* 🟢 [DiscoGoose](mods/DiscoGoose.md)
-* 🟢 [Honcker](mods/Honcker.md)
-* 🟢 [Color Picker Goose](mods/ColorPickerGoose.md)
-* 🟢 [Acid Goose](mods/AcidGoose.md)
-* 🟢 [hatgoos](mods/hatgoos.md)
-* **SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
+* 🙂 [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
+* 🙂 [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
+* 🙂 [NECC](mods/NECC.md)
+* 🙂 [DiscoGoose](mods/DiscoGoose.md)
+* 🙂 [Honcker](mods/Honcker.md)
+* 🙂 [Color Picker Goose](mods/ColorPickerGoose.md)
+* 🙂 [Acid Goose](mods/AcidGoose.md)
+* 🙂 [hatgoos](mods/hatgoos.md)
+* *SUPER EARLY ALPHA MODLOADER** [🧪🦆 Quack (Lua Modloader)](mods/Quack.md)
 
 ## Deprecated mods 🧓
 
