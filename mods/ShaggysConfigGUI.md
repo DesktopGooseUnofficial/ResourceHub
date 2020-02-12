@@ -1,4 +1,4 @@
-# Shaggys Config GUI 🟢
+# Shaggys Config GUI 🙂
 
 ## Features
 
