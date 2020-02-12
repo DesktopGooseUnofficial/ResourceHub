@@ -46,6 +46,8 @@ CustomHatPath = "C:\\\Users\\\username\\\Downloads\\\PC\\\Desktop Goose Modded v
 
 ## Settings in Config
 
+Below is a chart that should tell you what kind of setting are there in your config file. Function will tell you what happens if you were to manipulate that setting,
+
 | Setting | Function |
 |---------|:---------:|
 | HatMode | Default - sets to Default hat , Custom - sets to using custom hats , None - No Hats |
