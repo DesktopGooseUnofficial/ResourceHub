@@ -6,6 +6,6 @@
 
 **Please don't**:
 
-❌ Add destructive or malicious mods
+❌ Add mods that go under the [exploding level](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/info/ContentRatings.md#-exploding-level)
 
 ❌ Add mods without adding source code
