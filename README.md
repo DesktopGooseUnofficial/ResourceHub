@@ -74,7 +74,7 @@ There are no modpacks available right now!
 
 ### If your mod isn't working please look at the checklist to see what step might be missing:
 
-**Check list:**
+**Checklist:**
 
 [   ] Latest version of Desktop Goose
 
