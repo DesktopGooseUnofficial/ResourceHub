@@ -35,7 +35,7 @@
 
 ## Modpacks 📦
 
-* [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV3.0Mods.md)
+* [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV0.3Mods.md)
 
 ## Deprecated mods 🧓
 
