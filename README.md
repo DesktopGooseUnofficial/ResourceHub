@@ -32,7 +32,7 @@
 * 🙂 [Color Picker Goose](mods/ColorPickerGoose.md)
 * 🙂 [Acid Goose](mods/AcidGoose.md)
 * 😐 [Clicker](mods/Clicker.md)
-* ❓ [🧪🦆 Early alpha Lua modloader - Quack](mods/Quack.md)
+* ❓ 🧪 Early alpha Lua modloader - [🦆 Quack](mods/Quack.md)
 
 ## Modpacks 📦
 
