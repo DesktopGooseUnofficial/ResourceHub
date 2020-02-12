@@ -35,7 +35,7 @@
 
 ## Modpacks 📦
 
-There are no modpacks available right now!
+* [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV3.0Mods.md)
 
 ## Deprecated mods 🧓
 
