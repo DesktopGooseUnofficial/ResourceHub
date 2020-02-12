@@ -2,6 +2,10 @@ So, what do the content ratings (🙂😐☹️) mean?
 
 The following explanations below are examples.
 
+# ❓ Inapplicable
+
+Anything that can't be properly rated, such as mod loaders.
+
 # 🙂 Green level
 
 All modifications only affect the goose!
