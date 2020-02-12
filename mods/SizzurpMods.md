@@ -19,3 +19,5 @@ Goose Version: **v0.3**
 Mod Version: **v1.3**
 
 Author: **Lil Sizzurp#0001**
+
+Source Code: [SizzurpMods](https://github.com/DesktopGooseUnofficial/SizzurpMods)
