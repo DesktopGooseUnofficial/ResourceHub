@@ -31,3 +31,6 @@ All documentation and functions can be found [here.](https://github.com/cuboide/
 
 ## Source Code
 The source code for this mod is [here.](https://github.com/cuboide/QuackLuaModloader)
+
+{% include install_guide.md modname="quack" iszip=true %}
+

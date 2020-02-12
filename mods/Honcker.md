@@ -35,3 +35,6 @@ DesktopGoose **v0.3**
         }
     }
 ```
+
+{% include install_guide.md modname="Honcker" iszip=false %}
+

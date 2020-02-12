@@ -16,3 +16,5 @@ Author: **⎝⎝𝓢𝓱𝓪𝓰𝓰𝔂 ⎠⎠#3892**
 ## GIF of Nametag:
 
 ![image](https://i.imgur.com/BBPND2p.gif)
+
+{% include install_guide.md modname="ShaggysNameMod" iszip=true %}

@@ -24,3 +24,5 @@ Changelog:
 DesktopGoose **v0.3**
 
 ![image](https://i.imgur.com/5yZWF32.gif)
+
+{% include install_guide.md modname="DiscoGoose" iszip=true %}
