@@ -3,7 +3,7 @@
 
 ---
 
-[![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/yjGFsUD) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
+[![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/aZPs574) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation).
+⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation) or your browser's built-in protection measures (Edgeium, Firefox, Chrom(e|ium).
 
 🤔 **What does 🙂, 😐, ☹️ and ❓ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
 
@@ -47,6 +47,7 @@
 ## Older mods (v0.2-v0.21)
 
 They do not use the modding API, instead they directly modify the Goose executable. They are also not able to be packed together, so you may only work with one mod at a time. 
+We also do ***not*** recommend using older mods due to their directly manipulated nature. Consider using mods made with v0.3 or later.
 
 * [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
 * [NabMouse Mod](mods/deprecated/NabMouse.md)
