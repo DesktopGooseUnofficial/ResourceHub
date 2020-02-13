@@ -4,9 +4,7 @@ This is a simple mod which allows you to drag the goose around your screen. But 
 
 p.s: Be careful when dragging the goose, you will still highlight/select stuff in the background.
 
-## Features
-
-You can drag the goose around your screen.
+## Download
 
 Get it: [DragGoose.dll](https://github.com/euandeas/GooseMod_DragGoose/releases/tag/1.0)
 ([Source](https://github.com/euandeas/GooseMod_DragGoose))
