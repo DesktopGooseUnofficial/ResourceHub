@@ -1,4 +1,4 @@
-# hatgoos 🟢
+# hatgoos 🙂
 
 ## Features
 
@@ -15,7 +15,7 @@ Author: **DaNike#6223**
 
 ---
 
-{% include install_guide.md modname="HatGoos" iszip=false %}
+{% include install_guide.md modname="HatGoos" iszip=true %}
 
 ---
 ## Tutorial on Custom Hats
