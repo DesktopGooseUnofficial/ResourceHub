@@ -1,6 +1,8 @@
-# 🙂 Acid Goose [![AcidGoose.zip](https://img.shields.io/badge/Click_to_download-ZIP-informational?style=plastic)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.zip)
+# 🙂 Acid Goose
 
 **A very weird version of the Goose we know and love ❤**
+
+Download: [AcidGoose.zip](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.zip)
 
 Goose Version: **v0.3**
 
