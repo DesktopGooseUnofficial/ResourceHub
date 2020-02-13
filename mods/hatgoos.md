@@ -1,10 +1,11 @@
-# hatgoos 🙂 [![hatgoos.zip](https://img.shields.io/badge/Click_to_download-ZIP-informational?style=plastic)](https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip)
+# hatgoos 🙂
 
 ## Features
 
 give your goos a hat (or your hat a goos if you prefer)
 
-[Source code](https://github.com/nike4613/GoosMods.3/tree/master/HatGoos)
+Get it: [HatGoos.zip](https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip)
+([Source](https://github.com/nike4613/GoosMods.3/tree/master/HatGoos))
 
 Goose Version: **v0.3**
 
