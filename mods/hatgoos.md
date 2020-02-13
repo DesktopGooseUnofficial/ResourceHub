@@ -60,3 +60,11 @@ Below is a chart that should tell you what kind of setting are there in your con
 **Q: Where can I get the Sample Hat Pack?**
 
 **A:** It was made by one of the discord members [here](https://github.com/Tatohead/ResourceHub-Images/raw/master/Hatgoos/Hats/Hats.zip)
+
+**Q: Do the hats have to be 32x32? (Based on the Hats.zip provided from previous question)**
+
+**A:** No, the hats can be larger than 1000x1000 or smaller than 32x32.
+
+**Q: Do the hats have to be pixel? Can I only use the hats in that file?**
+
+**A:** No, you can add any kind of hat you want. That sample pack is suppose to act as a reference for making or adding your own hats.
