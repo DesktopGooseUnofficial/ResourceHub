@@ -1,10 +1,7 @@
-# 🙂 Color Picker Goose
+# 🙂 Color Picker Goose [![GooseColorPicker.dll](https://img.shields.io/badge/Click_to_download-DLL-informational?style=plastic)](https://drive.google.com/file/d/1mo6Rre8YCARkxI-6BeiQ5_jYjLIGpNvQ/view)
 Use a color picker to select a color for your goose instead of setting it in the config
 Simplifies running multiple nametagged geese.
 Shows a Windows color dialog box on launch, like the one used in MS Paint.
-
-## Download
-[GooseColorPicker.dll](https://drive.google.com/file/d/1mo6Rre8YCARkxI-6BeiQ5_jYjLIGpNvQ/view)
 
 ## Source code
 ```csharp
