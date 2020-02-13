@@ -1,5 +1,5 @@
 ﻿
-![Desktop Goose Resource Hub!](https://i.imgur.com/iE7BH5U.png)
+![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png)
 
 ---
 
