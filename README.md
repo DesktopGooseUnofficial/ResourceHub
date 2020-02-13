@@ -3,6 +3,10 @@
 
 ---
 
+[![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/yjGFsUD) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
+
+---
+
 # Welcome to the UNOFFICIAL repo collecting all kinds of data related to SamPerson's Desktop Goose!
 
 ## Download the vanilla goose!
