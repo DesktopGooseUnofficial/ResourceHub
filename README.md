@@ -45,6 +45,9 @@
 
 Please note: Modloaders cannot be rated. As such, they will be rated with the Inapplicable ❓ rating.
 
+**Warning:** You do not need a mod loader to load regular mods (in the section above).
+Unless you need a modloader for a special kind of mod (these are in other sections), you do not need these.
+
 * ❓ [GooseLua](mods/GooseLua.md)
 * ❓ [Quack](mods/Quack.md)
 
