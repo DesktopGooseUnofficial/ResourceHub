@@ -20,6 +20,8 @@ Credit For Name: **Moracan#3634**
 
 Source Code: [SourceCode.cs](https://github.com/1JQ/GooseMenager/blob/master/For%20v0.3/SourceCode.cs )
 
+{% include install_guide.md modname="GooseManager" iszip=false %}
+
 ## How To Use
 
 **disabling goose actions:**
@@ -44,4 +46,4 @@ Having only charge active while having active meme and note actions will make go
 
 Disabling charge will not change goose speed in Nabmouse action (when goose catches mouse speed will change)
 
-{% include install_guide.md modname="GooseManager" iszip=false %}
+
