@@ -36,6 +36,7 @@
 * 🙂 [Acid Goose](mods/AcidGoose.md)
 * 🙂 [hatgoos](mods/hatgoos.md)
 * 🙂 [DragGoose](mods/DragGoose.md)
+* 🙂 [GooseManager](mods/GooseManager.md)
 * 😐 [Clicker](mods/Clicker.md)
 * ❓ 🧪 Early alpha Lua modloader - [🦆 Quack](mods/Quack.md)
 
