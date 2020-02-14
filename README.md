@@ -91,8 +91,6 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 [   ] Save the config
 
-<<<<<<< HEAD
 [   ] Restart the program	
 =======
-[   ] Restart the program
->>>>>>> a2b486ff6de07d219e82d08c189660eff7a36735
+
