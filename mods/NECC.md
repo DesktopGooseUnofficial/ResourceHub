@@ -1,4 +1,4 @@
-# 🙂 NECC
+# 🙂 NECC ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/necc-1.0/total?logo=github)
 
 ## Features
 
