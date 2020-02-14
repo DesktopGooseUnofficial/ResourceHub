@@ -1,4 +1,4 @@
-# 🙂 SizzurpMods
+# ✅ SizzurpMods ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/sizzurpmods-v1.3/total?logo=github)
 
 ## Features
 

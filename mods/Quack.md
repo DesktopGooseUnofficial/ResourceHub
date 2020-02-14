@@ -12,7 +12,7 @@ Unless you use Lua mods, this is not needed to load any mods.
 
 Ever hankered for a goose modloader in [Lua](https://www.lua.org/)? Well, here you go!
 
-Get it: [Quack Lua](https://github.com/cuboide/QuackLuaModloader/releases/latest)
+Get it: [Quack Lua](https://github.com/cuboide/QuackLuaModloader/releases/latest) ![GitHub All Releases](https://img.shields.io/github/downloads/cuboide/QuackLuaModloader/total?logo=github)
 
 **⚠ SUPER EARLY ALPHA**. CONTACT MOD AUTHOR IF ISSUES OR SUGGESTIONS/QUESTIONS APPEAR.
 

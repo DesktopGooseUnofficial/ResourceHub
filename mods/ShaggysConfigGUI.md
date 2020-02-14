@@ -1,4 +1,4 @@
-# 🙂 Shaggys Config GUI
+# ✅ Shaggys Config GUI ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/ShaggyMenu-1.0/total?logo=github)
 
 ## Features
 

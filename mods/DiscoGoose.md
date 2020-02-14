@@ -1,4 +1,4 @@
-# 🙂 DiscoGoose
+# ✅ DiscoGoose ![GitHub All Releases](https://img.shields.io/github/downloads/VeeDeeOh/DiscoGoose/total?logo=github)
 
 Turn your regular, boring goose into a party goose!
 

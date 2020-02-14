@@ -1,4 +1,4 @@
-# hatgoos 🙂
+# hatgoos ✅
 
 ## Features
 

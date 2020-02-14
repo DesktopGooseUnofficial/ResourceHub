@@ -1,4 +1,4 @@
-# 🙂 Color Picker Goose
+# ✅ Color Picker Goose
 Use a color picker to select a color for your goose instead of setting it in the config
 Simplifies running multiple nametagged geese.
 Shows a Windows color dialog box on launch, like the one used in MS Paint.
