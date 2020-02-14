@@ -1,5 +1,13 @@
 # ✅ GooseLua ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/lilsizzurp/gooselua/v0.1-alpha/total?logo=github)
 
+## Warning
+This is probably not what you are looking for!
+
+GooseLua loads Lua mods, not regular mods. A mod installation guide is included in every mod's page
+on the bottom.
+
+Unless you use Lua mods, this is not needed to load any mods.
+
 ## Features
 
 Lua mod making for Desktop Goose
