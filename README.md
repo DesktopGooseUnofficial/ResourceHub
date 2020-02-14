@@ -69,21 +69,17 @@ There are no notepad packs available right now.
 
 ### A mod doesn't appear to be working after I install it properly.
 
-![](https://owo.sh/32SSFSr.gif)
+![](https://whitenamehate.group/5A6FEba.gif)
 
 ### If your mod isn't working, refer to this checklist to see what step might be missing:
 
 **Checklist:**
 
-[   ] Latest version of Desktop Goose
-
-[   ] Mod DLL is in mods folder within its own folder
-
-[   ] Config file has EnableMods=True
-
-[   ] Save the config
-
-[   ] Restart the program
+- [ ] Latest version of Desktop Goose
+- [ ] Mod DLL is in mods folder within its own folder
+- [ ] Config file has EnableMods=True
+- [ ] Save the config
+- [ ] Restart the program
 
 ## Older mods (v0.2-v0.21)
 
