@@ -39,13 +39,14 @@
 * ✅ [GooseManager](mods/GooseManager.md)
 * ⚠️ [Clicker](mods/Clicker.md)
 
-### Modloaders 😮
+## Modloaders 😮
 
-Please note: Modloaders cannot be rated. As such, they will be rated with the **Inapplicable ❓** rating.
+Please note: Modloaders cannot be rated. As such, they will be rated with the Inapplicable ❓ rating.
 
-* ❓ 🧪 Early alpha Lua modloader - [🦆 Quack](mods/Quack.md)
+* ❓ [GooseLua](mods/GooseLua.md)
+* ❓ [Quack](mods/Quack.md)
 
-### Modpacks 📦
+## Modpacks 📦
 
 * [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV0.3Mods.md)
 
@@ -89,12 +90,8 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 **Checklist:**
 
-[   ] Latest version of Desktop Goose
-
-[   ] Mod DLL is in mods folder within its own folder
-
-[   ] Config file has EnableMods=True
-
-[   ] Save the config
-
-[   ] Restart the program
+- [ ] Latest version of Desktop Goose
+- [ ] Mod DLL is in mods folder within its own folder
+- [ ] Config file has EnableMods=True
+- [ ] Save the config
+- [ ] Restart the program
