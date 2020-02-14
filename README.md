@@ -49,27 +49,6 @@ Please note: Modloaders cannot be rated. As such, they will be rated with the **
 
 * [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV0.3Mods.md)
 
-## Older mods (v0.2-v0.21)
-
-They do not use the modding API, instead they directly modify the Goose executable. They are also not able to be packed together, so you may only work with one mod at a time. 
-We also do ***not*** recommend using older mods due to their directly manipulated nature. Consider using mods made with v0.3 or later.
-
-* [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
-* [NabMouse Mod](mods/deprecated/NabMouse.md)
-* [Highly Configurable Goose](mods/deprecated/HiConfGoose.md)
-* [Shaggy's Name Mod](mods/deprecated/ShaggysNameMod.md)
-* [Shaggy's Sound Control](mods/deprecated/ShaggysSoundControl.md)
-* [Shaggy's ImageCapFix](mods/deprecated/ShaggysImageCapFix.md)
-* [fastgoos](mods/deprecated/fastgoos.md)
-* [hatgoos](mods/deprecated/hatgoos.md)
-* [Sneaky Goose](mods/deprecated/SneakyGoose.md)
-* [Mad?'s Facts Mod](mods/deprecated/MadsFacts.md)
-
-### Older modpacks 📦
-
-* [Maxime's ModPack](modpacks/deprecated/MaximesModPack.md)
-* [Shaggy's ModPack(GUI)](modpacks/deprecated/ShaggysModPack_GUI.md)
-
 ## Tutorials and info 💁‍♂️
 
 * [Game List](info/GameTestList.md)
@@ -78,6 +57,10 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
+
+## Notepad Packs 📋
+
+There are no notepad packs available right now.
 
 ## FAQs 🤔❓
 
@@ -98,3 +81,24 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 [   ] Save the config
 
 [   ] Restart the program
+
+## Older mods (v0.2-v0.21)
+
+They do not use the modding API, instead they directly modify the Goose executable. They are also not able to be packed together, so you may only work with one mod at a time. 
+We also do ***not*** recommend using older mods due to their directly manipulated nature. Consider using mods made with v0.3 or later.
+
+* [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
+* [NabMouse Mod](mods/deprecated/NabMouse.md)
+* [Highly Configurable Goose](mods/deprecated/HiConfGoose.md)
+* [Shaggy's Name Mod](mods/deprecated/ShaggysNameMod.md)
+* [Shaggy's Sound Control](mods/deprecated/ShaggysSoundControl.md)
+* [Shaggy's ImageCapFix](mods/deprecated/ShaggysImageCapFix.md)
+* [fastgoos](mods/deprecated/fastgoos.md)
+* [hatgoos](mods/deprecated/hatgoos.md)
+* [Sneaky Goose](mods/deprecated/SneakyGoose.md)
+* [Mad?'s Facts Mod](mods/deprecated/MadsFacts.md)
+
+### Older modpacks 📦
+
+* [Maxime's ModPack](modpacks/deprecated/MaximesModPack.md)
+* [Shaggy's ModPack(GUI)](modpacks/deprecated/ShaggysModPack_GUI.md)
