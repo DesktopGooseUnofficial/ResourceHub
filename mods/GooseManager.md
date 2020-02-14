@@ -6,6 +6,20 @@ Adds a file where you can disable goose actions
 
 Adds a file where you can disable goose speed tiers
 
+## Info
+
+Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/blob/master/For%20v0.3/GooseManager.dll?raw=true )
+
+Goose Version: **v0.3**
+
+Mod Version: **v1.0**
+
+Author: **JQ#2077**
+
+Credit For Name: **Moracan#3634**
+
+Source Code: [SourceCode.cs](https://github.com/1JQ/GooseMenager/blob/master/For%20v0.3/SourceCode.cs )
+
 ## How To Use
 
 **disabling goose actions:**
@@ -29,19 +43,5 @@ To apply changes you need to restart goose
 Having only charge active while having active meme and note actions will make goose dancing with window while holded window is on
 
 Disabling charge will not change goose speed in Nabmouse action (when goose catches mouse speed will change)
-
-## Info
-
-Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/blob/master/For%20v0.3/GooseManager.dll?raw=true )
-
-Goose Version: **v0.3**
-
-Mod Version: **v1.0**
-
-Author: **JQ#2077**
-
-Credit For Name: **Moracan#3634**
-
-Source Code: [SourceCode.cs](https://github.com/1JQ/GooseMenager/blob/master/For%20v0.3/SourceCode.cs )
 
 {% include install_guide.md modname="GooseMenager" iszip=false %}
