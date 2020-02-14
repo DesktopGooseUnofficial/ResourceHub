@@ -45,5 +45,3 @@ To apply changes you need to restart goose
 Having only charge active while having active meme and note actions will make goose dancing with window while holded window is on
 
 Disabling charge will not change goose speed in Nabmouse action (when goose catches mouse speed will change)
-
-
