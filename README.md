@@ -92,8 +92,4 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 [   ] Save the config
 
 [   ] Restart the program	
-<<<<<<< HEAD
-=======
 
-=======
->>>>>>> dbfb5a1f89b95608e8654555094128485057eb1f
