@@ -1,4 +1,4 @@
-# 🙂 GooseManager
+# ✅ GooseManager ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.0/total?logo=github)
 
 ## Features
 
@@ -44,4 +44,4 @@ Having only charge active while having active meme and note actions will make go
 
 Disabling charge will not change goose speed in Nabmouse action (when goose catches mouse speed will change)
 
-{% include install_guide.md modname="GooseMenager" iszip=false %}
+{% include install_guide.md modname="GooseManager" iszip=false %}
