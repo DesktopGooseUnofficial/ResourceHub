@@ -26,6 +26,8 @@
 
 **These mods are for v0.3.** They use the modding API.
 
+**Are you looking for v0.2-v0.21 mods?** They have moved to the bottom of this page.
+
 * ✅ [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
 * ✅ [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
 * ✅ [NECC](mods/NECC.md)
