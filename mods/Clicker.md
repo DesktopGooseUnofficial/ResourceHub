@@ -1,4 +1,4 @@
-# 😐 Clicker
+# ⚠️ Clicker
 
 If you want to make your goose even more chaotic, then this mods for you. It will randomly click and open applications on your desktop. 
 
