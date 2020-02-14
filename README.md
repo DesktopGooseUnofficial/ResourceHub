@@ -172,7 +172,7 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 ### A mod doesn't appear to be working after I install it properly.
 
-![](https://owo.sh/32SSFSr.gif)
+![](https://owo.sh/3o1sULH.gif)
 
 ### If your mod isn't working please look at the checklist to see what step might be missing:
 
