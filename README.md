@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-﻿
 ![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png)
 
 ---
@@ -189,4 +187,3 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 [   ] Save the config
 
 [   ] Restart the program
->>>>>>> 2c0be33bd9cec6430aa6e1ea310ccbb86120cff3
