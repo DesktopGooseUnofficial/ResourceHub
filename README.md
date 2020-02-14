@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+﻿
 ![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png)
 
 ---
@@ -98,7 +100,7 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 ---
 
-[![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/yjGFsUD) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
+[![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/aZPs574) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
 ---
 
@@ -108,10 +110,9 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 [He's on itch.io](https://samperson.itch.io/desktop-goose).
 
----
+---	
 
-⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation).
-
+⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation) or your browser's built-in protection measures (Edgeium, Firefox, Chrom(e|ium).
 🤔 **What does 🙂, 😐, ☹️ and ❓ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/yjGFsUD).
@@ -141,7 +142,8 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 ## Deprecated mods 🧓
 
-**These mods are for v0.21 and v0.2.** They do not use the modding API, instead they directly modify the Goose .exe file.
+**These mods are for v0.21 and v0.2.** They do not use the modding API, instead they directly modify the Goose executable. They are also not able to be packed together, so you may only work with one mod at a time. 
+We also do ***not*** recommend using older mods due to their directly manipulated nature. Consider using mods made with v0.3 or later.
 
 * [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
 * [NabMouse Mod](mods/deprecated/NabMouse.md)
@@ -170,9 +172,9 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 
 ## FAQs 🤔❓
 
-### Okay I got a mod, placed it in the right folder and all that but it's not working, how do I enable it?
+### A mod doesn't appear to be working after I install it properly.
 
-![](https://i.imgur.com/ZNB4wsy.gif)
+![](https://owo.sh/32SSFSr.gif)
 
 ### If your mod isn't working please look at the checklist to see what step might be missing:
 
@@ -187,3 +189,4 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 [   ] Save the config
 
 [   ] Restart the program
+>>>>>>> 2c0be33bd9cec6430aa6e1ea310ccbb86120cff3
