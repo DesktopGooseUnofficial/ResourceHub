@@ -18,7 +18,7 @@
 
 🤔 **What does 🙂, 😐, ☹️ and ❓ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
 
-🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/yjGFsUD).
+🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord.](https://discord.gg/yjGFsUD)
 
 ---
 
@@ -92,4 +92,4 @@ We also do ***not*** recommend using older mods due to their directly manipulate
 [   ] Save the config
 
 [   ] Restart the program	
-
+		
