@@ -14,7 +14,7 @@ Lua mod making for Desktop Goose
 
 ## Info
 
-Get it: [GooseLua.zip](https://github.com/LilSizzurp/GooseLua/releases/download/v0.1-alpha/GooseLua.zip)
+Get it: [GooseLua.zip](https://github.com/GooseLua/GooseLua/releases/download/v0.1-alpha/GooseLua.zip)
 
 Goose Version: **v0.3**
 
@@ -24,6 +24,6 @@ Author: **Lil Sizzurp#0001**
 
 Website: [GooseLua](https://gooselua.my.to/)
 
-Source Code: [GooseLua](https://github.com/LilSizzurp/GooseLua/)
+Source Code: [GooseLua](https://github.com/GooseLua/GooseLua/)
 
 {% include install_guide.md modname="GooseLua" iszip=true %}
