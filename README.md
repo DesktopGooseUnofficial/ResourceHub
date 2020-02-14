@@ -39,13 +39,14 @@
 * ✅ [GooseManager](mods/GooseManager.md)
 * ⚠️ [Clicker](mods/Clicker.md)
 
-### Modloaders 😮
+## Modloaders 😮
 
-Please note: Modloaders cannot be rated. As such, they will be rated with the **Inapplicable ❓** rating.
+Please note: Modloaders cannot be rated. As such, they will be rated with the Inapplicable ❓ rating.
 
-* ❓ 🧪 Early alpha Lua modloader - [🦆 Quack](mods/Quack.md)
+* ❓ [GooseLua](mods/GooseLua.md)
+* ❓ [Quack](mods/Quack.md)
 
-### Modpacks 📦
+## Modpacks 📦
 
 * [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV0.3Mods.md)
 
