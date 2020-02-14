@@ -131,7 +131,7 @@ Below is a list of mods that have been tested to either work perfectly or fail d
 
 **Q: I remember there was someone providing some sample custom made hats?**
 
-**A:** Yes, it was made by one of the discord members [here](https://cdn.discordapp.com/attachments/672263146240737280/674417818741112832/Hats.zip).
+**A:** Yes, it was made by one of the discord members [here](https://github.com/Tatohead/ResourceHub-Images/raw/master/Hatgoos/Hats/Hats.zip).
 
 **Q: Do the hats have to be 32x32? (Based on the Hats.zip provided from previous question)**
 
