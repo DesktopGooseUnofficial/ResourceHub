@@ -14,11 +14,11 @@ Lua mod making for Desktop Goose
 
 ## Info
 
-Get it: [GooseLua.zip](https://github.com/GooseLua/GooseLua/releases/download/v0.1-alpha/GooseLua.zip)
+Get it: [GooseLua.zip](https://github.com/GooseLua/GooseLua/releases/download/v0.2-alpha/GooseLua.zip)
 
 Goose Version: **v0.3**
 
-Mod Version: **v0.1-alpha**
+Mod Version: **v0.2-alpha**
 
 Author: **Lil Sizzurp#0001**
 
