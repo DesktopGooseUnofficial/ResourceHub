@@ -1,4 +1,4 @@
-# ✅ GooseLua ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/lilsizzurp/gooselua/v0.1-alpha/total?logo=github)
+# ✅ GooseLua ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/lilsizzurp/gooselua/v0.2-alpha/total?logo=github)
 
 ## Warning
 This is probably not what you are looking for!
