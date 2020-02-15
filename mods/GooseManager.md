@@ -8,7 +8,7 @@ Adds a file where you can disable goose speed tiers
 
 ## Info
 
-Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/blob/master/For%20v0.3/GooseManager.dll?raw=true )
+Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/releases/download/v1.0/GooseManager.dll?raw=true )
 
 Goose Version: **v0.3**
 
