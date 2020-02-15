@@ -6,7 +6,7 @@ Still work in progress but want people to try it out!
 
 ## Download
 
-Get it: [DragGoose.dll](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.0)
+Get it: [BreadCrumbs.dll](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.0)
 ([Source](https://github.com/euandeas/GooseMod_BreadCrumbs))
 
 Goose Version: **v0.3**
