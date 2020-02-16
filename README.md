@@ -39,6 +39,7 @@
 * ✅ [hatgoos](mods/hatgoos.md)
 * ✅ [DragGoose](mods/DragGoose.md)
 * ✅ [GooseManager](mods/GooseManager.md)
+* ✅ [BreadCrumbs](mods/BreadCrumbs.md)
 * ⚠️ [Clicker](mods/Clicker.md)
 
 ## Modloaders 😮
