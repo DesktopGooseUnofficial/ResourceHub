@@ -14,7 +14,7 @@ Goose Version: **v0.3**
 
 Mod Version: **v1.0**
 
-Author: **JQ#2077**
+Author: **JQ#1693**
 
 Credit For Name: **Moracan#3634**
 
