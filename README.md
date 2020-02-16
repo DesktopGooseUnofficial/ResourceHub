@@ -66,7 +66,7 @@ Unless you need a modloader for a special kind of mod (these are in other sectio
 
 ## Notepad Packs 📋
 
-There are no notepad packs available right now.
+* [SF008's Notepad Pack](notepads/superflower008.md)
 
 ## FAQs 🤔❓
 
