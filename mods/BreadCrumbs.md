@@ -6,7 +6,7 @@ Still work in progress but want people to try it out!
 
 ## Download
 
-Get it: [BreadCrumbs.dll](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.0)
+Get it: [BreadCrumbs.zip](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.0)
 ([Source](https://github.com/euandeas/GooseMod_BreadCrumbs))
 
 Goose Version: **v0.3**
@@ -17,4 +17,4 @@ Author: **Straaft#2916**
 
 ---
 
-{% include install_guide.md modname="DragGoose" iszip=true %}
+{% include install_guide.md modname="BreadCrumbs" iszip=true %}
