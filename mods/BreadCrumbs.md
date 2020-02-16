@@ -2,6 +2,8 @@
 
 This mod allows you to feed the goose to make him walk across your screen, or to calm him down when he is in a frenzy. Plus he makes cute nom sound.
 
+Usage: Press 'Right Shift Button' to throw crumbs at your mouse pointer.
+
 Still work in progress but want people to try it out!
 
 ## Download
