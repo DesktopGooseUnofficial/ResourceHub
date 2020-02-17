@@ -15,4 +15,4 @@ The macOS version does not support mods yet.
 5. If you haven't already, open `config.ini` and change `EnableMods=False` to `EnableMods=True`
 6. If you haven't already, save the `config.ini` file.
 7. Done!
-
+(didn't work? feel free to ask for support in the [#goose-mods channel on the discord server](https://discord.gg/yjGFsUD).)
