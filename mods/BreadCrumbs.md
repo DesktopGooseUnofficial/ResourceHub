@@ -4,7 +4,7 @@ This mod allows you to feed the goose to make him walk across your screen, or to
 
 Usage: Press 'Right Shift Button' to throw crumbs at your mouse pointer.
 
-Still work in progress but want people to try it out!
+Still work in progress but want people to try it out! You can [request new features here](https://github.com/euandeas/GooseMod_BreadCrumbs/issues/new).
 
 ## Download
 
