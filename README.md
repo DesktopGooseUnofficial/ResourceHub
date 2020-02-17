@@ -10,8 +10,9 @@
 
 ## Support SamPerson, download the vanilla goose!
 
-[Download the Goose](https://samperson.itch.io/desktop-goose).
-[Give Sam money via Patreon](https://patreon.com/sammakesvr).
+[Download the Goose](https://samperson.itch.io/desktop-goose). Using v0.3+ mods requires downloading the vanilla goose first.
+
+[Support Sam by giving him money via Patreon](https://patreon.com/sammakesvr).
 
 ---
 
