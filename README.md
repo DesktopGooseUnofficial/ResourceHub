@@ -6,11 +6,12 @@
 
 ---
 
-# Welcome to the UNOFFICIAL repo collecting all kinds of data related to SamPerson's Desktop Goose!
+# Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
 
-## Download the vanilla goose!
+## Support SamPerson, download the vanilla goose!
 
-[He's on itch.io](https://samperson.itch.io/desktop-goose).
+[Download the Goose](https://samperson.itch.io/desktop-goose).
+[Give Sam money via Patreon](https://patreon.com/sammakesvr).
 
 ---
 
