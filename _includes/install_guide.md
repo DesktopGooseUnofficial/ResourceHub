@@ -8,6 +8,7 @@ The macOS version does not support mods yet.
 
 **Need help? Something not working right?** Feel free to ask for support in the [#goose-mods channel on the discord server](https://discord.gg/yjGFsUD). 
 
+0. If you have the Goose running, close him first.
 1. Go to the `Mods` folder in the `Assets` folder. {% if include.iszip %}
 2. Open the `{{ include.modname }}.zip` file.
 3. Copy the folder from the `{{ include.modname }}.zip` file to the `Mods` directory. {% else %}
