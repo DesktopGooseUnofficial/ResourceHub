@@ -1,4 +1,4 @@
-# ✅ GooseLua ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/lilsizzurp/gooselua/v0.2-alpha/total?logo=github)
+# ✅ GooseLua ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/lilsizzurp/gooselua/v0.3-alpha/total?logo=github)
 
 ## Warning
 This is probably not what you are looking for!
@@ -14,15 +14,15 @@ Lua mod making for Desktop Goose
 
 ## Info
 
-Get it: [GooseLua.zip](https://github.com/GooseLua/GooseLua/releases/download/v0.2-alpha/GooseLua.zip)
+Get it: [GooseLua.zip](https://github.com/GooseLua/GooseLua/releases/download/v0.3-alpha/GooseLua.zip)
+
+Website/Docs: [gooselua.my.to](https://gooselua.my.to/)
 
 Goose Version: **v0.3**
 
-Mod Version: **v0.2-alpha**
+Mod Version: **v0.3-alpha**
 
 Author: **Lil Sizzurp#0001**
-
-Website: [GooseLua](https://gooselua.my.to/)
 
 Source Code: [GooseLua](https://github.com/GooseLua/GooseLua/)
 
