@@ -8,12 +8,12 @@ Still work in progress but want people to try it out!
 
 ## Download
 
-Get it: [BreadCrumbs.zip](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.0)
+Get it: [BreadCrumbs.zip](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.1)
 ([Source](https://github.com/euandeas/GooseMod_BreadCrumbs))
 
 Goose Version: **v0.3**
 
-Mod Version: **1.0**
+Mod Version: **1.1**
 
 Author: **Straaft#2916**
 
