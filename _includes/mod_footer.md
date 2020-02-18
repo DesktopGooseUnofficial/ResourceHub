@@ -1,3 +1,3 @@
 You're on {{ page.path }}!
 
-Browse [modloaders](./modloaders.md), [modpacks](./modpacks.md) or [mods](./mods.md).
+Browse [modloaders]({{ site.baseurl }}{% link mods/explore/modloaders.md %}), [modpacks]({{ site.baseurl }}{% link mods/explore/modpacks.md %}) or [mods]({{ site.baseurl }}{% link mods/explore/mods.md %}).
