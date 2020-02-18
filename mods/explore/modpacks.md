@@ -1,4 +1,4 @@
-## Explore the ResourceHub modpacks
+# Explore the ResourceHub modpacks
 
 * [DesktopGoose v0.3 Mods](../../modpacks/DesktopGooseV0.3Mods.md)
 
