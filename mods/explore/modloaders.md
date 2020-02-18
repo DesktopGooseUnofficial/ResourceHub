@@ -5,7 +5,7 @@ Please note: Modloaders cannot be rated. As such, they will be rated with the In
 **NOTE:** You do not need a mod loader to load normal mods.
 Unless you need a modloader for a special kind of mod, you do not need these.
 
-* ❓ [GooseLua](mods/GooseLua.md)
-* ❓ [Quack](mods/Quack.md)
+* ❓ [GooseLua](../GooseLua.md)
+* ❓ [Quack](../Quack.md)
 
 {% include mod_footer.md %}

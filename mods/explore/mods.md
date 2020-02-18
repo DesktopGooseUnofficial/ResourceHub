@@ -2,18 +2,18 @@
 
 **These mods are for v0.3.** They use the modding API.
 
-* ✅ [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
-* ✅ [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
-* ✅ [NECC](mods/NECC.md)
-* ✅ [SizzurpMods](mods/SizzurpMods.md)
-* ✅ [DiscoGoose](mods/DiscoGoose.md)
-* ✅ [Honcker](mods/Honcker.md)
-* ✅ [Color Picker Goose](mods/ColorPickerGoose.md)
-* ✅ [Acid Goose](mods/AcidGoose.md)
-* ✅ [hatgoos](mods/hatgoos.md)
-* ✅ [DragGoose](mods/DragGoose.md)
-* ✅ [GooseManager](mods/GooseManager.md)
-* ✅ [BreadCrumbs](mods/BreadCrumbs.md)
-* ⚠️ [Clicker](mods/Clicker.md)
+* ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
+* ✅ [Shaggy's Nametag Mod](../ShaggysNametagMod.md)
+* ✅ [NECC](../NECC.md)
+* ✅ [SizzurpMods](../SizzurpMods.md)
+* ✅ [DiscoGoose](../DiscoGoose.md)
+* ✅ [Honcker](../Honcker.md)
+* ✅ [Color Picker Goose](../ColorPickerGoose.md)
+* ✅ [Acid Goose](../AcidGoose.md)
+* ✅ [hatgoos](../hatgoos.md)
+* ✅ [DragGoose](../DragGoose.md)
+* ✅ [GooseManager](../GooseManager.md)
+* ✅ [BreadCrumbs](../BreadCrumbs.md)
+* ⚠️ [Clicker](../Clicker.md)
 
 {% include mod_footer.md %}
