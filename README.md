@@ -24,6 +24,8 @@
 
 ---
 
+## Latest news
+ResourceHub may be getting [its very own launcher](https://github.com/DesktopGooseUnofficial/launcher)! Please note that this launcher is **very work in progress** and may change at any time. Grab a copy of the launcher here: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
 ## Mods 🧩
 
 All content related to mods has moved! [Find mods by clicking here](mods/explore/mods.md).
