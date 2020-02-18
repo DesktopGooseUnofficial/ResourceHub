@@ -26,37 +26,7 @@
 
 ## Mods 🧩
 
-**These mods are for v0.3.** They use the modding API.
-
-**Are you looking for v0.2-v0.21 mods?** They have moved to the bottom of this page.
-
-* ✅ [Shaggy's Config Menu](mods/ShaggysConfigGUI.md)
-* ✅ [Shaggy's Nametag Mod](mods/ShaggysNametagMod.md)
-* ✅ [NECC](mods/NECC.md)
-* ✅ [SizzurpMods](mods/SizzurpMods.md)
-* ✅ [DiscoGoose](mods/DiscoGoose.md)
-* ✅ [Honcker](mods/Honcker.md)
-* ✅ [Color Picker Goose](mods/ColorPickerGoose.md)
-* ✅ [Acid Goose](mods/AcidGoose.md)
-* ✅ [hatgoos](mods/hatgoos.md)
-* ✅ [DragGoose](mods/DragGoose.md)
-* ✅ [GooseManager](mods/GooseManager.md)
-* ✅ [BreadCrumbs](mods/BreadCrumbs.md)
-* ⚠️ [Clicker](mods/Clicker.md)
-
-## Modloaders 😮
-
-Please note: Modloaders cannot be rated. As such, they will be rated with the Inapplicable ❓ rating.
-
-**NOTE:** You do not need a mod loader to load normal mods (in the section above).
-Unless you need a modloader for a special kind of mod (these are in other sections), you do not need these.
-
-* ❓ [GooseLua](mods/GooseLua.md)
-* ❓ [Quack](mods/Quack.md)
-
-## Modpacks 📦
-
-* [DesktopGoose v0.3 Mods](modpacks/DesktopGooseV0.3Mods.md)
+All content related to mods has moved! [Find mods by clicking here](mods/.INDEX.md).
 
 ## Tutorials and info 💁‍♂️
 
