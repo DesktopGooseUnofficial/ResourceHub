@@ -26,7 +26,7 @@
 
 ## Mods 🧩
 
-All content related to mods has moved! [Find mods by clicking here](mods/home/home.md).
+All content related to mods has moved! [Find mods by clicking here](mods/explore/home.md).
 
 ## Tutorials and info 💁‍♂️
 
