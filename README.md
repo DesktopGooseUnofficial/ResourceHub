@@ -16,6 +16,15 @@
 
 ---
 
+## Latest news
+THE LAUNCHER IS READY LET'S GOOOOOOO
+
+The first stable version is now out!
+
+Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
+
+---
+
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation) or your browser's built-in protection measures (Edgeium, Firefox, Chrome/Chromium).
 
 🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
@@ -23,13 +32,6 @@
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
 ---
-
-## Latest news
-THE LAUNCHER IS READY LET'S GOOOOOOO
-
-The first stable version is now out!
-
-Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
 
 ## Mods 🧩
 
