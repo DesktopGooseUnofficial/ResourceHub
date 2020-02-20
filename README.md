@@ -25,9 +25,12 @@
 ---
 
 ## Latest news
-The launcher is somewhat ready now! It's still in early access though.
+THE LAUNCHER IS READY LET'S GOOOOOOO
+
+The first stable version is now out!
 
 Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
+
 ## Mods 🧩
 
 All content related to mods has moved! [Find mods by clicking here](mods/explore/mods.md).
