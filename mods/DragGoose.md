@@ -17,4 +17,4 @@ Author: **Straaft#2916**
 
 ---
 
-{% include install_guide.md modname="DragGoose" iszip=true %}
+{% include install_guide.md modname="DragGoose" iszip=false %}
