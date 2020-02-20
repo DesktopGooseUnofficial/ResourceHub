@@ -6,12 +6,12 @@ Usage: Press 'Right Shift Button' to throw crumbs at your mouse pointer.
 
 ## Download
 
-Get it: [BreadCrumbs.zip](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.2)
+Get it: [BreadCrumbs.zip](https://github.com/euandeas/GooseMod_BreadCrumbs/releases/tag/1.3)
 ([Source](https://github.com/euandeas/GooseMod_BreadCrumbs))
 
 Goose Version: **v0.3**
 
-Mod Version: **1.2**
+Mod Version: **1.3**
 
 Author: **Straaft#2916**
 
