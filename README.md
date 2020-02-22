@@ -16,10 +16,11 @@
 
 ---
 
-## Latest news
-THE LAUNCHER IS READY LET'S GOOOOOOO
+## Launcher
 
-The first stable version is now out!
+The launcher is an easier way to install and use mods.
+
+However, you can still manually download mods on this website!
 
 Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
 
