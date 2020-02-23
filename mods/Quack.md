@@ -14,7 +14,9 @@ Ever hankered for a goose modloader in [Lua](https://www.lua.org/)? Well, here y
 
 Get it: [Quack Lua](https://github.com/cuboide/QuackLuaModloader/releases/latest) ![GitHub All Releases](https://img.shields.io/github/downloads/cuboide/QuackLuaModloader/total?logo=github)
 
-**⚠ SUPER EARLY ALPHA**. CONTACT MOD AUTHOR IF ISSUES OR SUGGESTIONS/QUESTIONS APPEAR.
+⚠ Please note this modloader is in beta testing. It is functional and quite stable, but everything is subject to change. Suggestions and questions are appreciated!
+
+Submit your mods to the mod author, it may even get on the mods page!
 
 Goose Version: **v0.3**
 
