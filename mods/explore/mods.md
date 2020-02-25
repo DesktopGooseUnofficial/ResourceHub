@@ -15,6 +15,7 @@
 * ✅ [GooseManager](../GooseManager.md)
 * ✅ [BreadCrumbs](../BreadCrumbs.md)
 * ✅ [Debugoose](../Debugoose.md)
+* ✅ [Ball](../Ball.md)
 * ⚠️ [Clicker](../Clicker.md)
 
 {% include mod_footer.md %}
