@@ -1,5 +1,15 @@
 # Explore the ResourceHub mods
 
+## Launcher
+
+The launcher is an easier way to install and use mods.
+
+However, you can still manually download mods on this website!
+
+Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
+
+---
+
 **These mods are for v0.3.** They use the modding API.
 
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
