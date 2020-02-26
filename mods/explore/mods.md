@@ -25,6 +25,7 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 * ✅ [GooseManager](../GooseManager.md)
 * ✅ [BreadCrumbs](../BreadCrumbs.md)
 * ✅ [Debugoose](../Debugoose.md)
+* ✅ [Sonigoose](../Sonigoose.md)
 * ✅ [Ball](../Ball.md)
 * ⚠️ [Clicker](../Clicker.md)
 
