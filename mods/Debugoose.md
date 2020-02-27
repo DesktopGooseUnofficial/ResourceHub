@@ -4,15 +4,15 @@
 
 **gives your goose a set of debugging info, including stuff from console.WriteLine()**
 
-The mod at the moment shows the 10 most recent console lines
+The mod shows the 10 most recent console lines, saving the full console to log.txt
 
-Get it: [Debugoose](https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.0/debugoose.dll)
+Get it: [Debugoose](https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.1/debugoose.dll)
 
 Look inside: [SourceCode](https://github.com/CodeF53/DskptGoose-Debugoose/tree/master/GooseMod_Debugoose)
 
 Goose Version: **v0.3**
 
-Mod Version: **v1.0**
+Mod Version: **v1.1**
 
 Author: **CodeF53#0241**
 
