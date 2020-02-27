@@ -8,6 +8,8 @@ The mod at the moment shows the 10 most recent console lines
 
 Get it: [Debugoose](https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.0/debugoose.dll)
 
+Look inside: [SourceCode](https://github.com/CodeF53/DskptGoose-Debugoose/tree/master/GooseMod_Debugoose)
+
 Goose Version: **v0.3**
 
 Mod Version: **v1.0**
