@@ -8,11 +8,11 @@ Adds a file where you can disable goose speed tiers
 
 ## Info
 
-Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/releases/download/v1.0/GooseManager.dll?raw=true )
+Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/releases/latest/download/GooseManager.dll?raw=true )
 
 Goose Version: **v0.3**
 
-Mod Version: **v1.0**
+Mod Version: **v1.1**
 
 Author: **JQ#1693**
 
@@ -26,13 +26,13 @@ Source Code: [SourceCode.cs](https://github.com/1JQ/GooseMenager/blob/master/For
 
 **disabling goose actions:**
 
-After first time of starting goose with this mod, "GooseTasks.txt" file will be added to folder, there you can disable action by changing True to False on the right side of action name!
+After first time of starting goose with this mod, "GooseTasks.txt" file will be added to mod folder, there you can disable action by changing True to False on the right side of action name!
 
 If all actions are disabled, all actions will be enabled
 
 **disabling goose speed tiers:**
 
-After first time of starting goose with this mod, "GooseSpeedTiers.txt" file will be added to folder, there you can disable speed tier by changing True to False on the right side of speed tier!
+After first time of starting goose with this mod, "GooseSpeedTiers.txt" file will be added to mod folder, there you can disable speed tier by changing True to False on the right side of speed tier!
 
 If all speed tiers are disabled, all speed tiers will be enabled
 
