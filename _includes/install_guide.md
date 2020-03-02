@@ -1,3 +1,11 @@
+## Launcher
+
+The launcher is an easier way to install and use mods.
+
+However, you can still manually download mods on this website!
+
+Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
+
 ## Installation guide
 
 First, make sure that you are running Desktop Goose v0.3.
