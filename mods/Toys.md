@@ -2,7 +2,10 @@
 
 Toys mod for Desktop Goose
 
-Features:
+# New
+- Laser Pointer - Attach a laser pointer to the mouse for the goose to chase
+
+# Features:
 - Menu - Tab menu in lower left corner of display for toggling toys
 Mouse over items until loading bar is full to activate/deactivate
 - Ball - A ball to bounce around and play with
@@ -16,7 +19,7 @@ Download : [ToysMod.zip](https://github.com/TheOrlando/DesktopGooseMod_Toys/rele
 
 Goose Version : **0.3**
 
-Mod Version : **1.0**
+Mod Version : **1.1**
 
 Author : **TheOrlando#9984**
 
