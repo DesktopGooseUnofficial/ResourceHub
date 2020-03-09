@@ -28,6 +28,8 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 * ✅ [Sonigoose](../Sonigoose.md)
 * ✅ [Ball](../Ball.md)
 * ✅ [Toys](../Toys.md)
+* ✅ [PortalGoos](../PortalGoos.md)
 * ⚠️ [Clicker](../Clicker.md)
+
 
 {% include mod_footer.md %}
