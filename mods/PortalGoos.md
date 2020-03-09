@@ -1,4 +1,4 @@
-# ✅ PortalGoos![GitHub All Releases](https://img.shields.io/github/downloads/moonaliss1/DesktopGooseMod_PortalGoos/v1.0/total?label=Downloads)
+# ✅ PortalGoos!  [GitHub All Releases](https://img.shields.io/github/downloads/moonaliss1/DesktopGooseMod_PortalGoos/v1.0/total?label=Downloads)
 
 Portal mod for your Goos!
 
