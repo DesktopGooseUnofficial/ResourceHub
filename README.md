@@ -18,13 +18,9 @@
 
 ## Launcher
 
-The launcher is an easier way to install and use mods.
-
-However, you can still manually download mods on this website!
+The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
 
 Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
-
-There are also highly experimental testing versions of the launcher which are created automatically from the launcher source code. You can download experimental testing versions here: [Nightly Download](https://github.com/DesktopGooseUnofficial/launcher-nightly/releases/latest)
 
 ---
 
@@ -35,6 +31,10 @@ There are also highly experimental testing versions of the launcher which are cr
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
 ---
+
+## Sunsetting old mods (made for v0.21 and below)
+
+Old mods have now been removed from ResourceHub. There are a variety of reasons for this - however the main one is due to them directly manipulating the source code of the goose and that they could provide users with old (although modded) versions of the goose, as well as the fact that you can't really read their source code to check for any suspicious code without decompiling them. We are sorry in advance for any inconveniences this may cause. :(
 
 ## Mods 🧩
 
