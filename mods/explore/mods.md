@@ -12,6 +12,7 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 
 **These mods are for v0.3.** They use the modding API.
 
+* ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
 * ✅ [Shaggy's Nametag Mod](../ShaggysNametagMod.md)
 * ✅ [NECC](../NECC.md)
