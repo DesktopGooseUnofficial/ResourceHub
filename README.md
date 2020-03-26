@@ -57,7 +57,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 ### A mod doesn't appear to be working after I install it properly.
 
-![](https://whitenamehate.group/5A6FEba.gif)
+![](https://i.imgur.com/pa5u8XB.gif)
 
 ### If your mod isn't working, refer to this checklist to see what step might be missing:
 
