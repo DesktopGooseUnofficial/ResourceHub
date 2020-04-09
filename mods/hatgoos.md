@@ -21,7 +21,8 @@ Author: **DaNike#6223**
 
 ## Custom Hats
 
-
+[jotarogoos](i.imgur.com/a/XwxzFWi.png)
+[diogoos](i.imgur.com/a/laVmo7w.png)
 
 ## Tutorial on Custom Hats
 
