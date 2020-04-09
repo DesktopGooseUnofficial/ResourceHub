@@ -18,6 +18,11 @@ Author: **DaNike#6223**
 {% include install_guide.md modname="HatGoos" iszip=true %}
 
 ---
+
+## Custom Hats
+
+
+
 ## Tutorial on Custom Hats
 
 1. Run the GooseDesktop.exe once (This will create a config.toml file)
