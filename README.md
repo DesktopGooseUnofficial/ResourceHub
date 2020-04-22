@@ -49,7 +49,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
-* [GamerBoi153's Notepad Pack](/GamerBoi153sNotepad.md)
+* [GamerBoi153's Notepad Pack](notepads/GamerBoi153sNotepad.md)
 
 ## FAQs 🤔❓
 
