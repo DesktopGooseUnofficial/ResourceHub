@@ -31,10 +31,6 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 
 ---
 
-## Sunsetting old mods (made for v0.21 and below)
-
-Old mods have now been removed from ResourceHub. There are a variety of reasons for this - however the main one is due to them directly manipulating the source code of the goose and that they could provide users with old (although modded) versions of the goose, as well as the fact that you can't really read their source code to check for any suspicious code without decompiling them. We are sorry in advance for any inconveniences this may cause. :(
-
 ## Mods 🧩
 
 All content related to mods has moved! [Find mods by clicking here](mods/explore/mods.md).
