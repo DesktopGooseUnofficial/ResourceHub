@@ -1,4 +1,5 @@
 ![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png)
+
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dg_resource?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow/?screen_name=dg_resource) [![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/aZPs574) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
@@ -31,10 +32,6 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 
 ---
 
-## Sunsetting old mods (made for v0.21 and below)
-
-Old mods have now been removed from ResourceHub. There are a variety of reasons for this - however the main one is due to them directly manipulating the source code of the goose and that they could provide users with old (although modded) versions of the goose, as well as the fact that you can't really read their source code to check for any suspicious code without decompiling them. We are sorry in advance for any inconveniences this may cause. :(
-
 ## Mods 🧩
 
 All content related to mods has moved! [Find mods by clicking here](mods/explore/mods.md).
@@ -48,6 +45,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
 * [extra goose memes.zip clean and modified version.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
+
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
