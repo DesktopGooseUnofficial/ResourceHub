@@ -1,5 +1,4 @@
-﻿![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png) Forked for new notepad pack!
-
+﻿![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png) Added new Notepad Pack!
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dg_resource?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow/?screen_name=dg_resource) [![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/aZPs574) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
