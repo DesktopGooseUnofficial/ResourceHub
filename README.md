@@ -49,7 +49,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
-* [GamerBoi153's Notepad Pack.zip](https://drive.google.com/open?id=1FwnHA92TdCNZMMfJTbpP_bkvhU-l37VY)
+* [GamerBoi153's Notepad Pack](https://drive.google.com/open?id=1FwnHA92TdCNZMMfJTbpP_bkvhU-l37VY)
 
 ## FAQs 🤔❓
 
