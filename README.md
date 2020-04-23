@@ -69,6 +69,8 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 - [ ] Save the config
 - [ ] Restart the program
 
+### Q&A
+
 Q: How do I uninstall the goose?
 A: Delete the DesktopGoose folder and all of its contents.
 
