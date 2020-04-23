@@ -21,7 +21,7 @@
 The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
 
 Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
-
+Test out betas: [Beta Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/tag/v2.0-beta1/latest)
 ---
 
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation) or your browser's built-in protection measures (Edgeium, Firefox, Chrome/Chromium).
@@ -40,6 +40,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 * [Game List](info/GameTestList.md)
 * [How To Download And Activate Mods](https://youtu.be/EMsGJrRMLCs?t=33)
+* [How To Stop Desktop Goose](https://github.com/DesktopGooseUnoffical/ResourceHub/blob/master/tutorials/StopDesktopGoose.md)
 
 ## Memes 😛
 
@@ -67,3 +68,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 - [ ] Config file has EnableMods=True
 - [ ] Save the config
 - [ ] Restart the program
+
+## Want to help our GitHub or submit a Mod?
+
+[Check out our guide!](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/CONTRIBUTING.md)
