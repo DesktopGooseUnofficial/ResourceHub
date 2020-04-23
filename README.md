@@ -68,3 +68,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 - [ ] Config file has EnableMods=True
 - [ ] Save the config
 - [ ] Restart the program
+
+## Want to help our GitHub or submit a Mod?
+
+Check out our guide!(https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/CONTRIBUTING.md)
