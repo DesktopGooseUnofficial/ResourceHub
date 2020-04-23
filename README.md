@@ -69,6 +69,29 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 - [ ] Save the config
 - [ ] Restart the program
 
+##FAQ
+
+Q: How do I uninstall the goose?
+A: Delete the DesktopGoose folder and all of its contents.
+
+Q: Does Desktop Goose support more than one monitor?
+A: No, and it’s not planned at the moment. It works on one screen even if you have multiple monitors, and getting the goose to walk across screens is a whole thing.
+
+Q: Will there be mod support on MacOS?
+A: This is not likely to happen soon
+
+Q: How do I make the goose do xyz
+A: Most things about the goose are configurable in the goose.ini, alternatively if you are using Desktop Goose on MacOS you can configure the goose via Desktop Goose application. 
+
+Q. What operating systems are officially supported?
+A: Windows, MacOS, the next port in line is for the Samsung Smart Fridge:™️:
+
+Q: Is the goose safe to run with video games?
+A: It depends, the goose biting the cursor may trigger anticheats in some multiplayer games. A community-maintained safety list is hosted [here](https://desktopgooseunofficial.github.io/ResourceHub/info/GameTestList.html)
+
+Q: How do I add custom text boxes, or images for the goose to drag?
+A: In the DesktopGoose folder, there is an “Assets” folder - Add your own text and image files to the proper Images/Memes and Text locations in there!
+
 ## Want to help our GitHub or submit a Mod?
 
 [Check out our guide!](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/CONTRIBUTING.md)
