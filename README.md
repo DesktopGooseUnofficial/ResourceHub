@@ -21,6 +21,7 @@
 The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
 ## DISCLAIMER 
 THE LAUNCHER DOES NOT WORK WHEN GITHUB IS DOWN!!!!
+
 Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
 Test out betas: [Beta Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/tag/v2.0-beta1/latest)
 ---
