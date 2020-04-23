@@ -39,12 +39,12 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 ## Tutorials and info 💁‍♂️
 
 * [Game List](info/GameTestList.md)
-
+* [How To Download And Activate Mods](https://youtu.be/EMsGJrRMLCs?t=33)
 ## Memes 😛
 
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
-* [extra goose memes.zip clean and modified version.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
+* [extra goose memes clean and modified version by GamerBoi153.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
 
 ## Notepad Packs 📋
 
