@@ -3,7 +3,7 @@
 Portal mod for your Goos!
 
 # Features:
-- controls - hold p and press either 1 or 2 to place a portal. p + 0 will toggle portals on and off.
+- controls - hold p and press either 1 or 2 to place a portal. **new in 1.1! p + 0 will toggle portals on and off.**
 - loops - if the goose is bringing in a meme and hits a portal it'll still teleport,
 and it'll take the meme with it, which allows you to create some infinite loops
 - cursor - it can teleport with your cursor in its beak
@@ -13,7 +13,7 @@ Download : [PortalGoos.zip](https://github.com/Moonaliss1/DesktopGooseMod_Portal
 
 Goose Version : **0.3**
 
-Mod Version : **1.0**
+Mod Version : **1.1**
 
 Author : **Moonaliss#9590**
 
