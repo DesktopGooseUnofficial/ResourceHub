@@ -98,3 +98,4 @@ A: In the DesktopGoose folder, there is an “Assets” folder - Add your own te
 ## Want to help our GitHub or submit a Mod?
 
 [Check out our guide!](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/CONTRIBUTING.md)
+Thank You!
