@@ -1,4 +1,4 @@
-﻿![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png)
+![Desktop Goose Resource Hub!](https://owo.sh/8kxSLJD.png)
 
 ---
 
@@ -18,14 +18,13 @@
 
 ## Launcher
 
-The launcher is an easier way to install and use mods.
+The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
 
-However, you can still manually download mods on this website!
+## DISCLAIMER
+If GitHub is down the Launcher will NOT work!
 
 Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
-
-There are also highly experimental testing versions of the launcher which are created automatically from the launcher source code. You can download experimental testing versions here: [Nightly Download](https://github.com/DesktopGooseUnofficial/launcher-nightly/releases/latest)
-
+Test out betas: [Beta Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/tag/v2.0-beta1/latest)
 ---
 
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation) or your browser's built-in protection measures (Edgeium, Firefox, Chrome/Chromium).
@@ -43,21 +42,25 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 ## Tutorials and info 💁‍♂️
 
 * [Game List](info/GameTestList.md)
+* [How To Download And Activate Mods](https://youtu.be/EMsGJrRMLCs?t=33)
+* [How To Stop Desktop Goose](https://github.com/DesktopGooseUnoffical/ResourceHub/blob/master/tutorials/StopDesktopGoose.md)
 
 ## Memes 😛
 
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
+* [extra goose memes clean and modified version by GamerBoi153.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
 
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
+* [GamerBoi153's Notepad Pack](notepads/GamerBoi153sNotepad.md)
 
 ## FAQs 🤔❓
 
 ### A mod doesn't appear to be working after I install it properly.
 
-![](https://whitenamehate.group/5A6FEba.gif)
+![](https://i.imgur.com/pa5u8XB.gif)
 
 ### If your mod isn't working, refer to this checklist to see what step might be missing:
 
@@ -69,23 +72,29 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 - [ ] Save the config
 - [ ] Restart the program
 
-## Older mods (v0.2-v0.21)
+### Q&A
 
-They do not use the modding API, instead they directly modify the Goose executable. They are also not able to be packed together, so you may only work with one mod at a time. 
-We also do ***not*** recommend using older mods due to their directly manipulated nature. Consider using mods made with v0.3 or later.
+Q: How do I uninstall the goose?
+A: Delete the DesktopGoose folder and all of its contents.
 
-* [Bobbie’s Modded Desktop Goose v0.2](mods/deprecated/bobbies.md)
-* [NabMouse Mod](mods/deprecated/NabMouse.md)
-* [Highly Configurable Goose](mods/deprecated/HiConfGoose.md)
-* [Shaggy's Name Mod](mods/deprecated/ShaggysNameMod.md)
-* [Shaggy's Sound Control](mods/deprecated/ShaggysSoundControl.md)
-* [Shaggy's ImageCapFix](mods/deprecated/ShaggysImageCapFix.md)
-* [fastgoos](mods/deprecated/fastgoos.md)
-* [hatgoos](mods/deprecated/hatgoos.md)
-* [Sneaky Goose](mods/deprecated/SneakyGoose.md)
-* [Mad?'s Facts Mod](mods/deprecated/MadsFacts.md)
+Q: Does Desktop Goose support more than one monitor?
+A: No, and it’s not planned at the moment. It works on one screen even if you have multiple monitors, and getting the goose to walk across screens is a whole thing.
 
-### Older modpacks 📦
+Q: Will there be mod support on MacOS?
+A: This is not likely to happen soon
 
-* [Maxime's ModPack](modpacks/deprecated/MaximesModPack.md)
-* [Shaggy's ModPack(GUI)](modpacks/deprecated/ShaggysModPack_GUI.md)
+Q: How do I make the goose do xyz
+A: Most things about the goose are configurable in the goose.ini, alternatively if you are using Desktop Goose on MacOS you can configure the goose via Desktop Goose application. 
+
+Q. What operating systems are officially supported?
+A: Windows, MacOS, the next port in line is for the Samsung Smart Fridge:™️:
+
+Q: Is the goose safe to run with video games?
+A: It depends, the goose biting the cursor may trigger anticheats in some multiplayer games. A community-maintained safety list is hosted [here](https://desktopgooseunofficial.github.io/ResourceHub/info/GameTestList.html)
+
+Q: How do I add custom text boxes, or images for the goose to drag?
+A: In the DesktopGoose folder, there is an “Assets” folder - Add your own text and image files to the proper Images/Memes and Text locations in there!
+
+## Want to help our GitHub or submit a Mod?
+
+[Check out our guide!](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/CONTRIBUTING.md)

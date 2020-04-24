@@ -1,4 +1,4 @@
-# ✅ GooseManager ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.0/total?logo=github)
+# ✅ GooseManager ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.2/total?logo=github) ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.1/total?logo=github) ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.0/total?logo=github)
 
 ## Features
 
@@ -12,7 +12,7 @@ Get it: [GooseManager.dll](https://github.com/1JQ/GooseManager/releases/latest/d
 
 Goose Version: **v0.3**
 
-Mod Version: **v1.1**
+Mod Version: **v1.2**
 
 Author: **JQ#1693**
 

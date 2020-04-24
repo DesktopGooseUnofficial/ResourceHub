@@ -1,4 +1,4 @@
-# ✅ Debugoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/Debugoose/total?logo=github)
+# ✅ Sonigoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/CodeF53/DskptGoose-Sonigoose/total?logo=github)
 
 ## Features
 
