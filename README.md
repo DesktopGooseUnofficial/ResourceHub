@@ -6,7 +6,7 @@
 
 ---
 
-# Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
+# Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose!
 
 ## Support SamPerson, download the vanilla goose!
 
