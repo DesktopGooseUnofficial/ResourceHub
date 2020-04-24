@@ -95,6 +95,8 @@ A: It depends, the goose biting the cursor may trigger anticheats in some multip
 Q: How do I add custom text boxes, or images for the goose to drag?
 A: In the DesktopGoose folder, there is an “Assets” folder - Add your own text and image files to the proper Images/Memes and Text locations in there!
 
+psst, wanna see our Desktop Meadow repo? [go here](https://github.com/UnofficialSamHub/MeadowLand)
+
 ## Want to help our GitHub or submit a Mod?
 
 [Check out our guide!](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/CONTRIBUTING.md)
