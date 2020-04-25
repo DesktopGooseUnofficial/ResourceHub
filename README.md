@@ -66,11 +66,11 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 **Checklist:**
 
-- [ ] Latest version of Desktop Goose
-- [ ] Mod DLL is in mods folder within its own folder
-- [ ] Config file has EnableMods=True
-- [ ] Save the config
-- [ ] Restart the program
+- Is on latest version of Desktop Goose
+- Mod DLL is in mods folder within its own folder
+- Config file has EnableMods=True
+- Save the config
+- Restart the program
 
 ### Q&A
 
