@@ -3,9 +3,11 @@
 ## Features
 
 a better way to banish the goose.
+
 to use just click ctrl+alt+middle click
 
 <sub><sup>im gonna be adding smoke when i can figure out how</sup></sub>
+
 
 ###IF YOU ARE SENSITIVE TO FLASHING COLORS/LIGHTS DOWNLOAD THE NON-FLASHING VERSION
 
