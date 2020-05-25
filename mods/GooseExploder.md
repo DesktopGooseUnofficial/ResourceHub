@@ -1,4 +1,4 @@
-# ✅ Kamikagoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/GooseExploder/total?logo=github)
+# ✅ Kamikagoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/GooseExploder/total?logo=github)
 
 ## Features
 
