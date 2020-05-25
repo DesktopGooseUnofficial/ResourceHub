@@ -30,6 +30,7 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 * ✅ [Ball](../Ball.md)
 * ✅ [Toys](../Toys.md)
 * ✅ [PortalGoos](../PortalGoos.md)
+* ✅ [Kamikagoose](../GooseExploder.md)
 * ⚠️ [Clicker](../Clicker.md)
 
 
