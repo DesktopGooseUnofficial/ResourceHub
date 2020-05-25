@@ -12,6 +12,7 @@ to use just click ctrl+alt+middle click
 ###IF YOU ARE SENSITIVE TO FLASHING COLORS/LIGHTS DOWNLOAD THE NON-FLASHING VERSION
 
 Get it: [Goose Exploder](https://github.com/Vortetty/GooseExploder/releases/download/1.0/GooseExploder.dll)
+
 Get it: [Goose Exploder Non-Flashing (not yet available)](https://github.com/Vortetty/GooseExploder/releases/download/1.0/GooseExploderNoFlash.dll)
 
 Look inside: [SourceCode](https://github.com/Vortetty/GooseExploder)
