@@ -19,4 +19,4 @@ Mod Version: **v1.0**
 
 Author: **Vortetty#7462**
 
-{% include install_guide.md modname="Debugoose" iszip=false %}
+{% include install_guide.md modname="Kamikagoose" iszip=false %}
