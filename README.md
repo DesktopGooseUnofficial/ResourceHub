@@ -4,6 +4,8 @@
 ## *Social Media* Links And *Tags*
 [![Twitter Follow](https://img.shields.io/twitter/follow/dg_resource?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow/?screen_name=dg_resource) [![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/aZPs574) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
+## *MEADOWLAND IS DEAD, VUK IS DOING GIVEAWAYS BUT ALL THE PEOPLE WHO HAVE HELPED MEADOWLAND HAVE MOVED ON AND VUK IS NOW WORKING FOR SUPPORT FOR THE SALAD DISCORD. WE APPRECIATE EVERYONE WHO USED THIS AND THE PEOPLE MADE THIS POSSIBLE*
+## *THANK YOU FOR EVERYTHING, ITS BEEN A HONOR! I HOPE YOU ALL ARE SAFE DURING THIS PANDEMIC! :) -GameLover153*
 ---
 
 # Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose!
