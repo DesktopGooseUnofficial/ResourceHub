@@ -13,6 +13,8 @@ Desktop Meadow in Desktop Goose
  - to recive a message, you must send a message
     - this may change in future updates but for now i need to build up messages in the db
  - you can add and remove messages from messages.json for when you are offline
+ 
+ # BY DOWNLOADING YOU AGREE TO NOT MAKE ANY ATTEPTS TO FIND THE URI OF MY PHP SERVER
 
 Get it: [Goose Messaging](https://github.com/Vortetty/GooseMessenger/releases/download/1.0/GooseMessaging.zip)
 
