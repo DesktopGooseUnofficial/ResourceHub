@@ -66,7 +66,7 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 **Checklist:**
 
-- Is on latest version of Desktop Goose
+- Is on [latest version of Desktop Goose](https://samperson.itch.io/desktop-goose)
 - Mod DLL is in mods folder within its own folder
 - Config file has EnableMods=True
 - Save the config
