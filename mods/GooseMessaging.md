@@ -1,4 +1,5 @@
-# ✅ Goose Messaging ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseMessaging/total?logo=github)
+
+# ✅ Goose Messaging ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseMessenger/total?logo=github)
 
 ## Features
 
