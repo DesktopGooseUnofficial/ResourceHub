@@ -1,5 +1,7 @@
 **NOTICE**: The ResourceHub team is not responsible for any inappropriate content in the Goose Messaging mod.
 
+**SECURITY CONCERNS**: The Goose Messaging mod connects to an external server. Use the mod at your own risk.
+
 # ✅ Goose Messaging ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseMessenger/total?logo=github)
 
 ## Features
