@@ -14,6 +14,8 @@
 
 [Support Sam by giving him money via Patreon](https://patreon.com/sammakesvr).
 
+### [Join Our Discord For News And Updates!](https://discord.gg/ERwKaTk)
+
 ---
 
 ## Launcher
