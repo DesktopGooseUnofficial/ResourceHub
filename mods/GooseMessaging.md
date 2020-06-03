@@ -1,3 +1,7 @@
+The Goose Messaging mod is awaiting review from SamPerson and is unavailable at this time.
+
+---
+
 **NOTICE**: The ResourceHub team is not responsible for any inappropriate content in the Goose Messaging mod.
 
 **SECURITY CONCERNS**: The Goose Messaging mod connects to an external server. Use the mod at your own risk.
