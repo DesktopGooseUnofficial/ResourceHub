@@ -1,3 +1,4 @@
+**NOTICE**: The ResourceHub team is not responsible for any inappropriate content in the Goose Messaging mod.
 
 # ✅ Goose Messaging ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseMessenger/total?logo=github)
 
