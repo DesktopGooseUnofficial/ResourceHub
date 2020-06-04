@@ -33,3 +33,5 @@ Author: **vis#7946**
 
 ![https://i.imgur.com/XmqpKNo.gif](https://i.imgur.com/XmqpKNo.gif)
 
+{% include install_guide.md modname="OnePunchGoose" iszip=false %}
+
