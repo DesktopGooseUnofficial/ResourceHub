@@ -32,6 +32,7 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 * ✅ [PortalGoos](../PortalGoos.md)
 * ✅ [Kamikagoose](../GooseExploder.md)
 * ✅ [Goose Messager](../GooseMessaging.md)
+* ⚠️ [OnePunchGoose](../OnePunchGoose.md)
 * ⚠️ [Clicker](../Clicker.md)
 
 
