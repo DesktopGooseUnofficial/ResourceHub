@@ -2,7 +2,7 @@
 
 **SECURITY CONCERNS**: The Goose Messaging mod connects to an external server. Use the mod at your own risk. Server source is provided so you can see what it does. The mod only uses these servers to send and recive messages, the same way that Desktop Meadow does.
 
-**DOWNTIMES**: The server may experence downtimes, these are out of my control as the server domain is being lended to Vortetty by a friend of his.
+**DOWNTIMES**: The server may experence downtimes, these are out of Vortetty's control as the server domain is being lended to him by a friend of his.
 
 # ✅ Goose Messaging ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseMessenger/total?logo=github)
 
