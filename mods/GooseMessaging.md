@@ -19,14 +19,14 @@ Desktop Meadow in Desktop Goose
  
  # BY DOWNLOADING YOU AGREE TO NOT MAKE ANY ATTEPTS TO FIND THE URI OR IP OF MY PHP SERVER
 
-Get it: [Goose Messaging](https://github.com/Vortetty/GooseMessenger/releases/download/1.0/GooseMessaging.zip)
+Get it: [Goose Messaging](https://github.com/Vortetty/GooseMessenger/releases/latest/download/GooseMessenger.zip)
 
 Look inside: [Source Code](https://github.com/Vortetty/GooseMessenger)
 
 Goose Version: **v0.3**
 
-Mod Version: **v1.0**
+Mod Version: **v2.1**
 
 Author: **Vortetty#7462**
 
-{% include install_guide.md modname="Goose Messaging" iszip=false %}
+{% include install_guide.md modname="Goose Messaging" iszip=true %}
