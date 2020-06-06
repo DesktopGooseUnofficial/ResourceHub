@@ -2,7 +2,7 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vuk_samhubs?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow?screen_name=vuk_samhubs) [![Discord](https://img.shields.io/discord/642496438869295171?logo=discord&style=social)](https://discord.gg/aZPs574) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vuk_samhubs?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow?screen_name=vuk_samhubs) [![Discord](https://img.shields.io/discord/717822718728470636?logo=discord&style=social)](https://discord.gg/trepSJm) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## Support SamPerson, download the vanilla goose!
 
-[Download the Goose](https://samperson.itch.io/desktop-goose). Using v0.3+ mods requires downloading the vanilla goose first.
+[Download the Goose](https://samperson.itch.io/desktop-goose). Using mods requires downloading the vanilla goose first.
 
 [Support Sam by giving him money via Patreon](https://patreon.com/sammakesvr).
 
