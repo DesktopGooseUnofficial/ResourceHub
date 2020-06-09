@@ -4,9 +4,20 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vuk_samhubs?label=Follow%20us%21&style=social)](https://twitter.com/intent/follow?screen_name=vuk_samhubs) [![Discord](https://img.shields.io/discord/717822718728470636?logo=discord&style=social)](https://discord.gg/trepSJm) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
+# Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
+---
+## Launcher
+The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
+
+### [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest)
+
+**Test out betas:** [Beta Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/tag/v2.0-beta1/latest)
+
+## DISCLAIMER
+If GitHub is down the Launcher will NOT work!
+
 ---
 
-# Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
 
 ## Support SamPerson, download the vanilla goose!
 
@@ -16,17 +27,6 @@
 
 ### [Join Our Discord For News And Updates!](https://discord.gg/trepSJm)
 
----
-
-## Launcher
-
-The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
-
-## DISCLAIMER
-If GitHub is down the Launcher will NOT work!
-
-Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
-Test out betas: [Beta Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/tag/v2.0-beta1/latest)
 ---
 
 ⚠️ This website uses Google Analytics. If you are not comfortable with being tracked, we understand. Try using something that can block trackers, we recommend [uBlock Origin](https://github.com/gorhill/ublock#installation) or your browser's built-in protection measures (Edgeium, Firefox, Chrome/Chromium).
