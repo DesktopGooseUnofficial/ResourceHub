@@ -31,7 +31,7 @@ Goose Version: **v0.3**
 
 Mod Version: **v2.1**
 
-Author: **Vortetty#7462**
+Author: **Vortetty#5020**
 
 ### Todo: 
  - add option for the community to run servers
