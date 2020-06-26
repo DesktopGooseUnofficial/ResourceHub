@@ -21,6 +21,6 @@ Goose Version: **v0.3**
 
 Mod Version: **v1.0**
 
-Author: **Vortetty#7462**
+Author: **Vortetty#5020**
 
 {% include install_guide.md modname="Kamikagoose" iszip=false %}
