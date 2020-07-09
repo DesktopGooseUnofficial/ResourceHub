@@ -6,16 +6,7 @@
 
 # Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
 ---
-## Launcher
-The launcher is an easier way to install and use mods. However, you can still manually download mods on this website!
-
-### [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest)
-
-**Test out betas:** [Beta Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/tag/v2.0-beta1/latest)
-
-## DISCLAIMER
-If GitHub is down the Launcher will NOT work!
-
+{% include launcher_advert.md %}
 ---
 
 
