@@ -10,7 +10,11 @@ Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launc
 
 ---
 
-**These mods are for v0.3.** They use the modding API.
+**These mods are for v0.3.** Older versions are not supported.
+
+🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
+
+🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
 * ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
