@@ -8,7 +8,7 @@ Before you begin making changes, here's some things you should keep in mind:
 
 💁‍♂️ Use [pull](https://github.com/wei/pull) on your ResourceHub forks
 
-💁‍♂️ If you're new to GitHub, we recommend [GitHub Desktop](https://desktop.github.com).
+💁‍♂️ If you're new to GitHub, we recommend [GitHub Desktop](https://desktop.github.com)
 
 ---
 
@@ -20,9 +20,9 @@ Before you begin making changes, here's some things you should keep in mind:
 
 **Please don't**:
 
-❌ Add mods that go under the [exploding level](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/info/ContentRatings.md#-exploding-level)
+❌ Add mods that go under the [exploding level](https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/info/ContentRatings.md#-exploding-level) content rating
 
-❌ Add mods without adding source code
+❌ Add mods without adding their source code
 
 ---
 

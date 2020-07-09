@@ -1,18 +1,12 @@
 # Explore the ResourceHub mods
 
-## Launcher
-
-The launcher is an easier way to install and use mods.
-
-However, you can still manually download mods on this website!
-
-Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
+{% include launcher_advert.md %}
 
 ---
 
 **These mods are for v0.3.** Older versions are not supported.
 
-🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](info/ContentRatings.md).
+🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](../../info/ContentRatings.md).
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
