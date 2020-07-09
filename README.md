@@ -7,6 +7,7 @@
 # Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
 ---
 {% include launcher_advert.md %}
+
 ---
 
 
