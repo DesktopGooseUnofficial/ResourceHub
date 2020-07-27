@@ -30,6 +30,7 @@
 * ✅ [PortalGoos](../PortalGoos.md)
 * ✅ [Kamikagoose](../GooseExploder.md)
 * ✅ [Goose Messager](../GooseMessaging.md)
+* ✅ [GoosePresence](../GoosePresence.md)
 * ⚠️ [OnePunchGoose](../OnePunchGoose.md)
 * ⚠️ [Clicker](../Clicker.md)
 
