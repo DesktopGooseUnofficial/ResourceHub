@@ -13,7 +13,6 @@
 * ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
 * ✅ [Shaggy's Nametag Mod](../ShaggysNametagMod.md)
-* ✅ [NECC](../NECC.md)
 * ✅ [SizzurpMods](../SizzurpMods.md)
 * ✅ [DiscoGoose](../DiscoGoose.md)
 * ✅ [Honcker](../Honcker.md)
