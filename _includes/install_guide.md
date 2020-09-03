@@ -1,3 +1,5 @@
+⚠ An important statement has been published by The ResourceHub Team. Please read it. [You can find the statement here](https://desktopgooseunofficial.github.io/statement/).
+
 ## Launcher
 
 The launcher is an easier way to install and use mods.
