@@ -4,6 +4,10 @@
 
 ---
 
+## IMPORTANT NOTICE! PLEASE READ!
+
+⚠ An important statement has been published by The ResourceHub Team. Please read it. [You can find the statement here](https://desktopgooseunofficial.github.io/statement/archives/gamesnort.html).
+
 **These mods are for v0.3.** Older versions are not supported.
 
 🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](../../info/ContentRatings.md).
