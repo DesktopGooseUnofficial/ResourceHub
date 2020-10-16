@@ -1,18 +1,21 @@
 # Explore the ResourceHub mods
 
+---
+
 {% include launcher_advert.md %}
 
 ---
-
-## IMPORTANT NOTICE! PLEASE READ!
-
-⚠ An important statement has been published by The ResourceHub Team. Please read it. [You can find the statement here](https://desktopgooseunofficial.github.io/statement/archives/gamesnort.html).
 
 **These mods are for v0.3.** Older versions are not supported.
 
 🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](../../info/ContentRatings.md).
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
+
+
+## IMPORTANT NOTICE! PLEASE READ!
+
+⚠ An important statement has been published by The ResourceHub Team. Please read it. [You can find the statement here](https://desktopgooseunofficial.github.io/statement/archives/gamesnort.html).
 
 * ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
