@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 So, what do the content ratings (✅⚠️❗️) mean?
 
 The following explanations below are examples.

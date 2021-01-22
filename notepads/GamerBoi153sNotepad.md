@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # GamerBoi153's Notepad Pack
 
 ## Downloads

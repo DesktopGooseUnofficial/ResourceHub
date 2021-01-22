@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # Explore the ResourceHub modpacks
 
 🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](../../info/ContentRatings.md).

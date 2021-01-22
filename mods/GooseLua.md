@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ GooseLua ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/lilsizzurp/gooselua/v0.3-alpha/total?logo=github)
 
 ## Warning

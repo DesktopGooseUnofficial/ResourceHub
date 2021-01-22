@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # Desktop Goose V0.3 Modpack
 
 ## Mods:

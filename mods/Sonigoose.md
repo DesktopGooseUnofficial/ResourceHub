@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ Sonigoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/CodeF53/DskptGoose-Sonigoose/total?logo=github)
 
 ## Features

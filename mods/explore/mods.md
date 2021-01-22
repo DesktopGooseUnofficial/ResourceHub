@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # Explore the ResourceHub mods
 
 ---

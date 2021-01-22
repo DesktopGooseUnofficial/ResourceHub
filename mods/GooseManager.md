@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ GooseManager ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.2/total?logo=github) ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.1/total?logo=github) ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/1JQ/GooseManager/v1.0/total?logo=github)
 
 ## Features

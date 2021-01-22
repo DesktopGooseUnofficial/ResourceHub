@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 **NOTICE**: The ResourceHub team as well as SamPerson and Vortetty are not responsible for any inappropriate content in the Goose Messaging mod as all content is user-generated. If a dirty word makes it through the filter, let Vortetty know and they will add it!
 
 **SECURITY CONCERNS**: The Goose Messaging mod connects to an external server. Use the mod at your own risk. Server source is provided so you can see what it does. The mod only uses these servers to send and recive messages, the same way that Desktop Meadow does.

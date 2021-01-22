@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ Acid Goose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/AcidGoose/total?logo=github)
 
 **A very weird version of the Goose we know and love ❤**

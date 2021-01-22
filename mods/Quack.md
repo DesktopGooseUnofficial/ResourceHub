@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 ![Quack Modloader 🦆](https://i.imgur.com/UoSO3oD.png)
 
 ## Warning

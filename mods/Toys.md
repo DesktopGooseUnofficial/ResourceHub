@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ Toys ![GitHub All Releases](https://img.shields.io/github/downloads/TheOrlando/DesktopGooseMod_Toys/total?logo=github)
 
 Toys mod for Desktop Goose
