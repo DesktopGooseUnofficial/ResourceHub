@@ -2,12 +2,6 @@
 
 # Explore the ResourceHub mods
 
----
-
-{% include launcher_advert.md %}
-
----
-
 **These mods are for v0.3.** Older versions are not supported.
 
 🤔 **What does ✅, ⚠️, ❗️ and ❓ mean?** Please see our [Content Ratings guide](../../info/ContentRatings.md).
