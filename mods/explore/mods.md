@@ -14,10 +14,12 @@
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
+---
 
-## IMPORTANT NOTICE! PLEASE READ!
+## Customize your Goose!
+You can use the Desktop Goose Customizer app by lim10dev to easily edit the config.ini.
 
-⚠ An important statement has been published by The ResourceHub Team. Please read it. [You can find the statement here](https://desktopgooseunofficial.github.io/statement/archives/gamesnort.html).
+[Try it!](https://lim10dev.itch.io/desktop-goose-customizer) ([desktop source code](https://github.com/lim10dev/desktop-goose-customizer) - [web source code](https://github.com/lim10dev/lim10dev.github.io))
 
 * ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
