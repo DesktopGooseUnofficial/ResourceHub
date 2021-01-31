@@ -6,6 +6,8 @@
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
+---
+
 Please note: Modloaders cannot be rated. As such, they will be rated with the Inapplicable ❓ rating.
 
 **NOTE:** You do not need a modloader to load normal mods.
