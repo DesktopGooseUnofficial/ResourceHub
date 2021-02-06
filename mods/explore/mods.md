@@ -13,7 +13,7 @@
 ## Customize your Goose!
 You can use the Desktop Goose Customizer app by lim10dev to easily edit the config.ini.
 
-[Try it!](https://lim10dev.itch.io/desktop-goose-customizer) ([desktop source code](https://github.com/lim10dev/desktop-goose-customizer) - [web source code](https://github.com/lim10dev/lim10dev.github.io))
+[Try it!](https://lim10dev.itch.io/desktop-goose-customizer) ([desktop source code](https://github.com/lim10dev/desktop-goose-customizer) - [web source code](https://github.com/lim10dev/desktop-goose-customizer/tree/main/Web%20Build))
 
 * ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
