@@ -1,3 +1,4 @@
+{% include analytics.html %}
 
 # ✅ Goose Presence ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/GoosePresence/total?logo=github) ![GitHub Releases (by Release)](http://img.shields.io/github/release/VisualError/GoosePresence.svg)
 ### A Mod That Adds Discord RPC Capabilities to our beloved Goose. 
