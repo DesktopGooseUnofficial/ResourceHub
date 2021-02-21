@@ -1,3 +1,4 @@
+{% include analytics.html %}
 
 # OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github) ![GitHub Releases (by Release)](http://img.shields.io/github/release/VisualError/OnePunchGoose.svg)
 ### A Mod to Punch Problems away! 

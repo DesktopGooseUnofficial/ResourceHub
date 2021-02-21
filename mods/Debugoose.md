@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ Debugoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/Debugoose/total?logo=github)
 
 ## Features

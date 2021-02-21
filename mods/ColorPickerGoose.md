@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ Color Picker Goose ![download counter](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/goosecolorpicker/total?label=downloads&logo=github&style=plastic)
 Use a color picker to select a color for your goose instead of setting it in the config
 Simplifies running multiple nametagged geese.

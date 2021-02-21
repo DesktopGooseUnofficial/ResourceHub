@@ -10,6 +10,8 @@ Before you begin making changes, here's some things you should keep in mind:
 
 💁‍♂️ If you're new to GitHub, we recommend [GitHub Desktop](https://desktop.github.com)
 
+💁‍♂️ Publish the source code of your mods *before* you submit them
+
 ---
 
 **Please do**:
@@ -25,5 +27,3 @@ Before you begin making changes, here's some things you should keep in mind:
 ❌ Add mods without adding their source code
 
 ---
-
-Once again, we're glad you're here!

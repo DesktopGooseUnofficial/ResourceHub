@@ -1,8 +1,6 @@
+{% include analytics.html %}
+
 # Explore the ResourceHub mods
-
-{% include launcher_advert.md %}
-
----
 
 **These mods are for v0.3.** Older versions are not supported.
 
@@ -10,10 +8,16 @@
 
 🧩 You can [request mods on GitHub](https://github.com/DesktopGooseUnofficial/ResourceHub/issues/new/choose) or [request mods on the Discord](https://discord.gg/nkwzUTy).
 
+---
+
+## Customize your Goose!
+You can use the Desktop Goose Customizer app by lim10dev to easily edit the config.ini.
+
+[Try it!](https://lim10dev.itch.io/desktop-goose-customizer) ([desktop source code](https://github.com/lim10dev/desktop-goose-customizer) - [web source code](https://github.com/lim10dev/desktop-goose-customizer/tree/main/Web%20Build))
+
 * ✅ [RainbowStrobe (default mod)](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll)
 * ✅ [Shaggy's Config Menu](../ShaggysConfigGUI.md)
 * ✅ [Shaggy's Nametag Mod](../ShaggysNametagMod.md)
-* ✅ [NECC](../NECC.md)
 * ✅ [SizzurpMods](../SizzurpMods.md)
 * ✅ [DiscoGoose](../DiscoGoose.md)
 * ✅ [Honcker](../Honcker.md)

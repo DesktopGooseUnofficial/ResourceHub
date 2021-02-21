@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # SuperFlower008's Notepad Pack ![GitHub Releases](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/notepad-v1.0/total?logo=github)
 
 ## Downloads

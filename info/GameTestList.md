@@ -1,3 +1,4 @@
+{% include analytics.html %}
 
 ![Games with Goose](https://i.imgur.com/4Fwod7B.png)
 

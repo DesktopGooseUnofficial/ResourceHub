@@ -1,4 +1,6 @@
-﻿# ✅ Shaggys Nametag Mod ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/ShaggyNametag-1.0/total?logo=github)
+﻿{% include analytics.html %}
+
+# ✅ Shaggys Nametag Mod ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/ShaggyNametag-1.0/total?logo=github)
 
 ## Features
 

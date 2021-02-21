@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # Ball ![GitHub All Releases](https://img.shields.io/github/downloads/TheOrlando/DesktopGooseMod_Ball/total?logo=github)
 
 Adds a ball for you and the goose to play with!

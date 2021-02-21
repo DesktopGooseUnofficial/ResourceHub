@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ BreadCrumbs ![GitHub All Releases](https://img.shields.io/github/downloads/euandeas/GooseMod_BreadCrumbs/total?logo=github)
 
 This mod allows you to feed the goose to make him walk across your screen, or to calm him down when he is in a frenzy. Plus he makes cute nom sound.

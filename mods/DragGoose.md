@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ DragGoose ![GitHub All Releases](https://img.shields.io/github/downloads/euandeas/GooseMod_DragGoose/total?logo=github)
 
 This is a simple mod which allows you to drag the goose around your screen. But be careful he may try to bite and the grab may be unsuccesful. If you do manage to catch him then goose will panic and if you drag to fast then he may get free...

@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # ✅ PortalGoos       ![GitHub All Releases](https://img.shields.io/github/downloads/moonaliss1/DesktopGooseMod_PortalGoos/v1.1/total?label=Downloads)
 
 Portal mod for your Goos!
