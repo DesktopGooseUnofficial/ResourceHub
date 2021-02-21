@@ -2,7 +2,7 @@
 # ✅ Goose Presence ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/GoosePresence/total?logo=github) ![GitHub Releases (by Release)](http://img.shields.io/github/release/VisualError/GoosePresence.svg)
 ### A Mod That Adds Discord RPC Capabilities to our beloved Goose. 
 
-This mod allows the Goose to use telepathically to channel its wondrous thoughts and doings to Discord. Kinda Cool, right?
+This mod allows the Goose to use telepathy to channel its wondrous thoughts and actions to Discord. Kinda Cool, right?
 
 # Preview
 ![Preview](https://gyazo.com/b681385748b9b6585b497c19cbb02e9c.gif)
@@ -18,9 +18,9 @@ Get it: [GoosePresence.zip](https://github.com/VisualError/GoosePresence/release
 
 Goose Version: **v0.3**
 
-Mod Version: **1.0**
+Mod Version: **1.0.1**
 
-Author: **vis#7946**
+Author: **vis#5001**
 
 Look inside: [Source](https://github.com/VisualError/GoosePresence/)
 
