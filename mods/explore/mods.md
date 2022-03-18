@@ -35,6 +35,7 @@ You can use the Desktop Goose Customizer app by lim10dev to easily edit the conf
 * ✅ [Kamikagoose](../GooseExploder.md)
 * ✅ [Goose Messager](../GooseMessaging.md)
 * ✅ [GoosePresence](../GoosePresence.md)
+* ✅ [GooseJail](../GooseJail.md)
 * ⚠️ [OnePunchGoose](../OnePunchGoose.md)
 * ⚠️ [Clicker](../Clicker.md)
 
