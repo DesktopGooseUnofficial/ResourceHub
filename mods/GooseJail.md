@@ -10,8 +10,8 @@ Allows you to trap the goose in a cage. You may also free the goose and choose i
 
 ## Features
 
- - Adds Discord RPC Capabilities for the Goose.
- - Goose with telepathy.
+ - Allows you to trap the goose.
+ - The goose is sad and will no longer chase your mouse if he was chasing your mouse before.
 
 # Download
 
