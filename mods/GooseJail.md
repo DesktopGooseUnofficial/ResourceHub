@@ -28,6 +28,6 @@ Look inside: [Source](https://github.com/WackyModer/GooseJail)
 ### Guide
 
 Use the "**O**" key to set the position of the goose's jail.
-Use the "**K**" key to trap the goose.
+Use the "**P**" key to trap the goose. (Sorry, the website said to use the K key before but that is wrong.)
 
 ### DO NOT MODIFY THE GOOSE JAIL IMAGE OR THE MOD WONT WORK PROPERLY
