@@ -1,5 +1,5 @@
 {% include analytics.html %}
-![Desktop Goose Resource Hub!](/assets/images/banner.png)
+![Desktop Goose Resource Hub!](/assets/images/highresbanner.png)
 
 ---
 
