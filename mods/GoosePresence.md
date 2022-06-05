@@ -19,7 +19,7 @@ Get it: [GoosePresence.zip](https://cdn.discordapp.com/attachments/6766166746019
 
 Goose Version: **v0.3**
 
-Mod Version: **1.0.1**
+Mod Version: **1.0.5**
 
 Author: **vis#5001**
 
