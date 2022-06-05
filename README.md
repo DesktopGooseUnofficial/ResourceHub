@@ -40,12 +40,10 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
-* [extra goose memes clean and modified version by GamerBoi153.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
 
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
-* [GamerBoi153's Notepad Pack](notepads/GamerBoi153sNotepad.md)
 
 ## FAQs 🤔❓
 
