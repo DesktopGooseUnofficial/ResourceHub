@@ -14,6 +14,8 @@ warning screen.
 
 Made with love and a bit of Goose.
 
+All credits to the original author.
+
 Get it: [GoosePresence_FIXED.zip](https://cdn.discordapp.com/attachments/676616674601992223/982763820344832011/GoosePresence_FIXED.zip)
 ([Source](https://github.com/GenaroYT/GoosePresenceFIXED))
 
