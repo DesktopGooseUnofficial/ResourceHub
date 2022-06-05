@@ -22,9 +22,11 @@ Goose Version: **v0.3**
 Mod Version: **1.0.1**
 
 Author: **vis#5001**
+
 Repaired By: **G1nX#0746**
 
 Look inside: [Old Source](https://github.com/VisualError/GoosePresence/)
+
 [Fixed Source](https://github.com/GenaroYT/GoosePresenceFIXED)
 
 {% include install_guide.md modname="GoosePresence" iszip=true %}
