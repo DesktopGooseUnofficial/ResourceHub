@@ -1,5 +1,5 @@
 {% include analytics.html %}
-![Desktop Goose Resource Hub!](https://i.imgur.com/z2Q1REa.png)
+![Desktop Goose Resource Hub!](/assets/images/banner.png)
 
 ---
 
@@ -16,7 +16,7 @@
 
 [Download the Goose](https://samperson.itch.io/desktop-goose). Using mods requires downloading the vanilla goose first.
 
-[Support Sam by giving him money via Patreon](https://patreon.com/sammakesvr).
+[Support Sam by giving him money via Patreon](https://www.patreon.com/SamMakesThings).
 
 ### [Join Our Discord For News And Updates!](https://discord.gg/W4kTbaV)
 
@@ -34,18 +34,16 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 
 * [Game List](info/GameTestList.md)
 * [How To Download And Activate Mods](https://youtu.be/EMsGJrRMLCs?t=33)
-* [How To Stop Desktop Goose](https://github.com/DesktopGooseUnoffical/ResourceHub/blob/master/tutorials/StopDesktopGoose.md)
+* [How To Stop Desktop Goose](https://www.youtube.com/watch?v=pIpmH964mUk)
 
 ## Memes 😛
 
 * [extra goose memes.zip](https://drive.google.com/open?id=1S2yiLiCbFEkdQM-qZnr1C6QKIfHMxo0E)
 * [extra goose memes.zip (png)](https://drive.google.com/open?id=1QxU0p0pKbcg0KcML-9x-DqYQHUCzwSEn)
-* [extra goose memes clean and modified version by GamerBoi153.zip](https://drive.google.com/open?id=1jL6vwNph1kP05Ncz_XVOyjncNR3uPDzg)
 
 ## Notepad Packs 📋
 
 * [SF008's Notepad Pack](notepads/superflower008.md)
-* [GamerBoi153's Notepad Pack](notepads/GamerBoi153sNotepad.md)
 
 ## FAQs 🤔❓
 
@@ -66,25 +64,25 @@ All content related to mods has moved! [Find mods by clicking here](mods/explore
 ### Q&A
 
 Q: How do I uninstall the goose?
-A: Delete the DesktopGoose folder and all of its contents.
+<br>A: Delete the Desktop Goose folder and all of its contents.
 
 Q: Does Desktop Goose support more than one monitor?
-A: No, and it’s not planned at the moment. It works on one screen even if you have multiple monitors, and getting the goose to walk across screens is a whole thing.
+<br>A: No, and it’s not planned at the moment. It works on one screen even if you have multiple monitors, and getting the goose to walk across screens is a whole thing.
 
 Q: Will there be mod support on MacOS?
-A: This is not likely to happen soon
+<br>A: This is not likely to happen soon.
 
-Q: How do I make the goose do xyz
-A: Most things about the goose are configurable in the goose.ini, alternatively if you are using Desktop Goose on MacOS you can configure the goose via Desktop Goose application. 
+Q: How do I make the goose do xyz?
+<br>A: Most things about the goose are configurable in the goose.ini, alternatively if you are using Desktop Goose on MacOS you can configure the goose via Desktop Goose application. 
 
 Q. What operating systems are officially supported?
-A: Windows, MacOS, the next port in line is for the Samsung Smart Fridge:™️:
+<br>A: Windows, MacOS, the next port in line is for the Samsung Smart Fridge<sup>TM</sup>.
 
 Q: Is the goose safe to run with video games?
-A: It depends, the goose biting the cursor may trigger anticheats in some multiplayer games. A community-maintained safety list is hosted [here](https://desktopgooseunofficial.github.io/ResourceHub/info/GameTestList.html)
+<br>A: It depends, the goose biting the cursor may trigger anticheats in some multiplayer games. A community-maintained safety list is hosted [here](https://desktopgooseunofficial.github.io/ResourceHub/info/GameTestList.html).
 
 Q: How do I add custom text boxes, or images for the goose to drag?
-A: In the DesktopGoose folder, there is an “Assets” folder - Add your own text and image files to the proper Images/Memes and Text locations in there!
+<br>A: In the DesktopGoose folder, there is an “Assets” folder - Add your own text and image files to the proper Images/Memes and Text locations in there!
 
 ## Want to help our GitHub or submit a Mod?
 

@@ -15,15 +15,19 @@ This mod allows the Goose to use telepathy to channel its wondrous thoughts and 
 
 # Download
 
-Get it: [GoosePresence.zip](https://github.com/VisualError/GoosePresence/releases/latest/download/GoosePresence.zip)
+Get it: [GoosePresence.zip](https://cdn.discordapp.com/attachments/676616674601992223/982763820344832011/GoosePresence_FIXED.zip)
 
 Goose Version: **v0.3**
 
-Mod Version: **1.0.1**
+Mod Version: **1.0.5**
 
 Author: **vis#5001**
 
-Look inside: [Source](https://github.com/VisualError/GoosePresence/)
+Repaired By: **G1nX#0746**
+
+Look inside: [Old Source](https://github.com/VisualError/GoosePresence/)
+
+[Fixed Source](https://github.com/GenaroYT/GoosePresenceFIXED)
 
 {% include install_guide.md modname="GoosePresence" iszip=true %}
 
