@@ -7,6 +7,14 @@
 
 # Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
 ---
+
+
+## Want to support the goose more?
+Samperson has partnered up with makeship to create a plush
+[Click here if you want to buy it, your support would be greatly appreciated](https://makeship.com/products/desktop-goose-plush)
+![Plushie!](/assets/images/plushpromo.png)
+
+---
 {% include launcher_advert.md %}
 
 ---
