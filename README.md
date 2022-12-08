@@ -6,14 +6,6 @@
 [![Discord](https://img.shields.io/discord/717822718728470636?logo=discord&style=social)](https://discord.gg/xQhVPyX) [![GitHub contributors](https://img.shields.io/github/contributors/DesktopGooseUnofficial/ResourceHub?label=Contributors&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/graphs/contributors) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DesktopGooseUnofficial/ResourceHub?label=website%20changes&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master) [![GitHub last commit](https://img.shields.io/github/last-commit/DesktopGooseUnofficial/ResourceHub?label=Last%20website%20change&logo=github&style=social)](https://github.com/DesktopGooseUnofficial/ResourceHub/commits/master)
 
 # Welcome to ResourceHub, the unofficial website/repository for everything Desktop Goose.
----
-
-
-## Want to support the goose more?
-Samperson has partnered up with makeship to create a plush
-
-[Click here ](https://makeship.com/products/desktop-goose-plush) if you want to buy it, your support would be greatly appreciated
-[![Plushie!](/assets/images/plushpromo.png)](https://makeship.com/products/desktop-goose-plush)
 
 ---
 {% include launcher_advert.md %}
