@@ -1,33 +1,27 @@
 {% include analytics.html %}
 
 # ✅ Goose Jail ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/WackyModer/GooseJail/total?logo=github)
-### A Mod That Adds Discord RPC Capabilities to our beloved Goose. 
 
 Allows you to trap the goose in a cage. You may also free the goose and choose its (The jail's) position.
 
-# Preview
+## Preview
 ![Preview](https://i.imgur.com/5LeUS25.png)
 
 ## Features
 
- - Allows you to trap the goose.
+ - Allows you to trap the goose. Use the **O** key to set the position and **P** to trap him.
  - The goose is sad and will no longer chase your mouse if he was chasing your mouse before.
 
-# Download
+## Download
 
-Get it: [GooseJail.zip](https://github.com/WackyModer/GooseJail/releases/download/Mod/GooseJail.zip)
+Get it: [GooseJail.zip](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/goosejail/GooseJail.zip) ([Source](https://github.com/WackyModer/GooseJail))
 
 Goose Version: **v0.3**
 
 Mod Version: **1.0.0**
 
-Author: **Ẃₐc͈ͅₖy͞ₘ̬̥͝ₒ́ḑ̘̳ₑ̶̞̤ᵣ̛̟̦#4728**
+Author: **WackyModer**
 
-Look inside: [Source](https://github.com/WackyModer/GooseJail)
----
-### Guide
+----
 
-Use the "**O**" key to set the position of the goose's jail.
-Use the "**P**" key to trap the goose. (Sorry, the website said to use the K key before but that is wrong.)
-
-### DO NOT MODIFY THE GOOSE JAIL IMAGE OR THE MOD WONT WORK PROPERLY
+{% include install_guide.md modname="GooseJail" iszip=true %}
