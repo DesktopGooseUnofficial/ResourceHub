@@ -8,8 +8,7 @@ p.s: Be careful when dragging the goose, you will still highlight/select stuff i
 
 ## Download
 
-Get it: [DragGoose.dll](https://github.com/euandeas/GooseMod_DragGoose/releases/tag/1.0)
-([Source](https://github.com/euandeas/GooseMod_DragGoose))
+Get it: [DragGoose.dll](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/draggoose/DragGoose.dll) ([Source](https://github.com/euandeas/GooseMod_DragGoose))
 
 Goose Version: **v0.3**
 
