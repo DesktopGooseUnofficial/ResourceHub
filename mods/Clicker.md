@@ -6,16 +6,14 @@ If you want to make your goose even more chaotic, then this mods for you. It wil
 
 Make the goose more annoying!
 
-## Downloads
+## Download
 
-[Clicker](https://github.com/NE1W01F/Gooes-Mod/blob/master/Clicker/bin/Debug/netstandard2.0/Clicker.dll?raw=true)
+Get it: [Clicker](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/clicker/Clicker.dll) ([Source](https://github.com/NE1W01F/Gooes-Mod))
 
-## Requirements
+Goose Version: **v0.3**
 
-DesktopGoose **v0.3**
+Mod Version: **1.5**
 
-## Source code
-
-[The Clicker source code can be viewed here](https://github.com/NE1W01F/Gooes-Mod).
+----
 
 {% include install_guide.md modname="Clicker" iszip=false %}
