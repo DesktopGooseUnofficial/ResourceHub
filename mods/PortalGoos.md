@@ -1,6 +1,6 @@
 {% include analytics.html %}
 
-# ✅ PortalGoos       ![GitHub All Releases](https://img.shields.io/github/downloads/moonaliss1/DesktopGooseMod_PortalGoos/v1.1/total?label=Downloads)
+# ✅ PortalGoos ![GitHub All Releases](https://img.shields.io/github/downloads/moonaliss1/DesktopGooseMod_PortalGoos/v1.1/total?label=Downloads)
 
 Portal mod for your Goos!
 
@@ -11,12 +11,12 @@ and it'll take the meme with it, which allows you to create some infinite loops
 - cursor - it can teleport with your cursor in its beak
 
 # Download
-Download : [PortalGoos.zip](https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos/releases/tag/v1.1)([Source](https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos))
+Download: [PortalGoos.zip](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/portalgoos-1.1/PortalGoos.zip) ([Source](https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos))
 
-Goose Version : **0.3**
+Goose Version: **0.3**
 
-Mod Version : **1.1**
+Mod Version: **1.1**
 
-Author : **Moonaliss#9590**
+Author: **Moonaliss#9590**
 
 {% include install_guide.md modname="PortalGoos" iszip=true %}
