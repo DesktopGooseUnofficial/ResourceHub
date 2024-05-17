@@ -6,7 +6,7 @@
 
 give your goos a hat (or your hat a goos if you prefer)
 
-Get it: [HatGoos.zip](https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip)
+Get it: [HatGoos.zip](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/hatgoos-0.3/HatGoos.zip)
 ([Source](https://github.com/nike4613/GoosMods.3/tree/master/HatGoos))
 
 Goose Version: **v0.3**
