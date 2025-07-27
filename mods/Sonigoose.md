@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Sonigoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/CodeF53/DskptGoose-Sonigoose/total?logo=github)
+# Sonigoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/CodeF53/DskptGoose-Sonigoose/total?logo=github)
 
 ## Features
 
@@ -12,7 +10,7 @@ Makes your goose go 2.5x as fast
 
 Gives your goose a fresh sonic themed haircut
 
-Get it: [Sonigoose](https://github.com/CodeF53/DskptGoose-Sonigoose/releases/download/v1.0/Sonicgoose.dll)
+Get it: [Sonigoose](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/Sonicgoose/Sonicgoose.dll)
 
 Look inside: [SourceCode](https://github.com/CodeF53/DskptGoose-Sonigoose/tree/master/GooseMod_Sonigoose)
 

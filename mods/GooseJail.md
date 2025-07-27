@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Goose Jail ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/WackyModer/GooseJail/total?logo=github)
+# Goose Jail ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/WackyModer/GooseJail/total?logo=github)
 
 Allows you to trap the goose in a cage. You may also free the goose and choose its (The jail's) position.
 

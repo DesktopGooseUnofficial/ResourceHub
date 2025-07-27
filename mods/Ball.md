@@ -1,5 +1,3 @@
-{% include analytics.html %}
-
 # Ball ![GitHub All Releases](https://img.shields.io/github/downloads/TheOrlando/DesktopGooseMod_Ball/total?logo=github)
 
 Adds a ball for you and the goose to play with!
@@ -14,3 +12,7 @@ Goose Version: **0.3**
 Mod Version: **1.0**
 
 Author: **TheOrlando#9984**
+
+---
+
+{% include install_guide.md modname="BallModv1.0" iszip=true %}

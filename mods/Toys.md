@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Toys ![GitHub All Releases](https://img.shields.io/github/downloads/TheOrlando/DesktopGooseMod_Toys/total?logo=github)
+# Toys ![GitHub All Releases](https://img.shields.io/github/downloads/TheOrlando/DesktopGooseMod_Toys/total?logo=github)
 
 Toys mod for Desktop Goose
 
@@ -17,7 +15,7 @@ Same as BallMod
 Side note : Goose will shake for about 2 seconds after waking, i don't know why lol
 
 # Download
-Download : [ToysMod.zip](https://github.com/TheOrlando/DesktopGooseMod_Toys/releases/tag/latest)([Source](https://github.com/TheOrlando/DesktopGooseMod_Toys))
+Download: [ToysMod.zip](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/toys/ToysModv1.1.zip) ([Source](https://github.com/TheOrlando/DesktopGooseMod_Toys))
 
 Goose Version : **0.3**
 
@@ -25,4 +23,4 @@ Mod Version : **1.1**
 
 Author : **TheOrlando#9984**
 
-{% include install_guide.md modname="Toys" iszip=true %}
+{% include install_guide.md modname="ToysModv1.1.zip" iszip=true %}

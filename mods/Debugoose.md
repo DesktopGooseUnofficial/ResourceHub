@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Debugoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/Debugoose/total?logo=github)
+# Debugoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/Debugoose/total?logo=github)
 Gives your goose a set of debugging info, including stuff from `console.WriteLine()`. 
 
 The mod shows the 10 most recent console lines, saving the full console to log.txt

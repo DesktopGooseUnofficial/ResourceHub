@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ SizzurpMods ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/sizzurpmods-v1.3/total?logo=github)
+# SizzurpMods ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/desktopgooseunofficial/resourcehub/sizzurpmods-v1.3/total?logo=github)
 
 ## Features
 

@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# hatgoos ✅
+# hatgoos
 
 ## Features
 

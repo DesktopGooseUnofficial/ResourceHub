@@ -1,20 +1,6 @@
-## Launcher
-
-The launcher is an easier way to install and use mods.
-
-However, you can still manually download mods on this website!
-
-Grab a copy: [Launcher Download](https://github.com/DesktopGooseUnofficial/launcher/releases/latest).
-
 ## Installation guide
 
-First, make sure that you are running Desktop Goose v0.3.
-
-There should be a "Mods" folder in the "Assets" folder. If not, you're running v0.2.
-Go to the [Desktop Goose page on itch.io](https://samperson.itch.io/desktop-goose) to download v0.3.
-The macOS version does not support mods yet.
-
-**Need help? Something not working right?** Feel free to ask for support in the [#goose-mods channel on the discord server](https://discord.gg/yjGFsUD). 
+First, make sure that you are running [Desktop Goose 0.3/0.31](https://samperson.itch.io/desktop-goose) on Windows. The macOS version does not support mods.
 
 0. If you have the Goose running, close him first.
 1. Go to the `Mods` folder in the `Assets` folder. {% if include.iszip %}
@@ -23,6 +9,7 @@ The macOS version does not support mods yet.
 2. Create a folder with the name `{{ include.modname }}`.
 3. Place the `{{ include.modname }}.dll` file inside the `{{ include.modname }}` folder. {% endif %}
 4. Go back to the Desktop Goose folder.
-5. If you haven't already, open `config.ini` and change `EnableMods=False` to `EnableMods=True`
-6. If you haven't already, save the `config.ini` file.
-7. Done!
+5. If you haven't already, open the `config.ini` file and change `EnableMods=False` to `EnableMods=True`, then save it.
+7. Open the Goose again and enjoy!!
+
+**Need help?** You can ask for support in the [#goose-modding channel on the Discord server](https://discord.gg/avXP7hsUt2). 

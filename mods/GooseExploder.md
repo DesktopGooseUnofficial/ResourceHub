@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Kamikagoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseExploder/total?logo=github)
+# Kamikagoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Vortetty/GooseExploder/total?logo=github)
 
 ## Features
 

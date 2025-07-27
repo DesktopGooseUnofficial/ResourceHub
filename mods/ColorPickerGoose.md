@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Color Picker Goose ![download counter](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/goosecolorpicker/total?label=downloads&logo=github&style=plastic)
+# Color Picker Goose ![download counter](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/goosecolorpicker/total?label=downloads&logo=github&style=plastic)
 Use a color picker to select a color for your goose instead of setting it in the config
 Simplifies running multiple nametagged geese.
 Shows a Windows color dialog box on launch, like the one used in MS Paint.

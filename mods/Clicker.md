@@ -1,10 +1,6 @@
-{% include analytics.html %}
+# Clicker
 
-# ⚠️ Clicker
-
-If you want to make your goose even more chaotic, then this mods for you. It will randomly click and open applications on your desktop. 
-
-Make the goose more annoying!
+If you want to make your goose even more chaotic, then this mod's for you. It will randomly click and open applications on your desktop.  Make the goose more annoying!
 
 ## Download
 

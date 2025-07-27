@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Acid Goose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/AcidGoose/total?logo=github)
+# Acid Goose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/AcidGoose/total?logo=github)
 
 **A very weird version of the Goose we know and love ❤**
 
@@ -11,6 +9,8 @@ Goose Version: **v0.3**
 Author: **⧹ F!NN ⧸#1580**
 
 The code is kinda trash but I am still learning... Please dont blame me o.O
+
+{% include install_guide.md modname="AcidGoose" iszip=true %}
 
 ## Source code
 
@@ -69,4 +69,3 @@ public void PostTick(GooseEntity g)
                 
             } 
 ```
-{% include install_guide.md modname="AcidGoose" iszip=true %}

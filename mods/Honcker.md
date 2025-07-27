@@ -1,6 +1,4 @@
-{% include analytics.html %}
-
-# ✅ Honcker ![download count badge](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/honcker/total?label=downloads&logo=github&style=plastic)
+# Honcker ![download count badge](https://img.shields.io/github/downloads/DesktopGooseUnofficial/ResourceHub/honcker/total?label=downloads&logo=github&style=plastic)
 A very simple mod that allows you to make your goose honk at will with the F key
 
 ## Downloads

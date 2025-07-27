@@ -1,5 +1,3 @@
-{% include analytics.html %}
-
 # OnePunchGoose ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/VisualError/OnePunchGoose/total?logo=github) ![GitHub Releases (by Release)](http://img.shields.io/github/release/VisualError/OnePunchGoose.svg)
 ### A Mod to Punch Problems away! 
 
@@ -13,7 +11,7 @@ Please keep in mind that this mod will move your cursor and displays lots of par
 
 # Download
 
-Get it: [One Punch Goose](https://github.com/VisualError/OnePunchGoose/releases/latest/download/OnePunchGoose.dll)
+Get it: [One Punch Goose](https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/onepunchgoose/OnePunchGoose.dll)
 
 Look inside: [Source](https://github.com/VisualError/OnePunchGoose/)
 
