@@ -23,6 +23,7 @@
 * [GooseJail](../GooseJail.md)
 * [OnePunchGoose](../OnePunchGoose.md)
 * [Clicker](../Clicker.md)
+* [GooseAI](../GooseAI.md)
 
 ---
 
