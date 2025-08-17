@@ -39,4 +39,4 @@ Author: [eternalshell](https://github.com/Vexicle)
 
 ----
 
-{% include install_guide.md modname="GooseAI" iszip=false %}
+{% include install_guide.md modname="GooseAI" isplainzip=true %}
